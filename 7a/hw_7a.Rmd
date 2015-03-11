@@ -9,20 +9,92 @@ output: html_document
 *March 11, 2015*
 
 ### Preliminaries
-We are interested in analyzing data about individual basketball player box score statistics. First, we will load in the proper libraries and data. 
-
-```{r results='hide', message=FALSE, warning=FALSE}
+We are interested in analyzing data about individual basketball player box score statistics. First, we will load in the proper libraries and data. We chose to load [data about all professional basketball players](http://www.nbastuffer.com/Download_NBA_Box_Score_Stats_in_Excel.html) who played in the 8 day period between 4-11-14 and 4-19-14 in the 2013-2014 regular NBA season.
+```{r message=FALSE, warning=FALSE}
 require(ggplot2)
 
-data <- read.csv('dating_data.csv', header=T)
+data <- read.csv('nba_sample.csv', header=T)
+head(data)
 ```
 
 
-1. Make some static plots and write a plan of what you want to do in the dynamic graph. Put this together as a short (approximately three-page) document. We will discuss in class, then next time you will have to make the dynamic version.
+### The Motivating Question
+We wanted to investigate the abilities of individual NBA players per game. We thought one good way to measure the ability of an NBA player is by seeing the correlation between his different box office statistics from past games. If a player is high-performing in one specific aspect of the game, we would like to see if he is also high-performing in another aspect of the game. As we can see above, there are quite a few box office statistics stored about each NBA player, but we like to focus on the correlation between one of the box office statistics and the number of points scored.
+
+To begin, we first investigated the correlation between the total number of minutes in a game the player played and the points the player scored.
+
+```{r, echo=FALSE}
+ggplot(data=data, aes(x=MIN, y=PTS)) +
+  geom_point() +
+  xlab('Minutes Played Per Game') +
+  ylab('Points Scored Per Game') +
+  ggtitle('Points vs. Minutes For Each Player\'s Game Appearance')
+```
+
+This plot illuminates a generally positive correlation between the number of minutes played in a game and the number of points scored in a game. However, it is very difficult to tell which data points are represented by the certain subsets of players or individual players. 
+
+
+### Static Plots of Players with Similar Statistics
+We first wanted to investage the similar of individual game performance of subsets of NBA basketball players with more similar box score statistics. Is the relationship between minutes played and points scored stronger when we consider players with similar play styles?
+
+To do this, we investigated different subsets of the data. For instance, in the graph below, we consider the box score statistics of players who only played half of the game or less.
+
+```{r, echo=FALSE}
+data.lessplayed <- subset(data, data$MIN < 24)
+ggplot(data=data.lessplayed, aes(x=MIN, y=PTS)) +
+  geom_point() +
+  xlab('Minutes Played Per Game (Max is Half a Game)') +
+  ylab('Points Scored Per Game') +
+  ggtitle('Points vs. Minutes For Each Player Who Played Half a Game or Less')
+```
+
+However, there are many possible permutations of ranges of minutes played and points scored to consider. It would be impossible to generate every single static scatterplot of the relationship between every possible range of minutes played and points scored. Thus, we believe this is a perfect opportunity to use a dynamic graph. This dynamic graph would allow the user to select the ranges of minutes played and points scored that he believes is relevant and important to consider. Thus, the user is happy in being able to analyze the results according to his desires, and we are happy that we didn't have to generate a ridiculous number of graphs beforehand.
+
+For specific implementation, we imagine there can be two slider bars on the side panel of the Shiny dynamic graph. Each slider bar can represent the range of values of the minutes played and points scored that the user will want to analyze. Then, our dynamic graph will adjust to the user input values and update the scatterplot graph view.
+
+### Static Plots of Individual Players
+We also thought it would be interesting to see the data points of the same individual NBA player in different games in order to better understand the consistency of the player's ability. The NBA player may have just had a fluke instance of playing extremely well or extremely poorly in a single game. Furthermore, it would be interesting to easily see the relative ability of the individual NBA player compared to the rest of the players in the league. Does his game performance tend to fall in the middle of the pack? On average, does his game performance tend to fall above most of the players? Or is his game performance extremely sporadic and seemingly random?
+
+Below, we plot the same scatterplot. However, this time, we highlight the box score statistics of the games that LeBron James played. We also plotted two lines at the mean value for the minutes played per game and the points scored per game. This allows us to compare the performance of LeBron James against the game performance of an average NBA basketball player.
+```{r, echo=FALSE}
+player.name = "LeBron James"
+data$highlight <- ifelse(data$PLAYER == player.name, "highlight", "normal")
+colors <- c("highlight" = "red", "normal" = "black")
+
+ggplot(data=data, aes(x=MIN, y=PTS, col=highlight)) +
+  geom_point() +
+  geom_hline(yintercept=mean(data$PTS), alpha=0.4) +
+  geom_vline(xintercept=mean(data$MIN), alpha=0.4) +
+  scale_color_manual("Player Legend", values=colors, labels=c(player.name, "Rest of Players")) +
+  xlab('Minutes Played Per Game') +
+  ylab('Points Scored Per Game') +
+  ggtitle('Points vs. Minutes For Each Player\'s Game Appearance')
+
+```
+
+We can see from the above graph that LeBron James performs above average in both the total number of minutes played and the number of points scored in individual games compared to the average NBA player performance per game. But, how does he compare to Stephen Curry on the Warriors?
 
 
 ```{r, echo=FALSE}
-plot(cars)
+player.name.1 = "LeBron James"
+player.name.2 = "Stephen Curry"
+
+data$highlight <- rep("normal", length(data$PLAYER))
+data$highlight[data$PLAYER == player.name.1] <- "highlight1"
+data$highlight[data$PLAYER == player.name.2] <- "highlight2"
+  
+colors <- c("highlight1" = "red", "highlight2" = "blue", "normal" = "black")
+
+ggplot(data=data, aes(x=MIN, y=PTS, col=highlight)) +
+  geom_point() +
+  geom_hline(yintercept=mean(data$PTS), alpha=0.4) +
+  geom_vline(xintercept=mean(data$MIN), alpha=0.4) +
+  scale_color_manual("Player Legend", values=colors,
+                     labels=c(player.name.1, player.name.2, "Rest of Players")) +
+  xlab('Minutes Played Per Game') +
+  ylab('Points Scored Per Game') +
+  ggtitle('Points vs. Minutes For Each Player\'s Game Appearance')
+
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+In general, we think it would be handy to create a dynamic graph that allows users to be able to select one or more individual players and see their performance compared to the rest of the league's per-game performance. We plan to do this by having a text box in our Shiny app that allows users to enter in the name of an NBA player that they can examine. Ideally, the user can type in multiple player names into the text box such that he can see multiple individual player data points as we have shown in the graph above. We would also love to make the dynamic graph even more interactive for the user. Specifically, if the user hovers over a data point in the scatterplot, we would like to highlight the additional data points related to the same individual NBA player and create a text box to describe the player's summary statistics over the multiple games.

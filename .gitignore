@@ -1,3 +1,4 @@
 # files that need to be ignored
 
 .DS_STORE
+.html
