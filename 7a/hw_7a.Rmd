@@ -1,0 +1,28 @@
+---
+title: "hw_7a"
+output: html_document
+---
+
+### Homework 7a
+*Ali Nahm and Alex Mao*
+
+*March 11, 2015*
+
+### Preliminaries
+We are interested in analyzing data about individual basketball player box score statistics. First, we will load in the proper libraries and data. 
+
+```{r results='hide', message=FALSE, warning=FALSE}
+require(ggplot2)
+
+data <- read.csv('dating_data.csv', header=T)
+```
+
+
+1. Make some static plots and write a plan of what you want to do in the dynamic graph. Put this together as a short (approximately three-page) document. We will discuss in class, then next time you will have to make the dynamic version.
+
+
+```{r, echo=FALSE}
+plot(cars)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
