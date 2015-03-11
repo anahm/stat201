@@ -1,5 +1,5 @@
 library(shiny)
-
+data = read.csv("nba_sample.csv")
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
 
@@ -11,10 +11,14 @@ shinyServer(function(input, output) {
   #  2) Its output type is a plot
 
   output$distPlot <- renderPlot({
-    x    <- faithful[, 2]  # Old Faithful Geyser data
-    bins <- seq(min(x), max(x), length.out = input$bins + 1)
+    x    <- data$MIN[data$PTS <= input$points[2] & data$MIN <= input$minutes[2] & data$PTS >= input$points[1] & data$MIN >= input$minutes[1] & data$TOT <= input$rebounds & data$A <= input$assists & data$ST <= input$steals & data$BL <= input$blocks]  # NBA Minute Data
+    y    <- data$PTS[data$PTS <= input$points[2] & data$MIN <= input$minutes[2] & data$PTS >= input$points[1] & data$MIN >= input$minutes[1] & data$TOT <= input$rebounds & data$A <= input$assists & data$ST <= input$steals & data$BL <= input$blocks]  # NBA Points Data
 
     # draw the histogram with the specified number of bins
-    hist(x, breaks = bins, col = 'darkgray', border = 'white')
+    plot(x, y, xlab = "Minutes", ylab = "Points")
   })
 })
+
+
+
+#  
