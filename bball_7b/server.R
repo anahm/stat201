@@ -1,21 +1,38 @@
 library(shiny)
+library(ggplot2)
+
 data = read.csv("../bball_7a/nba_sample.csv")
-# Define server logic required to draw a histogram
+
+
 shinyServer(function(input, output) {
 
-  # Expression that generates a histogram. The expression is
-  # wrapped in a call to renderPlot to indicate that:
-  #
-  #  1) It is "reactive" and therefore should re-execute automatically
-  #     when inputs change
-  #  2) Its output type is a plot
-
   output$distPlot <- renderPlot({
-    x    <- data$MIN[data$PTS <= input$points[2] & data$MIN <= input$minutes[2] & data$PTS >= input$points[1] & data$MIN >= input$minutes[1] & data$TOT <= input$rebounds & data$A <= input$assists & data$ST <= input$steals & data$BL <= input$blocks]  # NBA Minute Data
-    y    <- data$PTS[data$PTS <= input$points[2] & data$MIN <= input$minutes[2] & data$PTS >= input$points[1] & data$MIN >= input$minutes[1] & data$TOT <= input$rebounds & data$A <= input$assists & data$ST <= input$steals & data$BL <= input$blocks]  # NBA Points Data
+    # subset the data
+    subset.data <- subset(data, data$PTS <= input$points[2] &
+      data$MIN <= input$minutes[2] & data$PTS >= input$points[1] &
+      data$MIN >= input$minutes[1] & data$TOT <= input$rebounds &
+      data$A <= input$assists & data$ST <= input$steals &
+      data$BL <= input$blocks)
 
-    # draw the histogram with the specified number of bins
-    plot(x, y, xlab = "Minutes", ylab = "Points")
+    # pick player data we want to highlight
+    subset.data$highlight <- ifelse(subset.data$PLAYER == input$player,
+      "highlight", "normal")
+    colors <- c("highlight" = "red", "normal" = "black")
+
+    # plot scatter plot of min vs. pts
+    p <- ggplot(data=subset.data, aes(x=MIN, y=PTS, col=highlight)) +
+      geom_point() +
+      geom_hline(yintercept=mean(data$PTS), alpha=0.4) +
+      geom_vline(xintercept=mean(data$MIN), alpha=0.4) +
+      scale_color_manual("Player Legend", values=colors,
+        labels=c(input$player, "Rest of Players")) +
+      xlab('Minutes Played Per Game') +
+      ylab('Points Scored Per Game') +
+      ggtitle('Points vs. Minutes For Each Player\'s Game Appearance')
+
+    print(p)
+
+
   })
 })
 

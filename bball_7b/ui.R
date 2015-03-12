@@ -6,14 +6,16 @@ shinyUI(fluidPage(
   # Application title
   titlePanel("Basketball Analysis"),
 
-  # Sidebar with a slider input for the number of bins
+  # Sidebar with textbox and a bunch ofslider inputs
   sidebarLayout(
     sidebarPanel(
+      textInput("player", "Insert Player Name: "),
       sliderInput("points",
                   "Number of points:",
                   min = 1,
                   max = 51,
-                  value = c(1,51)),
+                  value = c(1,51),
+                  step = 1),
       sliderInput("minutes",
                   "Number of minutes:",
                   min = 0,
