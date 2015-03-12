@@ -1,5 +1,5 @@
 library(shiny)
-data = read.csv("nba_sample.csv")
+data = read.csv("../bball_7a/nba_sample.csv")
 # Define server logic required to draw a histogram
 shinyServer(function(input, output) {
 
@@ -19,6 +19,3 @@ shinyServer(function(input, output) {
   })
 })
 
-
-
-#  
