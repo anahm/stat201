@@ -5,17 +5,20 @@ require(foreign)
 
 data = read.dta("crime.dta")
 names(data)
+data = subset(data, VICAGE < 99)
+data = subset(data, OFFAGE < 99)
 
 shinyServer(function(input, output) {
 
-  output$distPlot <- renderPlot({
+  output$b_distPlot <- renderPlot({
     # subset the data
-     subset.data <- Filterdata[, data['WEAPON'] %in% input$weapon]
-    print(length(input$weapon))
-    
+     subset.data <- subset(data, WEAPON %in% input$weapon)
+     
+     
     p <- ggplot(data=subset.data) +
       geom_histogram(aes(x=YEAR))
     print(p)
+    
     
  
 #     # pick player data we want to highlight
@@ -37,5 +40,16 @@ shinyServer(function(input, output) {
 #     print(p)
 
   })
+
+output$a_distPlot <- renderPlot({
+  # subset the data
+  subset.data <- subset(data, WEAPON %in% input$weapon)
+  
+  
+  q <- ggplot(data=subset.data) +
+    geom_point(aes(x=VICAGE, y = OFFAGE))
+  print(q)
+  
 })
 
+})

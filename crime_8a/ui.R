@@ -10,33 +10,39 @@ shinyUI(fluidPage(
   sidebarLayout(
     sidebarPanel(
       checkboxGroupInput("weapon", "Weapon Type:",
-                         c("Shotgun" = "shotgun",
-                           "Handgun" = "handgun",
-                           "Rifle" = "rifle",
-                           "Blunt Object" = "blunt",
-                           "Knife" = "knife",
-                           "Personal Weapon" = "personal",
-                           "Strangulation" = "strang",
-                           "Unknown" = "unknown",
-                           "Firearm" = "firearm",
-                           "Drowning" = "drown",
-                           "Fire" = "fire",
-                           "Explosives" = "explo",
-                           "Asphyxiation" = "asp",
-                           "Drugs" = "drugs",
-                           "Other Gun" = "other",
-                           "Poison" = "poison",
-                           "Pushed out Window" = "window"),
+                         c("Shotgun" = "Shotgun",
+                           "Handgun" = "Handgun",
+                           "Rifle" = "Rifle",
+                           "Blunt Object" = "Blunt Object",
+                           "Knife" = "Knife",
+                           "Personal Weapon" = "Personal Weapon",
+                           "Strangulation" = "Strangulation",
+                           "Unknown" = "Unknown",
+                           "Firearm" = "Firearm",
+                           "Drowning" = "Drowning",
+                           "Fire" = "Fire",
+                           "Explosives" = "Explosives",
+                           "Asphyxiation" = "Asphyxiation",
+                           "Drugs" = "Drugs",
+                           "Other Gun" = "Other Gun",
+                           "Poison" = "Poison",
+                           "Pushed out Window" = "Pushed out Window"),
                          selected = c("Shotgun","Handgun",
                            "Rifle","Blunt Object","Knife","Personal Weapon","Strangulation",
                            "Unknown","Firearm","Drowning","Fire","Explosives","Asphyxiation",
                            "Drugs","Other Gun","Poison","Pushed out Window"))
-    ),
+    , width = 2),
 
     # Show a plot of the generated distribution
     mainPanel(
-      plotOutput("distPlot")
+      fluidRow(
+        column(6,
+               plotOutput("a_distPlot", height = "600px")
+        ),
+        column(6,
+               plotOutput("b_distPlot", height = "600px")
+        )
     )
   )
-))
+)))
 
