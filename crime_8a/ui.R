@@ -28,19 +28,9 @@ shinyUI(fluidPage(
                            "Poison" = "poison",
                            "Pushed out Window" = "window"),
                          selected = c("Shotgun","Handgun",
-                           "Rifle","Blunt Object","Knife",
-                           "Personal Weapon" = "personal",
-                           "Strangulation" = "strang",
-                           "Unknown" = "unknown",
-                           "Firearm" = "firearm",
-                           "Drowning" = "drown",
-                           "Fire" = "fire",
-                           "Explosives" = "explo",
-                           "Asphyxiation" = "asp",
-                           "Drugs" = "drugs",
-                           "Other Gun" = "other",
-                           "Poison" = "poison",
-                           "Pushed out Window" = "window"))
+                           "Rifle","Blunt Object","Knife","Personal Weapon","Strangulation",
+                           "Unknown","Firearm","Drowning","Fire","Explosives","Asphyxiation",
+                           "Drugs","Other Gun","Poison","Pushed out Window"))
     ),
 
     # Show a plot of the generated distribution
