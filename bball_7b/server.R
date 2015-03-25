@@ -1,7 +1,7 @@
 library(shiny)
 library(ggplot2)
 
-data = read.csv("../bball_7a/nba_sample.csv")
+data = read.csv("nba_sample.csv")
 
 
 shinyServer(function(input, output) {

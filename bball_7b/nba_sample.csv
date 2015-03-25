@@ -1,0 +1,1152 @@
+DATA SET,DATE,PLAYER,"OWN
+TEAM","OPPONENT
+TEAM","VENUE
+(R/H)",MIN,FG,FGA,3P,3PA,FT,FTA,OR,DR,TOT,A,PF,ST,TO,BL,PTS
+2013-2014 Regular Season,4/11/14,Trevor Ariza,Washington,Orlando,R,27.49,3,10,0,4,2,2,1,2,3,2,2,1,0,0,8
+2013-2014 Regular Season,4/11/14,Trevor Booker,Washington,Orlando,R,28.07,7,10,0,0,0,0,1,2,3,0,0,0,1,1,14
+2013-2014 Regular Season,4/11/14,Marcin Gortat,Washington,Orlando,R,30.94,4,12,0,0,4,4,2,4,6,3,3,0,3,1,12
+2013-2014 Regular Season,4/11/14,Bradley Beal,Washington,Orlando,R,35.35,4,10,2,5,6,10,2,2,4,1,4,3,1,0,16
+2013-2014 Regular Season,4/11/14,John Wall,Washington,Orlando,R,37.12,3,10,0,5,4,4,1,4,5,12,3,0,1,1,10
+2013-2014 Regular Season,4/11/14,Nene Hilario,Washington,Orlando,R,19.92,7,11,0,0,3,6,1,2,3,2,0,1,2,1,17
+2013-2014 Regular Season,4/11/14,Martell Webster,Washington,Orlando,R,7.52,0,2,0,1,1,2,0,0,0,0,0,1,1,0,1
+2013-2014 Regular Season,4/11/14,Otto Porter,Washington,Orlando,R,25.75,4,10,0,2,1,1,3,6,9,0,1,0,0,0,9
+2013-2014 Regular Season,4/11/14,Al Harrington,Washington,Orlando,R,16.99,3,7,0,2,3,4,2,7,9,0,0,1,1,0,9
+2013-2014 Regular Season,4/11/14,Garrett Temple,Washington,Orlando,R,0.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Andre Miller,Washington,Orlando,R,10.87,0,0,0,0,0,0,0,2,2,4,6,0,2,0,0
+2013-2014 Regular Season,4/11/14,Maurice Harkless,Orlando,Washington,H,30.44,1,4,0,1,0,0,0,2,2,0,3,0,1,0,2
+2013-2014 Regular Season,4/11/14,Kyle O'Quinn,Orlando,Washington,H,24.54,6,9,0,0,1,4,2,7,9,1,2,0,1,3,13
+2013-2014 Regular Season,4/11/14,Dewayne Dedmon,Orlando,Washington,H,24.92,1,7,0,0,2,2,4,6,10,1,3,1,1,1,4
+2013-2014 Regular Season,4/11/14,Arron Afflalo,Orlando,Washington,H,31.24,6,14,1,4,6,6,0,2,2,1,0,1,2,0,19
+2013-2014 Regular Season,4/11/14,Jameer Nelson,Orlando,Washington,H,33.97,5,16,0,5,2,4,2,5,7,11,4,2,4,0,12
+2013-2014 Regular Season,4/11/14,Andrew Nicholson,Orlando,Washington,H,22.15,2,8,0,1,0,0,2,3,5,1,6,1,0,0,4
+2013-2014 Regular Season,4/11/14,Doron Lamb,Orlando,Washington,H,19.12,4,5,3,4,0,0,0,1,1,1,2,1,0,0,11
+2013-2014 Regular Season,4/11/14,Victor Oladipo,Orlando,Washington,H,16,3,5,0,0,0,0,0,2,2,1,5,2,3,0,6
+2013-2014 Regular Season,4/11/14,Tobias Harris,Orlando,Washington,H,24.4,4,7,0,2,2,2,0,3,3,2,5,1,2,1,10
+2013-2014 Regular Season,4/11/14,E'Twaun Moore,Orlando,Washington,H,13.25,0,2,0,2,5,6,0,1,1,2,1,0,2,0,5
+2013-2014 Regular Season,4/11/14,Carmelo Anthony,New York,Toronto,R,38.89,8,17,1,3,13,14,1,7,8,3,3,3,2,0,30
+2013-2014 Regular Season,4/11/14,Amar'e Stoudemire,New York,Toronto,R,39.87,10,14,0,0,4,6,3,8,11,0,3,0,0,1,24
+2013-2014 Regular Season,4/11/14,Tyson Chandler,New York,Toronto,R,29.85,1,2,0,0,4,4,0,7,7,1,3,0,2,0,6
+2013-2014 Regular Season,4/11/14,J.R. Smith,New York,Toronto,R,36.4,4,10,3,9,4,4,0,1,1,1,4,0,2,1,15
+2013-2014 Regular Season,4/11/14,Raymond Felton,New York,Toronto,R,31.45,4,12,0,3,4,4,1,1,2,4,1,0,0,0,12
+2013-2014 Regular Season,4/11/14,Iman Shumpert,New York,Toronto,R,27.72,4,9,0,3,3,4,1,4,5,1,6,2,0,0,11
+2013-2014 Regular Season,4/11/14,Tim Hardaway,New York,Toronto,R,12.22,2,5,0,3,0,0,1,0,1,1,1,0,1,0,4
+2013-2014 Regular Season,4/11/14,Cole Aldrich,New York,Toronto,R,6.54,0,1,0,0,0,0,0,2,2,0,1,0,0,1,0
+2013-2014 Regular Season,4/11/14,Pablo Prigioni,New York,Toronto,R,17.09,2,3,2,3,0,0,0,2,2,5,2,1,1,0,6
+2013-2014 Regular Season,4/11/14,Terrence Ross,Toronto,New York,H,28.29,4,12,3,10,2,2,1,1,2,0,5,0,2,0,13
+2013-2014 Regular Season,4/11/14,Amir Johnson,Toronto,New York,H,17.05,0,1,0,0,0,0,0,3,3,2,1,0,0,1,0
+2013-2014 Regular Season,4/11/14,Jonas Valanciunas,Toronto,New York,H,37.47,5,14,0,0,4,7,8,13,21,0,2,1,1,1,14
+2013-2014 Regular Season,4/11/14,DeMar DeRozan,Toronto,New York,H,42.89,6,18,2,4,12,13,1,4,5,5,2,0,4,0,26
+2013-2014 Regular Season,4/11/14,Kyle Lowry,Toronto,New York,H,38.89,7,13,4,7,7,9,1,1,2,2,3,0,3,0,25
+2013-2014 Regular Season,4/11/14,Patrick Patterson,Toronto,New York,H,15.5,2,3,2,2,0,0,1,1,2,1,5,0,2,0,6
+2013-2014 Regular Season,4/11/14,Greivis Vasquez,Toronto,New York,H,19.45,2,6,2,4,0,0,0,2,2,3,0,0,2,1,6
+2013-2014 Regular Season,4/11/14,John Salmons,Toronto,New York,H,22.95,4,7,2,5,0,0,1,1,2,2,3,0,0,0,10
+2013-2014 Regular Season,4/11/14,Tyler Hansbrough,Toronto,New York,H,7.64,0,0,0,0,0,0,0,1,1,1,1,1,0,1,0
+2013-2014 Regular Season,4/11/14,Chuck Hayes,Toronto,New York,H,6.57,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0
+2013-2014 Regular Season,4/11/14,Steve Novak,Toronto,New York,H,3.34,0,2,0,1,0,0,1,0,1,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Michael Kidd-Gilchrist,Charlotte,Boston,R,19.8,5,9,0,0,0,1,2,4,6,3,4,1,0,2,10
+2013-2014 Regular Season,4/11/14,Josh McRoberts,Charlotte,Boston,R,30.4,3,5,3,4,0,0,0,3,3,10,2,0,3,0,9
+2013-2014 Regular Season,4/11/14,Al Jefferson,Charlotte,Boston,R,39.34,16,26,0,0,0,0,2,8,10,4,2,1,3,0,32
+2013-2014 Regular Season,4/11/14,Gerald Henderson,Charlotte,Boston,R,24.74,4,8,2,2,1,2,1,2,3,3,4,0,2,0,11
+2013-2014 Regular Season,4/11/14,Luke Ridnour,Charlotte,Boston,R,31.15,4,9,1,3,0,0,0,2,2,5,1,3,0,0,9
+2013-2014 Regular Season,4/11/14,Cody Zeller,Charlotte,Boston,R,17.6,1,3,0,0,1,2,2,1,3,0,1,1,1,0,3
+2013-2014 Regular Season,4/11/14,Gary Neal,Charlotte,Boston,R,23.32,6,8,1,1,0,0,0,0,0,2,1,1,0,0,13
+2013-2014 Regular Season,4/11/14,Jannero Pargo,Charlotte,Boston,R,16.87,2,10,0,4,0,0,0,2,2,4,1,3,2,0,4
+2013-2014 Regular Season,4/11/14,Chris Douglas-Roberts,Charlotte,Boston,R,28.17,3,8,0,4,6,7,0,2,2,2,0,2,1,0,12
+2013-2014 Regular Season,4/11/14,Bismack Biyombo,Charlotte,Boston,R,8.64,0,1,0,0,0,0,0,3,3,0,4,0,0,2,0
+2013-2014 Regular Season,4/11/14,Jeff Green,Boston,Charlotte,H,34.1,8,11,1,1,1,1,0,3,3,3,4,1,6,0,18
+2013-2014 Regular Season,4/11/14,Brandon Bass,Boston,Charlotte,H,34.37,7,12,0,0,4,4,3,6,9,3,0,0,0,2,18
+2013-2014 Regular Season,4/11/14,Jared Sullinger,Boston,Charlotte,H,28.09,8,13,2,4,2,2,1,6,7,0,2,1,3,1,20
+2013-2014 Regular Season,4/11/14,Avery Bradley,Boston,Charlotte,H,37.59,8,16,4,6,2,2,0,2,2,1,2,2,3,0,22
+2013-2014 Regular Season,4/11/14,Phil Pressey,Boston,Charlotte,H,39.39,4,11,2,6,0,0,0,5,5,13,1,3,4,0,10
+2013-2014 Regular Season,4/11/14,Jerryd Bayless,Boston,Charlotte,H,18.92,0,4,0,2,2,2,1,0,1,2,2,0,1,0,2
+2013-2014 Regular Season,4/11/14,Kris Humphries,Boston,Charlotte,H,11.44,2,5,0,0,0,0,2,5,7,0,1,0,0,0,4
+2013-2014 Regular Season,4/11/14,Kelly Olynyk,Boston,Charlotte,H,22.09,4,6,2,3,2,2,0,2,2,0,2,0,2,0,12
+2013-2014 Regular Season,4/11/14,Chris Johnson,Boston,Charlotte,H,14.05,0,1,0,1,0,0,0,1,1,0,2,0,1,0,0
+2013-2014 Regular Season,4/11/14,DeMarre Carroll,Atlanta,Brooklyn,R,36.77,6,11,0,3,0,0,2,9,11,0,2,0,2,0,12
+2013-2014 Regular Season,4/11/14,Paul Millsap,Atlanta,Brooklyn,R,37.3,10,19,1,2,6,6,4,6,10,2,3,1,1,2,27
+2013-2014 Regular Season,4/11/14,Elton Brand,Atlanta,Brooklyn,R,22.4,2,2,0,0,0,0,0,3,3,2,3,2,0,4,4
+2013-2014 Regular Season,4/11/14,Kyle Korver,Atlanta,Brooklyn,R,37.49,1,8,0,5,1,1,0,7,7,2,2,0,3,1,3
+2013-2014 Regular Season,4/11/14,Jeff Teague,Atlanta,Brooklyn,R,33.6,7,15,0,3,8,8,0,3,3,3,3,1,2,1,22
+2013-2014 Regular Season,4/11/14,Pero Antic,Atlanta,Brooklyn,R,17.57,2,6,0,4,0,0,1,0,1,0,4,0,0,0,4
+2013-2014 Regular Season,4/11/14,Louis Williams,Atlanta,Brooklyn,R,19.37,1,4,0,0,3,4,0,2,2,2,1,1,2,0,5
+2013-2014 Regular Season,4/11/14,Cartier Martin,Atlanta,Brooklyn,R,4.37,0,1,0,0,0,0,0,1,1,1,1,0,1,0,0
+2013-2014 Regular Season,4/11/14,Mike Scott,Atlanta,Brooklyn,R,10.7,4,7,0,1,0,0,1,1,2,0,0,0,1,0,8
+2013-2014 Regular Season,4/11/14,Dennis Schroeder,Atlanta,Brooklyn,R,12.42,1,4,0,1,0,0,0,2,2,4,0,0,0,0,2
+2013-2014 Regular Season,4/11/14,Mike Muscala,Atlanta,Brooklyn,R,8.04,2,2,0,0,2,2,1,1,2,1,1,0,0,1,6
+2013-2014 Regular Season,4/11/14,Andrei Kirilenko,Brooklyn,Atlanta,H,27.27,3,6,0,0,2,4,4,0,4,3,1,0,0,0,8
+2013-2014 Regular Season,4/11/14,Paul Pierce,Brooklyn,Atlanta,H,28.64,5,14,1,7,2,6,0,6,6,4,2,2,1,1,13
+2013-2014 Regular Season,4/11/14,Kevin Garnett,Brooklyn,Atlanta,H,18.2,2,6,0,0,0,2,3,7,10,1,3,1,2,1,4
+2013-2014 Regular Season,4/11/14,Joe Johnson,Brooklyn,Atlanta,H,32.07,4,15,1,5,0,0,0,7,7,3,1,0,4,0,9
+2013-2014 Regular Season,4/11/14,Jorge Gutierrez,Brooklyn,Atlanta,H,28.47,4,5,0,0,3,4,0,1,1,4,4,2,2,0,11
+2013-2014 Regular Season,4/11/14,Mason Plumlee,Brooklyn,Atlanta,H,28.64,6,6,0,0,5,7,1,3,4,3,2,1,0,1,17
+2013-2014 Regular Season,4/11/14,Mirza Teletovic,Brooklyn,Atlanta,H,20.54,2,6,2,3,2,2,0,3,3,1,1,2,1,0,8
+2013-2014 Regular Season,4/11/14,Marquis Teague,Brooklyn,Atlanta,H,25.25,2,5,0,0,0,0,0,1,1,2,5,0,2,0,4
+2013-2014 Regular Season,4/11/14,Marcus Thornton,Brooklyn,Atlanta,H,30.95,6,17,2,7,0,0,1,1,2,1,2,1,2,0,14
+2013-2014 Regular Season,4/11/14,Paul George,Indiana,Miami,R,39.67,7,17,3,8,5,7,2,3,5,5,2,2,4,0,22
+2013-2014 Regular Season,4/11/14,David West,Indiana,Miami,R,25.8,7,13,0,0,4,4,1,7,8,1,6,0,1,1,18
+2013-2014 Regular Season,4/11/14,Roy Hibbert,Indiana,Miami,R,33.75,2,7,0,0,1,2,0,1,1,2,2,0,0,2,5
+2013-2014 Regular Season,4/11/14,Lance Stephenson,Indiana,Miami,R,34.92,4,7,1,1,2,2,0,4,4,3,3,1,4,0,11
+2013-2014 Regular Season,4/11/14,George Hill,Indiana,Miami,R,32.74,0,0,0,0,0,0,0,0,0,4,1,0,2,0,0
+2013-2014 Regular Season,4/11/14,Ian Mahinmi,Indiana,Miami,R,13.7,1,1,0,0,0,0,1,4,5,1,3,0,1,0,2
+2013-2014 Regular Season,4/11/14,Evan Turner,Indiana,Miami,R,16.27,1,5,1,1,0,0,0,2,2,2,1,0,1,0,3
+2013-2014 Regular Season,4/11/14,C.J. Watson,Indiana,Miami,R,19.32,3,5,2,2,2,2,0,1,1,1,2,2,1,0,10
+2013-2014 Regular Season,4/11/14,Luis Scola,Indiana,Miami,R,18.85,5,8,0,0,2,2,1,4,5,1,3,0,2,0,12
+2013-2014 Regular Season,4/11/14,Chris Copeland,Indiana,Miami,R,3.35,1,2,1,2,0,0,0,0,0,0,0,0,0,0,3
+2013-2014 Regular Season,4/11/14,Lavoy Allen,Indiana,Miami,R,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Rasual Butler,Indiana,Miami,R,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Donald Sloan,Indiana,Miami,R,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,LeBron James,Miami,Indiana,H,34.87,11,20,2,4,12,13,1,5,6,1,1,1,2,1,36
+2013-2014 Regular Season,4/11/14,Udonis Haslem,Miami,Indiana,H,31.27,5,7,0,0,1,4,4,5,9,0,2,1,1,0,11
+2013-2014 Regular Season,4/11/14,Chris Bosh,Miami,Indiana,H,36.92,4,9,0,2,2,2,1,4,5,0,1,0,0,2,10
+2013-2014 Regular Season,4/11/14,Toney Douglas,Miami,Indiana,H,15.19,3,3,1,1,0,0,0,1,1,3,2,1,0,0,7
+2013-2014 Regular Season,4/11/14,Mario Chalmers,Miami,Indiana,H,28.69,6,14,1,2,0,0,2,3,5,5,5,2,1,0,13
+2013-2014 Regular Season,4/11/14,Ray Allen,Miami,Indiana,H,28.57,3,7,1,3,3,3,0,4,4,2,2,2,2,0,10
+2013-2014 Regular Season,4/11/14,Norris Cole,Miami,Indiana,H,23.02,1,3,1,2,0,0,0,1,1,2,3,2,0,0,3
+2013-2014 Regular Season,4/11/14,Rashard Lewis,Miami,Indiana,H,20.42,1,8,0,2,1,2,1,2,3,1,1,1,1,0,3
+2013-2014 Regular Season,4/11/14,Chris Andersen,Miami,Indiana,H,16.19,1,4,0,0,3,4,2,4,6,0,4,0,2,1,5
+2013-2014 Regular Season,4/11/14,Shane Battier,Miami,Indiana,H,3.25,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2013-2014 Regular Season,4/11/14,Michael Beasley,Miami,Indiana,H,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Justin Hamilton,Miami,Indiana,H,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,James Jones,Miami,Indiana,H,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Kyle Singler,Detroit,Chicago,R,42.77,3,10,0,1,2,2,3,1,4,2,2,1,0,0,8
+2013-2014 Regular Season,4/11/14,Greg Monroe,Detroit,Chicago,R,36.37,3,9,0,0,1,4,0,7,7,3,4,1,3,0,7
+2013-2014 Regular Season,4/11/14,Andre Drummond,Detroit,Chicago,R,41.85,11,17,0,0,4,9,12,14,26,0,4,3,2,1,26
+2013-2014 Regular Season,4/11/14,Rodney Stuckey,Detroit,Chicago,R,31.59,10,18,0,0,2,4,0,1,1,1,0,1,0,0,22
+2013-2014 Regular Season,4/11/14,Brandon Jennings,Detroit,Chicago,R,33.67,7,17,1,5,2,2,0,4,4,3,3,1,3,1,17
+2013-2014 Regular Season,4/11/14,Peyton Siva,Detroit,Chicago,R,17.19,4,7,2,5,2,2,0,0,0,0,4,0,1,0,12
+2013-2014 Regular Season,4/11/14,Jonas Jerebko,Detroit,Chicago,R,17.79,1,4,1,3,0,0,0,1,1,3,3,0,1,0,3
+2013-2014 Regular Season,4/11/14,Kentavious Caldwell-Pope,Detroit,Chicago,R,18.8,1,4,1,3,0,0,0,2,2,0,1,0,1,0,3
+2013-2014 Regular Season,4/11/14,Mike Dunleavy,Chicago,Detroit,H,37.34,5,11,3,5,1,1,0,6,6,1,1,2,1,0,14
+2013-2014 Regular Season,4/11/14,Carlos Boozer,Chicago,Detroit,H,24,7,8,0,0,4,5,1,6,7,0,2,0,2,0,18
+2013-2014 Regular Season,4/11/14,Joakim Noah,Chicago,Detroit,H,39.7,2,10,0,0,2,2,2,10,12,10,4,2,3,3,6
+2013-2014 Regular Season,4/11/14,Jimmy Butler,Chicago,Detroit,H,44.69,5,13,1,7,2,2,1,3,4,3,3,0,2,2,13
+2013-2014 Regular Season,4/11/14,Kirk Hinrich,Chicago,Detroit,H,26.67,5,13,0,3,0,0,1,1,2,5,3,0,0,0,10
+2013-2014 Regular Season,4/11/14,D.J. Augustin,Chicago,Detroit,H,28.09,7,14,1,4,9,10,1,3,4,6,5,1,2,0,24
+2013-2014 Regular Season,4/11/14,Taj Gibson,Chicago,Detroit,H,27.55,7,10,0,0,3,3,3,1,4,2,1,0,1,2,17
+2013-2014 Regular Season,4/11/14,Nazr Mohammed,Chicago,Detroit,H,4.75,2,2,0,0,0,0,0,0,0,0,0,1,0,0,4
+2013-2014 Regular Season,4/11/14,Tony Snell,Chicago,Detroit,H,7.24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Hollis Thompson,Philadelphia,Memphis,R,25.02,1,3,1,3,0,0,0,1,1,1,1,3,1,0,3
+2013-2014 Regular Season,4/11/14,Thaddeus Young,Philadelphia,Memphis,R,27.2,8,17,2,4,0,0,1,3,4,0,4,3,2,0,18
+2013-2014 Regular Season,4/11/14,Henry Sims,Philadelphia,Memphis,R,24.14,4,8,0,0,1,2,1,5,6,1,3,1,1,1,9
+2013-2014 Regular Season,4/11/14,James Anderson,Philadelphia,Memphis,R,29.59,2,4,1,2,0,0,1,2,3,1,2,0,2,1,5
+2013-2014 Regular Season,4/11/14,Michael Carter-Williams,Philadelphia,Memphis,R,26.85,4,13,0,0,0,0,0,6,6,5,1,1,1,0,8
+2013-2014 Regular Season,4/11/14,Elliot Williams,Philadelphia,Memphis,R,28.67,6,11,1,2,0,1,1,1,2,4,2,1,3,0,13
+2013-2014 Regular Season,4/11/14,Jarvis Varnado,Philadelphia,Memphis,R,17.92,2,3,0,0,2,2,0,1,1,1,5,0,1,0,6
+2013-2014 Regular Season,4/11/14,Tony Wroten,Philadelphia,Memphis,R,20.5,6,14,0,3,6,8,2,0,2,3,3,1,1,0,18
+2013-2014 Regular Season,4/11/14,Byron Mullens,Philadelphia,Memphis,R,17.74,2,6,1,4,0,2,0,4,4,0,3,1,0,0,5
+2013-2014 Regular Season,4/11/14,Brandon Davies,Philadelphia,Memphis,R,9.02,1,4,0,0,0,0,2,4,6,0,0,1,1,1,2
+2013-2014 Regular Season,4/11/14,Adonis Thomas,Philadelphia,Memphis,R,7.89,2,3,0,0,0,0,0,0,0,0,1,0,1,0,4
+2013-2014 Regular Season,4/11/14,Casper Ware,Philadelphia,Memphis,R,5.5,1,2,0,0,2,2,0,1,1,0,1,2,1,0,4
+2013-2014 Regular Season,4/11/14,James Johnson,Memphis,Philadelphia,H,25.2,4,8,0,1,2,2,2,4,6,2,1,0,2,1,10
+2013-2014 Regular Season,4/11/14,Zach Randolph,Memphis,Philadelphia,H,29.42,4,12,0,0,2,2,4,7,11,4,2,1,2,2,10
+2013-2014 Regular Season,4/11/14,Marc Gasol,Memphis,Philadelphia,H,30.64,9,12,1,1,2,3,0,10,10,2,0,0,1,2,21
+2013-2014 Regular Season,4/11/14,Courtney Lee,Memphis,Philadelphia,H,22.57,3,6,0,2,3,3,0,2,2,1,1,1,1,0,9
+2013-2014 Regular Season,4/11/14,Mike Conley,Memphis,Philadelphia,H,23.34,0,3,0,1,2,2,0,4,4,8,0,1,3,0,2
+2013-2014 Regular Season,4/11/14,Tony Allen,Memphis,Philadelphia,H,18.1,5,7,0,1,5,7,0,2,2,2,2,2,0,0,15
+2013-2014 Regular Season,4/11/14,Nick Calathes,Memphis,Philadelphia,H,24.72,3,7,0,1,6,9,1,4,5,4,2,2,3,0,12
+2013-2014 Regular Season,4/11/14,Ed Davis,Memphis,Philadelphia,H,17.1,1,2,0,0,0,2,1,2,3,1,4,0,1,1,2
+2013-2014 Regular Season,4/11/14,Mike Miller,Memphis,Philadelphia,H,19.94,8,11,3,4,0,0,0,1,1,1,0,0,1,0,19
+2013-2014 Regular Season,4/11/14,Kosta Koufos,Memphis,Philadelphia,H,12.62,2,6,0,0,2,2,1,1,2,2,1,0,1,2,6
+2013-2014 Regular Season,4/11/14,Jon Leuer,Memphis,Philadelphia,H,6.19,1,3,0,1,0,0,1,1,2,0,2,1,0,0,2
+2013-2014 Regular Season,4/11/14,Beno Udrih,Memphis,Philadelphia,H,5.5,2,2,0,0,0,0,0,0,0,1,0,0,1,0,4
+2013-2014 Regular Season,4/11/14,Jamaal Franklin,Memphis,Philadelphia,H,4.7,2,2,1,1,0,0,0,1,1,0,0,0,0,0,5
+2013-2014 Regular Season,4/11/14,Chandler Parsons,Houston,Minnesota,R,42.64,11,19,4,8,1,2,2,5,7,7,2,4,3,0,27
+2013-2014 Regular Season,4/11/14,Terrence Jones,Houston,Minnesota,R,29.27,5,11,0,0,0,0,5,3,8,1,3,0,2,2,10
+2013-2014 Regular Season,4/11/14,Omer Asik,Houston,Minnesota,R,24.39,3,7,0,0,3,4,6,9,15,0,5,1,1,2,9
+2013-2014 Regular Season,4/11/14,James Harden,Houston,Minnesota,R,46.15,7,14,4,5,15,19,1,7,8,10,5,6,5,0,33
+2013-2014 Regular Season,4/11/14,Jeremy Lin,Houston,Minnesota,R,24.44,3,10,3,6,5,6,0,4,4,1,5,0,5,0,14
+2013-2014 Regular Season,4/11/14,Donatas Motiejunas,Houston,Minnesota,R,13.45,2,5,0,0,0,2,1,3,4,0,5,0,1,0,4
+2013-2014 Regular Season,4/11/14,Isaiah Canaan,Houston,Minnesota,R,4.37,0,2,0,2,0,0,0,1,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/11/14,Francisco Garcia,Houston,Minnesota,R,33.24,2,8,0,2,0,0,0,1,1,1,4,0,0,0,4
+2013-2014 Regular Season,4/11/14,Omri Casspi,Houston,Minnesota,R,22.09,3,7,0,2,3,3,0,4,4,2,2,1,3,0,9
+2013-2014 Regular Season,4/11/14,Robbie Hummel,Minnesota,Houston,H,29.45,2,8,1,3,0,0,1,1,2,3,2,1,0,0,5
+2013-2014 Regular Season,4/11/14,Dante Cunningham,Minnesota,Houston,H,41.72,7,15,0,0,6,10,4,9,13,1,4,1,0,3,20
+2013-2014 Regular Season,4/11/14,Gorgui Dieng,Minnesota,Houston,H,38,6,13,0,0,0,0,10,10,20,3,3,2,3,2,12
+2013-2014 Regular Season,4/11/14,Corey Brewer,Minnesota,Houston,H,44.89,19,30,2,6,11,15,1,1,2,1,4,6,2,1,51
+2013-2014 Regular Season,4/11/14,Ricky Rubio,Minnesota,Houston,H,39.95,5,16,0,1,6,11,0,5,5,10,5,1,6,0,16
+2013-2014 Regular Season,4/11/14,Luc Mbah a Moute,Minnesota,Houston,H,27.29,1,8,0,1,2,2,2,4,6,1,3,1,3,2,4
+2013-2014 Regular Season,4/11/14,Ronny Turiaf,Minnesota,Houston,H,7.55,0,1,0,0,0,0,0,1,1,0,4,0,0,0,0
+2013-2014 Regular Season,4/11/14,Jose Barea,Minnesota,Houston,H,11.17,1,3,0,1,2,2,0,1,1,3,0,1,1,0,4
+2013-2014 Regular Season,4/11/14,Darius Miller,New Orleans,Oklahoma City,R,30.74,7,13,2,5,2,2,0,0,0,3,2,1,1,0,18
+2013-2014 Regular Season,4/11/14,Jeff Withey,New Orleans,Oklahoma City,R,25.09,4,12,0,0,0,2,4,1,5,1,2,0,0,0,8
+2013-2014 Regular Season,4/11/14,Greg Stiemsma,New Orleans,Oklahoma City,R,25.22,0,1,0,1,1,2,0,4,4,1,2,1,1,2,1
+2013-2014 Regular Season,4/11/14,Austin Rivers,New Orleans,Oklahoma City,R,40.37,7,13,2,2,2,3,0,8,8,5,4,1,2,0,18
+2013-2014 Regular Season,4/11/14,Tyreke Evans,New Orleans,Oklahoma City,R,20.94,5,11,1,2,2,2,0,1,1,6,0,0,2,0,13
+2013-2014 Regular Season,4/11/14,Alexis Ajinca,New Orleans,Oklahoma City,R,22.27,4,11,0,0,4,4,2,4,6,0,5,0,2,1,12
+2013-2014 Regular Season,4/11/14,Anthony Morrow,New Orleans,Oklahoma City,R,24.4,1,9,1,1,2,2,0,2,2,2,2,1,2,0,5
+2013-2014 Regular Season,4/11/14,Al-Farouq Aminu,New Orleans,Oklahoma City,R,14.82,1,2,0,1,0,0,0,0,0,1,1,0,2,0,2
+2013-2014 Regular Season,4/11/14,Brian Roberts,New Orleans,Oklahoma City,R,7.64,0,4,0,1,2,2,1,0,1,0,1,0,0,0,2
+2013-2014 Regular Season,4/11/14,Luke Babbitt,New Orleans,Oklahoma City,R,19.04,2,3,1,2,0,0,1,4,5,5,1,0,0,0,5
+2013-2014 Regular Season,4/11/14,James Southerland,New Orleans,Oklahoma City,R,9.52,4,7,2,3,0,0,0,3,3,0,0,0,0,1,10
+2013-2014 Regular Season,4/11/14,Kevin Durant,Oklahoma City,New Orleans,H,30.3,10,18,0,2,7,9,1,5,6,5,1,1,1,2,27
+2013-2014 Regular Season,4/11/14,Serge Ibaka,Oklahoma City,New Orleans,H,29.55,6,8,0,0,4,4,2,8,10,0,3,0,2,8,16
+2013-2014 Regular Season,4/11/14,Kendrick Perkins,Oklahoma City,New Orleans,H,17.57,1,3,0,0,0,0,0,5,5,1,2,1,0,0,2
+2013-2014 Regular Season,4/11/14,Thabo Sefolosha,Oklahoma City,New Orleans,H,20.55,1,2,0,1,0,0,0,4,4,2,4,0,2,0,2
+2013-2014 Regular Season,4/11/14,Russell Westbrook,Oklahoma City,New Orleans,H,28.25,10,17,0,2,4,4,2,3,5,7,2,0,1,1,24
+2013-2014 Regular Season,4/11/14,Nick Collison,Oklahoma City,New Orleans,H,15.94,2,4,0,0,2,3,2,2,4,0,0,1,3,0,6
+2013-2014 Regular Season,4/11/14,Caron Butler,Oklahoma City,New Orleans,H,19.89,2,5,1,2,0,0,0,4,4,2,1,2,0,0,5
+2013-2014 Regular Season,4/11/14,Reggie Jackson,Oklahoma City,New Orleans,H,23.84,3,8,1,2,4,4,0,4,4,8,3,1,1,1,11
+2013-2014 Regular Season,4/11/14,Derek Fisher,Oklahoma City,New Orleans,H,16.64,2,2,1,1,0,0,0,2,2,2,1,2,0,0,5
+2013-2014 Regular Season,4/11/14,Perry Jones,Oklahoma City,New Orleans,H,14.54,2,6,1,2,0,0,1,1,2,0,0,0,0,0,5
+2013-2014 Regular Season,4/11/14,Steven Adams,Oklahoma City,New Orleans,H,10.14,2,2,0,0,0,1,0,1,1,0,1,0,0,0,4
+2013-2014 Regular Season,4/11/14,Jeremy Lamb,Oklahoma City,New Orleans,H,8.67,3,6,1,1,2,2,0,0,0,1,2,0,0,0,9
+2013-2014 Regular Season,4/11/14,Hasheem Thabeet,Oklahoma City,New Orleans,H,4.17,0,1,0,0,0,0,0,0,0,0,1,0,1,0,0
+2013-2014 Regular Season,4/11/14,Alonzo Gee,Cleveland,Milwaukee,R,23.34,3,8,0,1,3,4,1,3,4,1,1,1,1,0,9
+2013-2014 Regular Season,4/11/14,Tristan Thompson,Cleveland,Milwaukee,R,34.89,5,8,0,0,8,10,5,5,10,2,3,0,0,1,18
+2013-2014 Regular Season,4/11/14,Spencer Hawes,Cleveland,Milwaukee,R,25.09,7,12,1,5,0,0,0,6,6,2,6,0,3,2,15
+2013-2014 Regular Season,4/11/14,Dion Waiters,Cleveland,Milwaukee,R,29.92,8,15,1,2,6,8,0,0,0,4,3,5,1,0,23
+2013-2014 Regular Season,4/11/14,Kyrie Irving,Cleveland,Milwaukee,R,31.54,4,12,0,5,4,4,2,0,2,2,1,3,1,1,12
+2013-2014 Regular Season,4/11/14,Jarrett Jack,Cleveland,Milwaukee,R,34.09,7,13,2,5,5,5,0,4,4,2,2,1,2,0,21
+2013-2014 Regular Season,4/11/14,Anderson Varejao,Cleveland,Milwaukee,R,17.15,1,3,0,0,1,2,0,6,6,1,2,0,1,0,3
+2013-2014 Regular Season,4/11/14,Matthew Dellavedova,Cleveland,Milwaukee,R,25.29,2,6,0,2,0,0,1,1,2,4,5,1,0,0,4
+2013-2014 Regular Season,4/11/14,Tyler Zeller,Cleveland,Milwaukee,R,18.74,5,8,0,0,1,2,2,4,6,0,4,0,1,0,11
+2013-2014 Regular Season,4/11/14,Khris Middleton,Milwaukee,Cleveland,H,31.42,7,11,3,5,0,0,0,3,3,2,4,0,1,0,17
+2013-2014 Regular Season,4/11/14,Jeff Adrien,Milwaukee,Cleveland,H,26.85,3,10,0,0,3,6,4,5,9,1,5,0,0,1,9
+2013-2014 Regular Season,4/11/14,Zaza Pachulia,Milwaukee,Cleveland,H,29.99,6,13,0,0,4,5,5,3,8,4,4,1,1,0,16
+2013-2014 Regular Season,4/11/14,Ramon Sessions,Milwaukee,Cleveland,H,42.59,6,12,0,3,8,9,1,2,3,7,1,0,3,0,20
+2013-2014 Regular Season,4/11/14,Brandon Knight,Milwaukee,Cleveland,H,38.04,8,17,3,6,5,6,0,4,4,4,2,2,4,0,24
+2013-2014 Regular Season,4/11/14,John Henson,Milwaukee,Cleveland,H,29.64,7,9,0,0,1,4,3,3,6,1,1,2,1,0,15
+2013-2014 Regular Season,4/11/14,Giannis Antetokounmpo,Milwaukee,Cleveland,H,19.55,0,3,0,1,3,6,0,3,3,0,0,0,0,2,3
+2013-2014 Regular Season,4/11/14,Chris Wright,Milwaukee,Cleveland,H,16.59,7,9,0,1,0,0,1,3,4,1,3,0,1,1,14
+2013-2014 Regular Season,4/11/14,Miroslav Raduljica,Milwaukee,Cleveland,H,5.37,0,0,0,0,1,2,0,1,1,0,2,0,0,0,1
+2013-2014 Regular Season,4/11/14,P.J. Tucker,Phoenix,San Antonio,R,36.85,1,8,1,4,0,0,3,2,5,2,2,1,1,0,3
+2013-2014 Regular Season,4/11/14,Channing Frye,Phoenix,San Antonio,R,33.54,5,9,1,4,2,2,1,5,6,1,1,0,1,0,13
+2013-2014 Regular Season,4/11/14,Miles Plumlee,Phoenix,San Antonio,R,24.69,3,6,0,0,0,0,1,8,9,0,2,0,2,0,6
+2013-2014 Regular Season,4/11/14,Gerald Green,Phoenix,San Antonio,R,35.69,9,19,4,10,5,5,0,3,3,3,3,2,1,1,27
+2013-2014 Regular Season,4/11/14,Eric Bledsoe,Phoenix,San Antonio,R,37.29,11,16,2,4,6,8,2,9,11,9,2,3,7,0,30
+2013-2014 Regular Season,4/11/14,Ishmael Smith,Phoenix,San Antonio,R,19.09,1,3,0,1,0,0,1,2,3,2,1,0,2,0,2
+2013-2014 Regular Season,4/11/14,Markieff Morris,Phoenix,San Antonio,R,27.84,8,14,0,0,4,4,1,6,7,0,3,0,2,0,20
+2013-2014 Regular Season,4/11/14,Marcus Morris,Phoenix,San Antonio,R,21.54,1,7,1,4,0,0,1,2,3,1,3,1,2,0,3
+2013-2014 Regular Season,4/11/14,Archie Goodwin,Phoenix,San Antonio,R,1.44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Alex Len,Phoenix,San Antonio,R,2.09,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Kawhi Leonard,San Antonio,Phoenix,H,33.9,7,14,2,4,2,3,1,4,5,4,1,3,0,0,18
+2013-2014 Regular Season,4/11/14,Austin Daye,San Antonio,Phoenix,H,13.99,1,7,0,3,0,0,1,0,1,1,4,2,1,1,2
+2013-2014 Regular Season,4/11/14,Tiago Splitter,San Antonio,Phoenix,H,16.07,2,5,0,1,1,1,2,5,7,2,1,0,1,1,5
+2013-2014 Regular Season,4/11/14,Danny Green,San Antonio,Phoenix,H,37.92,12,17,7,10,2,4,1,3,4,2,1,0,1,1,33
+2013-2014 Regular Season,4/11/14,Tony Parker,San Antonio,Phoenix,H,24.42,9,18,0,0,0,0,0,1,1,3,0,1,0,0,18
+2013-2014 Regular Season,4/11/14,Marco Belinelli,San Antonio,Phoenix,H,27.55,3,11,2,7,4,4,0,2,2,1,2,2,2,0,12
+2013-2014 Regular Season,4/11/14,Boris Diaw,San Antonio,Phoenix,H,34.02,4,12,1,1,2,2,1,7,8,6,0,2,0,0,11
+2013-2014 Regular Season,4/11/14,Patrick Mills,San Antonio,Phoenix,H,27.69,3,8,1,4,2,2,0,4,4,4,3,0,0,0,9
+2013-2014 Regular Season,4/11/14,Aron Baynes,San Antonio,Phoenix,H,3.9,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+2013-2014 Regular Season,4/11/14,Jeff Ayres,San Antonio,Phoenix,H,19.92,2,3,0,0,0,0,5,5,10,1,2,0,1,2,4
+2013-2014 Regular Season,4/11/14,Cory Joseph,San Antonio,Phoenix,H,0.59,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+2013-2014 Regular Season,4/11/14,Damion James,San Antonio,Phoenix,H,0.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Nicolas Batum,Portland,Utah,R,35.3,6,11,1,4,2,2,0,7,7,7,2,2,0,1,15
+2013-2014 Regular Season,4/11/14,LaMarcus Aldridge,Portland,Utah,R,33.57,8,19,0,0,2,2,3,11,14,2,2,0,1,0,18
+2013-2014 Regular Season,4/11/14,Robin Lopez,Portland,Utah,R,35.27,5,13,0,0,2,2,4,4,8,2,2,0,2,1,12
+2013-2014 Regular Season,4/11/14,Wesley Matthews,Portland,Utah,R,29.95,6,14,3,7,6,8,1,0,1,1,1,1,0,0,21
+2013-2014 Regular Season,4/11/14,Damian Lillard,Portland,Utah,R,37.17,4,10,4,6,4,4,0,1,1,6,1,1,1,0,16
+2013-2014 Regular Season,4/11/14,Thomas Robinson,Portland,Utah,R,17.15,4,6,0,0,0,0,0,2,2,0,2,1,1,0,8
+2013-2014 Regular Season,4/11/14,Mo Williams,Portland,Utah,R,23.72,1,7,1,3,1,2,0,0,0,4,0,0,3,0,4
+2013-2014 Regular Season,4/11/14,Will Barton,Portland,Utah,R,10.74,3,4,0,0,2,2,0,3,3,1,0,1,0,1,8
+2013-2014 Regular Season,4/11/14,Dorell Wright,Portland,Utah,R,14.05,2,2,1,1,0,0,1,3,4,0,1,1,0,0,5
+2013-2014 Regular Season,4/11/14,C.J. McCollum,Portland,Utah,R,1.07,1,1,1,1,1,2,0,1,1,0,1,0,0,0,4
+2013-2014 Regular Season,4/11/14,Victor Claver,Portland,Utah,R,1.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Meyers Leonard,Portland,Utah,R,1.02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Gordon Hayward,Utah,Portland,H,32.72,4,9,1,3,5,6,0,5,5,6,3,0,2,0,14
+2013-2014 Regular Season,4/11/14,Derrick Favors,Utah,Portland,H,27.7,10,17,0,0,1,1,4,4,8,1,4,0,2,0,21
+2013-2014 Regular Season,4/11/14,Enes Kanter,Utah,Portland,H,33.45,6,16,0,0,3,3,6,7,13,4,3,0,2,1,15
+2013-2014 Regular Season,4/11/14,Alec Burks,Utah,Portland,H,41.94,7,11,1,2,1,2,0,6,6,2,5,0,4,0,16
+2013-2014 Regular Season,4/11/14,Trey Burke,Utah,Portland,H,40.22,5,16,4,6,0,0,1,2,3,11,1,0,0,0,14
+2013-2014 Regular Season,4/11/14,Jeremy Evans,Utah,Portland,H,24.3,2,3,0,0,0,0,0,2,2,0,0,3,0,2,4
+2013-2014 Regular Season,4/11/14,Richard Jefferson,Utah,Portland,H,21.35,3,4,0,1,2,2,0,4,4,2,1,0,1,0,8
+2013-2014 Regular Season,4/11/14,Rudy Gobert,Utah,Portland,H,10.55,3,7,0,0,1,2,2,4,6,0,1,0,2,1,7
+2013-2014 Regular Season,4/11/14,Diante Garrett,Utah,Portland,H,7.79,0,3,0,1,0,0,0,0,0,0,1,0,0,0,0
+2013-2014 Regular Season,4/11/14,Harrison Barnes,Golden State,LA Lakers,R,21.65,4,9,0,1,0,0,2,2,4,0,2,1,3,1,8
+2013-2014 Regular Season,4/11/14,Draymond Green,Golden State,LA Lakers,R,31.6,3,6,2,2,1,2,1,6,7,2,3,4,1,1,9
+2013-2014 Regular Season,4/11/14,Andrew Bogut,Golden State,LA Lakers,R,23.34,2,2,0,0,0,0,2,7,9,1,2,0,0,2,4
+2013-2014 Regular Season,4/11/14,Klay Thompson,Golden State,LA Lakers,R,36.59,6,15,2,6,2,5,1,2,3,4,2,0,2,1,16
+2013-2014 Regular Season,4/11/14,Stephen Curry,Golden State,LA Lakers,R,34.72,12,20,4,5,2,2,0,10,10,12,3,2,6,0,30
+2013-2014 Regular Season,4/11/14,David Lee,Golden State,LA Lakers,R,25.37,4,12,0,0,2,2,4,6,10,2,1,2,0,0,10
+2013-2014 Regular Season,4/11/14,Steve Blake,Golden State,LA Lakers,R,30.04,5,9,3,7,0,0,1,4,5,5,0,2,1,0,13
+2013-2014 Regular Season,4/11/14,Marreese Speights,Golden State,LA Lakers,R,22.2,7,11,0,0,2,2,1,7,8,0,4,1,2,0,16
+2013-2014 Regular Season,4/11/14,Jordan Crawford,Golden State,LA Lakers,R,14.12,2,8,2,4,0,0,0,1,1,1,0,0,2,0,6
+2013-2014 Regular Season,4/11/14,Hilton Armstrong,Golden State,LA Lakers,R,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/11/14,Wesley Johnson,LA Lakers,Golden State,H,30.1,4,8,0,3,0,0,0,6,6,1,3,1,0,0,8
+2013-2014 Regular Season,4/11/14,Ryan Kelly,LA Lakers,Golden State,H,37.44,5,11,2,4,2,2,2,9,11,3,1,1,4,1,14
+2013-2014 Regular Season,4/11/14,Jordan Hill,LA Lakers,Golden State,H,41.59,7,18,0,0,4,4,4,8,12,4,4,2,2,0,18
+2013-2014 Regular Season,4/11/14,Jodie Meeks,LA Lakers,Golden State,H,33.9,2,12,1,2,5,8,0,1,1,2,2,2,2,0,10
+2013-2014 Regular Season,4/11/14,Kendall Marshall,LA Lakers,Golden State,H,19.12,3,7,1,4,0,0,1,1,2,3,0,1,1,0,7
+2013-2014 Regular Season,4/11/14,Robert Sacre,LA Lakers,Golden State,H,18.92,1,2,0,0,2,2,1,6,7,3,1,0,2,1,4
+2013-2014 Regular Season,4/11/14,Nick Young,LA Lakers,Golden State,H,30.07,10,20,3,8,2,2,0,0,0,4,1,0,0,0,25
+2013-2014 Regular Season,4/11/14,Jordan Farmar,LA Lakers,Golden State,H,28.89,3,11,2,7,1,2,0,3,3,3,0,3,4,0,9
+2013-2014 Regular Season,4/12/14,Rudy Gay,Sacramento,LA Clippers,R,34.44,6,18,1,2,3,4,3,3,6,2,3,2,2,0,16
+2013-2014 Regular Season,4/12/14,Reggie Evans,Sacramento,LA Clippers,R,34.35,4,6,0,0,6,8,6,8,14,0,3,1,0,0,14
+2013-2014 Regular Season,4/12/14,DeMarcus Cousins,Sacramento,LA Clippers,R,42.99,12,27,0,0,8,9,3,9,12,5,6,2,6,2,32
+2013-2014 Regular Season,4/12/14,Ben McLemore,Sacramento,LA Clippers,R,32.35,3,7,2,4,6,6,0,1,1,0,3,0,0,0,14
+2013-2014 Regular Season,4/12/14,Ray McCallum,Sacramento,LA Clippers,R,40.39,4,13,0,1,0,0,0,0,0,8,4,0,2,2,8
+2013-2014 Regular Season,4/12/14,Travis Outlaw,Sacramento,LA Clippers,R,23.07,3,7,0,1,0,0,0,1,1,3,1,0,0,0,6
+2013-2014 Regular Season,4/12/14,Derrick Williams,Sacramento,LA Clippers,R,4.7,1,1,0,0,0,0,0,1,1,0,1,0,0,0,2
+2013-2014 Regular Season,4/12/14,Jason Thompson,Sacramento,LA Clippers,R,13.3,1,1,0,0,1,2,0,3,3,1,2,0,0,0,3
+2013-2014 Regular Season,4/12/14,Jared Cunningham,Sacramento,LA Clippers,R,14.17,1,2,1,1,3,4,0,0,0,2,3,0,0,0,6
+2013-2014 Regular Season,4/12/14,Quincy Acy,Sacramento,LA Clippers,R,0.27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/12/14,Matt Barnes,LA Clippers,Sacramento,H,29.72,4,6,2,3,2,2,0,5,5,3,1,1,1,0,12
+2013-2014 Regular Season,4/12/14,Blake Griffin,LA Clippers,Sacramento,H,36.49,9,15,1,2,8,9,0,4,4,9,4,2,2,1,27
+2013-2014 Regular Season,4/12/14,DeAndre Jordan,LA Clippers,Sacramento,H,34.15,9,13,0,0,3,11,3,6,9,1,5,1,2,7,21
+2013-2014 Regular Season,4/12/14,J.J. Redick,LA Clippers,Sacramento,H,32.04,4,9,2,4,3,4,0,2,2,1,2,0,0,0,13
+2013-2014 Regular Season,4/12/14,Chris Paul,LA Clippers,Sacramento,H,35.84,6,14,1,4,4,4,2,5,7,10,3,0,2,0,17
+2013-2014 Regular Season,4/12/14,Darren Collison,LA Clippers,Sacramento,H,22.5,1,5,0,0,0,0,5,3,8,5,2,0,2,0,2
+2013-2014 Regular Season,4/12/14,Jamal Crawford,LA Clippers,Sacramento,H,19.22,3,8,2,4,2,2,0,2,2,2,1,0,0,0,10
+2013-2014 Regular Season,4/12/14,Glen Davis,LA Clippers,Sacramento,H,17.35,3,7,0,0,2,2,0,2,2,0,6,1,1,0,8
+2013-2014 Regular Season,4/12/14,Hedo Turkoglu,LA Clippers,Sacramento,H,5.77,1,2,0,0,0,0,0,1,1,0,1,1,0,0,2
+2013-2014 Regular Season,4/12/14,Jared Dudley,LA Clippers,Sacramento,H,5.37,1,2,1,2,0,0,0,2,2,0,1,0,0,0,3
+2013-2014 Regular Season,4/12/14,Ryan Hollins,LA Clippers,Sacramento,H,1.07,0,0,0,0,2,2,0,1,1,0,0,0,1,0,2
+2013-2014 Regular Season,4/12/14,Reggie Bullock,LA Clippers,Sacramento,H,0.52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/12/14,Thaddeus Young,Philadelphia,Charlotte,R,37.77,8,22,0,5,0,1,0,4,4,1,5,0,1,0,16
+2013-2014 Regular Season,4/12/14,Hollis Thompson,Philadelphia,Charlotte,R,27.19,1,4,1,3,0,0,1,4,5,2,5,0,0,1,3
+2013-2014 Regular Season,4/12/14,Henry Sims,Philadelphia,Charlotte,R,25.7,5,8,0,0,5,7,3,3,6,0,2,0,0,0,15
+2013-2014 Regular Season,4/12/14,Michael Carter-Williams,Philadelphia,Charlotte,R,36.59,7,11,0,0,9,10,1,6,7,8,4,1,3,0,23
+2013-2014 Regular Season,4/12/14,James Anderson,Philadelphia,Charlotte,R,30.5,3,11,1,5,1,2,0,1,1,1,1,3,1,0,8
+2013-2014 Regular Season,4/12/14,Byron Mullens,Philadelphia,Charlotte,R,20.32,6,12,1,5,0,0,4,3,7,0,1,1,1,0,13
+2013-2014 Regular Season,4/12/14,Elliot Williams,Philadelphia,Charlotte,R,20.29,4,9,1,4,1,2,1,1,2,1,3,1,1,0,10
+2013-2014 Regular Season,4/12/14,Tony Wroten,Philadelphia,Charlotte,R,18.04,4,8,0,0,2,4,0,5,5,1,3,0,1,0,10
+2013-2014 Regular Season,4/12/14,Brandon Davies,Philadelphia,Charlotte,R,12.22,0,4,0,1,0,0,1,2,3,2,6,1,1,0,0
+2013-2014 Regular Season,4/12/14,Casper Ware,Philadelphia,Charlotte,R,11.42,3,4,1,2,0,0,0,0,0,2,0,1,0,0,7
+2013-2014 Regular Season,4/12/14,Michael Kidd-Gilchrist,Charlotte,Philadelphia,H,22.12,4,6,0,0,2,4,2,6,8,0,2,1,1,1,10
+2013-2014 Regular Season,4/12/14,Josh McRoberts,Charlotte,Philadelphia,H,26.62,1,4,1,3,1,2,0,3,3,4,3,1,3,0,4
+2013-2014 Regular Season,4/12/14,Al Jefferson,Charlotte,Philadelphia,H,36.04,13,19,0,0,3,5,2,10,12,3,3,0,3,2,29
+2013-2014 Regular Season,4/12/14,Gerald Henderson,Charlotte,Philadelphia,H,28.55,5,8,0,1,4,7,1,3,4,3,1,0,2,2,14
+2013-2014 Regular Season,4/12/14,Luke Ridnour,Charlotte,Philadelphia,H,30.72,4,8,2,4,2,4,0,2,2,8,3,0,1,1,12
+2013-2014 Regular Season,4/12/14,Cody Zeller,Charlotte,Philadelphia,H,21.39,2,4,0,0,8,10,1,2,3,0,4,1,1,1,12
+2013-2014 Regular Season,4/12/14,Gary Neal,Charlotte,Philadelphia,H,19.45,4,10,0,3,2,3,0,0,0,1,0,0,1,0,10
+2013-2014 Regular Season,4/12/14,Jannero Pargo,Charlotte,Philadelphia,H,17.29,2,5,2,3,0,0,0,4,4,2,2,0,1,0,6
+2013-2014 Regular Season,4/12/14,Chris Douglas-Roberts,Charlotte,Philadelphia,H,25.89,4,8,2,5,2,2,2,2,4,1,3,0,1,1,12
+2013-2014 Regular Season,4/12/14,Bismack Biyombo,Charlotte,Philadelphia,H,11.97,0,0,0,0,2,4,1,0,1,1,1,0,0,1,2
+2013-2014 Regular Season,4/12/14,Khris Middleton,Milwaukee,Washington,R,41.9,6,15,4,5,4,4,1,2,3,1,3,0,1,0,20
+2013-2014 Regular Season,4/12/14,Jeff Adrien,Milwaukee,Washington,R,30.54,4,6,0,0,3,8,3,7,10,0,2,0,5,1,11
+2013-2014 Regular Season,4/12/14,Zaza Pachulia,Milwaukee,Washington,R,24.35,4,9,0,0,1,2,3,3,6,5,1,0,4,0,9
+2013-2014 Regular Season,4/12/14,Ramon Sessions,Milwaukee,Washington,R,41.59,6,16,0,2,8,10,1,0,1,8,1,1,2,0,20
+2013-2014 Regular Season,4/12/14,Giannis Antetokounmpo,Milwaukee,Washington,R,43.12,3,5,1,1,1,4,2,6,8,2,1,3,4,1,8
+2013-2014 Regular Season,4/12/14,John Henson,Milwaukee,Washington,R,23.95,6,10,0,0,1,2,1,6,7,2,3,1,3,0,13
+2013-2014 Regular Season,4/12/14,Chris Wright,Milwaukee,Washington,R,17.49,1,3,0,0,2,2,1,0,1,1,3,0,1,0,4
+2013-2014 Regular Season,4/12/14,Miroslav Raduljica,Milwaukee,Washington,R,17.09,2,4,0,0,2,2,1,5,6,1,2,0,0,1,6
+2013-2014 Regular Season,4/12/14,Trevor Ariza,Washington,Milwaukee,H,29.39,5,7,2,4,1,2,0,5,5,4,2,0,2,0,13
+2013-2014 Regular Season,4/12/14,Trevor Booker,Washington,Milwaukee,H,24.82,5,7,0,0,1,1,1,0,1,1,3,2,2,0,11
+2013-2014 Regular Season,4/12/14,Marcin Gortat,Washington,Milwaukee,H,33.27,5,12,0,0,3,4,4,9,13,2,2,3,1,2,13
+2013-2014 Regular Season,4/12/14,Bradley Beal,Washington,Milwaukee,H,36.9,12,22,2,7,0,0,0,3,3,5,2,0,2,1,26
+2013-2014 Regular Season,4/12/14,John Wall,Washington,Milwaukee,H,33.47,5,12,0,0,5,5,1,2,3,8,2,1,2,1,15
+2013-2014 Regular Season,4/12/14,Martell Webster,Washington,Milwaukee,H,22.7,2,6,2,4,2,3,1,2,3,3,4,0,0,0,8
+2013-2014 Regular Season,4/12/14,Drew Gooden,Washington,Milwaukee,H,16.84,1,4,0,0,2,2,1,2,3,0,3,0,0,1,4
+2013-2014 Regular Season,4/12/14,Al Harrington,Washington,Milwaukee,H,18.9,4,11,2,6,2,2,0,3,3,0,2,0,0,0,12
+2013-2014 Regular Season,4/12/14,Andre Miller,Washington,Milwaukee,H,13.62,0,0,0,0,0,0,0,1,1,2,0,1,0,0,0
+2013-2014 Regular Season,4/12/14,Otto Porter,Washington,Milwaukee,H,7.1,1,2,0,1,0,0,0,0,0,0,1,0,0,0,2
+2013-2014 Regular Season,4/12/14,Kevin Seraphin,Washington,Milwaukee,H,1.17,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0
+2013-2014 Regular Season,4/12/14,Chris Singleton,Washington,Milwaukee,H,0.94,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0
+2013-2014 Regular Season,4/12/14,Garrett Temple,Washington,Milwaukee,H,0.92,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/12/14,LeBron James,Miami,Atlanta,R,37.35,10,22,3,7,4,8,3,5,8,5,2,0,3,1,27
+2013-2014 Regular Season,4/12/14,Udonis Haslem,Miami,Atlanta,R,24.47,3,5,0,0,0,0,0,8,8,0,3,0,3,0,6
+2013-2014 Regular Season,4/12/14,Chris Bosh,Miami,Atlanta,R,28,5,8,1,4,0,0,0,4,4,2,2,3,5,0,11
+2013-2014 Regular Season,4/12/14,Dwyane Wade,Miami,Atlanta,R,23.3,10,14,0,1,4,9,1,2,3,1,2,1,2,1,24
+2013-2014 Regular Season,4/12/14,Mario Chalmers,Miami,Atlanta,R,29.52,4,10,0,5,1,2,0,5,5,4,4,1,3,0,9
+2013-2014 Regular Season,4/12/14,Norris Cole,Miami,Atlanta,R,22.14,0,3,0,2,0,0,0,0,0,3,2,0,2,0,0
+2013-2014 Regular Season,4/12/14,Ray Allen,Miami,Atlanta,R,23.67,1,2,1,2,0,0,0,0,0,1,1,0,0,0,3
+2013-2014 Regular Season,4/12/14,Rashard Lewis,Miami,Atlanta,R,18.74,1,4,1,4,0,0,1,5,6,1,1,0,1,0,3
+2013-2014 Regular Season,4/12/14,Chris Andersen,Miami,Atlanta,R,19.62,1,2,0,0,0,0,1,6,7,0,0,0,1,2,2
+2013-2014 Regular Season,4/12/14,Toney Douglas,Miami,Atlanta,R,13.22,0,3,0,0,0,0,0,3,3,1,3,0,0,1,0
+2013-2014 Regular Season,4/12/14,DeMarre Carroll,Atlanta,Miami,H,36.04,6,12,3,5,2,2,1,5,6,4,5,2,5,1,17
+2013-2014 Regular Season,4/12/14,Paul Millsap,Atlanta,Miami,H,35.14,4,10,1,2,2,2,1,7,8,5,4,2,2,0,11
+2013-2014 Regular Season,4/12/14,Elton Brand,Atlanta,Miami,H,26.62,3,7,0,0,0,1,1,2,3,2,3,1,1,1,6
+2013-2014 Regular Season,4/12/14,Kyle Korver,Atlanta,Miami,H,25.3,1,3,1,2,1,1,0,3,3,0,4,0,2,0,4
+2013-2014 Regular Season,4/12/14,Jeff Teague,Atlanta,Miami,H,35.89,9,17,1,3,6,8,0,4,4,3,1,4,0,0,25
+2013-2014 Regular Season,4/12/14,Mike Scott,Atlanta,Miami,H,32.6,6,14,0,3,0,0,1,6,7,2,3,2,1,0,12
+2013-2014 Regular Season,4/12/14,Louis Williams,Atlanta,Miami,H,22.54,7,9,4,4,5,5,0,1,1,3,1,0,0,0,23
+2013-2014 Regular Season,4/12/14,Shelvin Mack,Atlanta,Miami,H,19.62,0,6,0,3,0,0,1,4,5,4,1,1,1,0,0
+2013-2014 Regular Season,4/12/14,Mike Muscala,Atlanta,Miami,H,1.65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/12/14,Cartier Martin,Atlanta,Miami,H,4.64,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0
+2013-2014 Regular Season,4/12/14,Jeff Green,Boston,Cleveland,R,31.32,6,18,3,9,4,6,0,8,8,2,4,1,1,2,19
+2013-2014 Regular Season,4/12/14,Brandon Bass,Boston,Cleveland,R,34.4,7,11,0,0,5,5,2,3,5,3,5,0,1,1,19
+2013-2014 Regular Season,4/12/14,Kelly Olynyk,Boston,Cleveland,R,38.87,11,23,2,5,1,1,0,12,12,3,6,0,4,0,25
+2013-2014 Regular Season,4/12/14,Avery Bradley,Boston,Cleveland,R,31.19,9,15,5,6,2,2,1,7,8,2,1,1,1,0,25
+2013-2014 Regular Season,4/12/14,Phil Pressey,Boston,Cleveland,R,42.19,4,8,1,3,0,0,2,3,5,13,2,1,2,0,9
+2013-2014 Regular Season,4/12/14,Chris Johnson,Boston,Cleveland,R,22.64,2,7,0,4,3,4,1,3,4,2,1,1,0,0,7
+2013-2014 Regular Season,4/12/14,Joel Anthony,Boston,Cleveland,R,21.59,2,5,0,0,0,0,0,3,3,1,3,0,0,2,4
+2013-2014 Regular Season,4/12/14,Chris Babb,Boston,Cleveland,R,17.84,1,3,1,3,0,0,1,1,2,1,2,1,0,0,3
+2013-2014 Regular Season,4/12/14,Alonzo Gee,Cleveland,Boston,H,20.34,5,9,0,0,1,4,4,3,7,3,5,1,1,0,11
+2013-2014 Regular Season,4/12/14,Tristan Thompson,Cleveland,Boston,H,32.92,6,12,0,0,2,3,4,6,10,1,2,0,1,1,14
+2013-2014 Regular Season,4/12/14,Spencer Hawes,Cleveland,Boston,H,20.52,1,4,1,2,0,0,2,8,10,4,3,0,3,0,3
+2013-2014 Regular Season,4/12/14,Dion Waiters,Cleveland,Boston,H,27.12,6,15,0,3,3,6,1,3,4,2,0,0,1,1,15
+2013-2014 Regular Season,4/12/14,Kyrie Irving,Cleveland,Boston,H,31,3,15,1,4,8,8,0,1,1,2,2,0,1,0,15
+2013-2014 Regular Season,4/12/14,Jarrett Jack,Cleveland,Boston,H,33.4,6,14,1,4,2,2,1,2,3,6,3,1,0,0,15
+2013-2014 Regular Season,4/12/14,Matthew Dellavedova,Cleveland,Boston,H,32.25,4,9,2,5,0,0,0,1,1,2,0,0,3,0,10
+2013-2014 Regular Season,4/12/14,Anderson Varejao,Cleveland,Boston,H,16.19,2,4,0,0,0,0,1,5,6,0,2,0,1,0,4
+2013-2014 Regular Season,4/12/14,Tyler Zeller,Cleveland,Boston,H,26.29,4,8,0,0,4,7,2,5,7,2,3,0,0,0,12
+2013-2014 Regular Season,4/12/14,Darius Miller,New Orleans,Houston,R,29.89,3,8,0,1,0,0,0,0,0,4,5,2,0,1,6
+2013-2014 Regular Season,4/12/14,Luke Babbitt,New Orleans,Houston,R,34.19,8,18,4,8,4,4,2,5,7,2,4,0,3,0,24
+2013-2014 Regular Season,4/12/14,Alexis Ajinca,New Orleans,Houston,R,32.6,7,12,0,0,3,3,3,4,7,2,5,1,2,3,17
+2013-2014 Regular Season,4/12/14,Austin Rivers,New Orleans,Houston,R,44.54,8,24,2,6,2,6,1,9,10,6,4,1,1,0,20
+2013-2014 Regular Season,4/12/14,Anthony Morrow,New Orleans,Houston,R,41.44,9,14,2,5,0,0,0,6,6,5,4,2,3,1,20
+2013-2014 Regular Season,4/12/14,Al-Farouq Aminu,New Orleans,Houston,R,28.12,1,6,0,1,6,6,1,1,2,1,1,0,0,1,8
+2013-2014 Regular Season,4/12/14,James Southerland,New Orleans,Houston,R,10.4,1,3,1,1,0,0,0,4,4,0,2,1,1,1,3
+2013-2014 Regular Season,4/12/14,Jeff Withey,New Orleans,Houston,R,18.85,2,3,0,0,2,2,1,2,3,0,1,0,0,1,6
+2013-2014 Regular Season,4/12/14,Omri Casspi,Houston,New Orleans,H,22.34,0,4,0,1,2,2,1,5,6,1,1,0,1,0,2
+2013-2014 Regular Season,4/12/14,Terrence Jones,Houston,New Orleans,H,24.32,4,8,0,1,2,2,1,1,2,1,1,1,1,4,10
+2013-2014 Regular Season,4/12/14,Dwight Howard,Houston,New Orleans,H,29.22,5,8,0,0,3,8,0,6,6,2,3,1,1,2,13
+2013-2014 Regular Season,4/12/14,James Harden,Houston,New Orleans,H,43.37,10,22,3,8,10,10,1,3,4,13,2,2,4,0,33
+2013-2014 Regular Season,4/12/14,Patrick Beverley,Houston,New Orleans,H,33.22,6,12,4,8,4,4,1,2,3,4,5,2,1,1,20
+2013-2014 Regular Season,4/12/14,Omer Asik,Houston,New Orleans,H,18.79,2,2,0,0,5,8,1,7,8,0,2,0,2,1,9
+2013-2014 Regular Season,4/12/14,Jeremy Lin,Houston,New Orleans,H,31.24,6,8,1,1,5,5,1,3,4,1,4,4,1,0,18
+2013-2014 Regular Season,4/12/14,Donatas Motiejunas,Houston,New Orleans,H,13.07,0,2,0,1,0,0,0,2,2,0,0,0,1,0,0
+2013-2014 Regular Season,4/12/14,Jordan Hamilton,Houston,New Orleans,H,11.72,1,3,1,2,0,0,0,0,0,1,1,0,0,0,3
+2013-2014 Regular Season,4/12/14,Troy Daniels,Houston,New Orleans,H,12.75,1,5,1,5,0,0,0,1,1,0,0,0,1,0,3
+2013-2014 Regular Season,4/12/14,P.J. Tucker,Phoenix,Dallas,R,31.32,2,7,0,2,2,3,2,3,5,1,4,4,3,0,6
+2013-2014 Regular Season,4/12/14,Channing Frye,Phoenix,Dallas,R,34.5,7,13,5,6,2,2,0,6,6,0,3,1,1,1,21
+2013-2014 Regular Season,4/12/14,Miles Plumlee,Phoenix,Dallas,R,16.55,2,2,0,0,0,0,3,3,6,0,1,1,1,2,4
+2013-2014 Regular Season,4/12/14,Goran Dragic,Phoenix,Dallas,R,40.49,6,18,0,3,1,3,1,4,5,4,4,1,2,0,13
+2013-2014 Regular Season,4/12/14,Eric Bledsoe,Phoenix,Dallas,R,40.65,11,15,2,2,5,7,0,4,4,6,2,4,7,1,29
+2013-2014 Regular Season,4/12/14,Markieff Morris,Phoenix,Dallas,R,31.45,2,8,0,1,4,4,4,2,6,2,1,2,0,0,8
+2013-2014 Regular Season,4/12/14,Gerald Green,Phoenix,Dallas,R,27.32,2,9,1,3,4,4,1,6,7,0,1,2,3,0,9
+2013-2014 Regular Season,4/12/14,Marcus Morris,Phoenix,Dallas,R,14.74,3,4,0,0,0,0,1,1,2,1,2,1,1,0,6
+2013-2014 Regular Season,4/12/14,Ishmael Smith,Phoenix,Dallas,R,3,1,2,0,0,0,0,0,0,0,0,0,0,0,0,2
+2013-2014 Regular Season,4/12/14,Shawn Marion,Dallas,Phoenix,H,33.94,3,6,1,2,0,0,1,5,6,1,1,3,3,0,7
+2013-2014 Regular Season,4/12/14,Dirk Nowitzki,Dallas,Phoenix,H,39.09,8,15,3,6,4,4,0,8,8,3,2,2,4,1,23
+2013-2014 Regular Season,4/12/14,Samuel Dalembert,Dallas,Phoenix,H,14.44,2,5,0,0,2,2,3,2,5,0,0,0,0,1,6
+2013-2014 Regular Season,4/12/14,Monta Ellis,Dallas,Phoenix,H,43.47,15,23,3,4,4,7,0,4,4,5,3,2,5,0,37
+2013-2014 Regular Season,4/12/14,Jose Calderon,Dallas,Phoenix,H,17.04,0,3,0,1,0,0,0,1,1,2,0,0,1,0,0
+2013-2014 Regular Season,4/12/14,Brandan Wright,Dallas,Phoenix,H,32.25,5,8,0,0,2,2,5,6,11,1,3,1,1,3,12
+2013-2014 Regular Season,4/12/14,Devin Harris,Dallas,Phoenix,H,31.05,1,4,1,4,0,0,0,2,2,6,3,1,2,0,3
+2013-2014 Regular Season,4/12/14,Vince Carter,Dallas,Phoenix,H,21.02,4,13,2,6,0,0,0,5,5,2,5,2,3,0,10
+2013-2014 Regular Season,4/12/14,Jae Crowder,Dallas,Phoenix,H,1.97,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/12/14,Shane Larkin,Dallas,Phoenix,H,5.77,1,2,1,1,0,0,0,0,0,1,1,0,0,0,3
+2013-2014 Regular Season,4/12/14,Gordon Hayward,Utah,Denver,R,34.67,7,18,0,4,9,10,0,4,4,2,2,2,2,0,23
+2013-2014 Regular Season,4/12/14,Derrick Favors,Utah,Denver,R,34.3,6,10,0,0,1,5,2,8,10,2,5,4,3,2,13
+2013-2014 Regular Season,4/12/14,Enes Kanter,Utah,Denver,R,36.94,8,14,0,0,6,7,4,10,14,1,5,1,4,1,22
+2013-2014 Regular Season,4/12/14,Alec Burks,Utah,Denver,R,24.45,1,3,1,2,2,2,0,0,0,2,4,0,1,1,5
+2013-2014 Regular Season,4/12/14,Trey Burke,Utah,Denver,R,38.42,5,13,1,5,1,1,0,3,3,8,0,0,0,0,12
+2013-2014 Regular Season,4/12/14,Richard Jefferson,Utah,Denver,R,25.87,3,8,0,1,1,2,0,0,0,1,3,2,1,0,7
+2013-2014 Regular Season,4/12/14,Jeremy Evans,Utah,Denver,R,20.59,3,7,0,0,4,5,1,4,5,1,3,1,1,2,10
+2013-2014 Regular Season,4/12/14,Ian Clark,Utah,Denver,R,5.89,0,1,0,0,0,0,0,1,1,1,0,2,1,0,0
+2013-2014 Regular Season,4/12/14,Diante Garrett,Utah,Denver,R,14.95,1,4,0,1,0,0,0,1,1,2,0,1,1,0,2
+2013-2014 Regular Season,4/12/14,Rudy Gobert,Utah,Denver,R,3.95,0,1,0,0,0,0,1,0,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/12/14,Quincy Miller,Denver,Utah,H,14.27,0,2,0,2,0,0,0,3,3,1,4,0,1,2,0
+2013-2014 Regular Season,4/12/14,Kenneth Faried,Denver,Utah,H,42.29,11,19,0,0,2,3,6,15,21,5,3,0,6,0,24
+2013-2014 Regular Season,4/12/14,Timofey Mozgov,Denver,Utah,H,32.74,4,11,0,2,3,6,2,8,10,2,5,1,0,0,11
+2013-2014 Regular Season,4/12/14,Randy Foye,Denver,Utah,H,39.6,7,13,3,4,9,9,2,2,4,6,1,0,4,1,26
+2013-2014 Regular Season,4/12/14,Aaron Brooks,Denver,Utah,H,40.64,3,13,0,3,2,2,1,2,3,5,1,1,1,0,8
+2013-2014 Regular Season,4/12/14,Evan Fournier,Denver,Utah,H,31.15,7,16,3,8,6,7,0,3,3,2,2,0,1,0,23
+2013-2014 Regular Season,4/12/14,Wilson Chandler,Denver,Utah,H,20.54,3,7,1,2,2,2,0,2,2,2,4,2,2,1,9
+2013-2014 Regular Season,4/12/14,Darrell Arthur,Denver,Utah,H,2.05,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+2013-2014 Regular Season,4/12/14,Jan Vesely,Denver,Utah,H,16.75,0,2,0,0,0,0,3,3,6,0,5,1,3,1,0
+2013-2014 Regular Season,4/13/14,Kevin Durant,Oklahoma City,Indiana,R,42.04,13,27,2,11,10,10,0,4,4,1,1,1,1,0,38
+2013-2014 Regular Season,4/13/14,Serge Ibaka,Oklahoma City,Indiana,R,31.95,4,11,1,2,2,2,3,3,6,1,5,3,1,3,11
+2013-2014 Regular Season,4/13/14,Kendrick Perkins,Oklahoma City,Indiana,R,22.64,1,3,0,0,0,0,1,7,8,1,2,1,1,0,2
+2013-2014 Regular Season,4/13/14,Thabo Sefolosha,Oklahoma City,Indiana,R,20.75,0,1,0,1,0,0,0,1,1,4,5,0,0,0,0
+2013-2014 Regular Season,4/13/14,Russell Westbrook,Oklahoma City,Indiana,R,33.05,7,23,3,10,4,5,4,5,9,7,2,1,4,0,21
+2013-2014 Regular Season,4/13/14,Caron Butler,Oklahoma City,Indiana,R,30.14,6,10,1,3,0,0,0,1,1,0,3,3,0,0,13
+2013-2014 Regular Season,4/13/14,Steven Adams,Oklahoma City,Indiana,R,13.1,2,3,0,0,0,0,0,1,1,0,3,2,0,0,4
+2013-2014 Regular Season,4/13/14,Reggie Jackson,Oklahoma City,Indiana,R,14.95,3,4,0,0,2,2,0,0,0,3,2,0,2,0,8
+2013-2014 Regular Season,4/13/14,Nick Collison,Oklahoma City,Indiana,R,16.05,0,1,0,0,0,0,0,2,2,3,1,0,0,1,0
+2013-2014 Regular Season,4/13/14,Derek Fisher,Oklahoma City,Indiana,R,15.35,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0
+2013-2014 Regular Season,4/13/14,Paul George,Indiana,Oklahoma City,H,35.7,6,17,3,6,5,5,2,10,12,2,3,0,1,0,20
+2013-2014 Regular Season,4/13/14,David West,Indiana,Oklahoma City,H,33.02,9,11,0,0,3,4,2,4,6,1,4,0,3,1,21
+2013-2014 Regular Season,4/13/14,Roy Hibbert,Indiana,Oklahoma City,H,27.19,0,9,0,0,0,0,2,4,6,0,2,1,2,1,0
+2013-2014 Regular Season,4/13/14,Lance Stephenson,Indiana,Oklahoma City,H,41.34,7,10,2,5,1,2,1,9,10,11,3,0,4,1,17
+2013-2014 Regular Season,4/13/14,George Hill,Indiana,Oklahoma City,H,23.19,1,3,0,2,1,2,0,0,0,2,4,0,0,0,3
+2013-2014 Regular Season,4/13/14,C.J. Watson,Indiana,Oklahoma City,H,25.07,6,10,4,7,4,6,0,3,3,1,0,1,3,0,20
+2013-2014 Regular Season,4/13/14,Ian Mahinmi,Indiana,Oklahoma City,H,20.57,4,4,0,0,3,4,3,2,5,1,2,0,1,1,11
+2013-2014 Regular Season,4/13/14,Evan Turner,Indiana,Oklahoma City,H,18.97,0,1,0,0,0,0,0,2,2,4,2,1,4,0,0
+2013-2014 Regular Season,4/13/14,Luis Scola,Indiana,Oklahoma City,H,14.99,5,7,0,0,0,0,0,2,2,1,1,0,3,0,10
+2013-2014 Regular Season,4/13/14,Terrence Ross,Toronto,Detroit,R,22.54,2,4,1,3,1,1,0,4,4,4,6,2,2,1,6
+2013-2014 Regular Season,4/13/14,Amir Johnson,Toronto,Detroit,R,16.84,3,3,0,0,2,3,0,2,2,1,5,2,0,2,8
+2013-2014 Regular Season,4/13/14,Jonas Valanciunas,Toronto,Detroit,R,29.84,5,12,0,0,8,9,2,6,8,1,2,1,0,0,18
+2013-2014 Regular Season,4/13/14,DeMar DeRozan,Toronto,Detroit,R,37.57,10,19,2,4,8,10,0,1,1,3,3,0,0,0,30
+2013-2014 Regular Season,4/13/14,Kyle Lowry,Toronto,Detroit,R,33.54,9,18,4,7,6,8,1,1,2,7,6,2,2,0,28
+2013-2014 Regular Season,4/13/14,Patrick Patterson,Toronto,Detroit,R,24.65,2,5,0,3,0,0,2,6,8,1,1,0,1,3,4
+2013-2014 Regular Season,4/13/14,John Salmons,Toronto,Detroit,R,16.09,0,3,0,0,0,0,0,1,1,1,2,0,0,0,0
+2013-2014 Regular Season,4/13/14,Tyler Hansbrough,Toronto,Detroit,R,10.6,0,0,0,0,2,2,0,3,3,0,2,1,0,0,2
+2013-2014 Regular Season,4/13/14,Greivis Vasquez,Toronto,Detroit,R,19.35,5,9,2,4,2,2,0,0,0,2,3,0,3,0,14
+2013-2014 Regular Season,4/13/14,Nando De Colo,Toronto,Detroit,R,14.94,2,5,0,2,0,0,1,0,1,2,3,0,1,0,4
+2013-2014 Regular Season,4/13/14,Chuck Hayes,Toronto,Detroit,R,14.09,1,3,0,0,0,0,2,8,10,0,2,0,0,0,2
+2013-2014 Regular Season,4/13/14,Kyle Singler,Detroit,Toronto,H,40.54,4,9,2,4,4,6,2,4,6,3,3,0,0,0,14
+2013-2014 Regular Season,4/13/14,Greg Monroe,Detroit,Toronto,H,33.72,8,13,0,0,7,11,4,6,10,1,3,0,2,1,23
+2013-2014 Regular Season,4/13/14,Andre Drummond,Detroit,Toronto,H,31.27,5,9,0,0,4,8,6,11,17,2,5,2,3,3,14
+2013-2014 Regular Season,4/13/14,Rodney Stuckey,Detroit,Toronto,H,28.12,5,11,0,1,8,10,3,3,6,4,4,0,4,0,18
+2013-2014 Regular Season,4/13/14,Brandon Jennings,Detroit,Toronto,H,28.54,6,18,2,9,3,4,0,3,3,7,0,1,2,0,17
+2013-2014 Regular Season,4/13/14,Jonas Jerebko,Detroit,Toronto,H,22.94,2,5,1,1,1,1,2,2,4,2,4,1,1,0,6
+2013-2014 Regular Season,4/13/14,Tony Mitchell,Detroit,Toronto,H,6.69,1,2,0,0,0,1,3,0,3,0,4,2,1,0,2
+2013-2014 Regular Season,4/13/14,Luigi Datome,Detroit,Toronto,H,13.4,0,2,0,1,0,0,0,4,4,2,1,0,0,0,0
+2013-2014 Regular Season,4/13/14,Peyton Siva,Detroit,Toronto,H,19.89,2,9,0,3,5,7,0,0,0,4,3,0,1,0,9
+2013-2014 Regular Season,4/13/14,Kentavious Caldwell-Pope,Detroit,Toronto,H,14.94,2,6,0,1,0,0,1,1,2,0,2,0,0,0,4
+2013-2014 Regular Season,4/13/14,Maurice Harkless,Orlando,Brooklyn,R,23.72,4,8,1,2,1,1,1,2,3,2,1,0,2,0,10
+2013-2014 Regular Season,4/13/14,Kyle O'Quinn,Orlando,Brooklyn,R,22.45,5,7,0,0,0,0,1,3,4,2,3,2,1,0,10
+2013-2014 Regular Season,4/13/14,Dewayne Dedmon,Orlando,Brooklyn,R,20.02,1,4,0,0,0,0,1,4,5,0,2,1,2,2,2
+2013-2014 Regular Season,4/13/14,Arron Afflalo,Orlando,Brooklyn,R,21.3,2,7,1,2,0,0,0,0,0,5,1,0,0,0,5
+2013-2014 Regular Season,4/13/14,Victor Oladipo,Orlando,Brooklyn,R,25.69,5,8,3,3,1,2,0,2,2,1,2,2,6,0,14
+2013-2014 Regular Season,4/13/14,Tobias Harris,Orlando,Brooklyn,R,27.15,7,11,1,2,3,5,2,5,7,2,2,3,2,0,18
+2013-2014 Regular Season,4/13/14,Doron Lamb,Orlando,Brooklyn,R,26.7,1,7,1,5,0,0,1,0,1,1,2,1,2,0,3
+2013-2014 Regular Season,4/13/14,Andrew Nicholson,Orlando,Brooklyn,R,26.39,5,8,0,1,2,2,1,6,7,0,6,2,1,0,12
+2013-2014 Regular Season,4/13/14,E'Twaun Moore,Orlando,Brooklyn,R,24.29,3,6,0,1,2,2,0,0,0,3,0,1,2,0,8
+2013-2014 Regular Season,4/13/14,Ronnie Price,Orlando,Brooklyn,R,22.32,2,8,1,4,1,2,1,1,2,6,4,1,1,0,6
+2013-2014 Regular Season,4/13/14,Andrei Kirilenko,Brooklyn,Orlando,H,27.29,1,4,0,0,0,0,0,3,3,2,1,0,1,1,2
+2013-2014 Regular Season,4/13/14,Paul Pierce,Brooklyn,Orlando,H,19.27,3,7,0,3,4,4,0,5,5,3,1,3,0,0,10
+2013-2014 Regular Season,4/13/14,Kevin Garnett,Brooklyn,Orlando,H,19.29,1,3,0,0,1,2,2,5,7,2,2,1,5,2,3
+2013-2014 Regular Season,4/13/14,Joe Johnson,Brooklyn,Orlando,H,33.8,6,13,3,7,2,2,1,2,3,2,0,0,4,0,17
+2013-2014 Regular Season,4/13/14,Deron Williams,Brooklyn,Orlando,H,34.95,5,10,4,7,2,3,0,1,1,5,1,4,2,0,16
+2013-2014 Regular Season,4/13/14,Mason Plumlee,Brooklyn,Orlando,H,26.17,6,8,0,0,5,8,5,6,11,2,1,2,4,1,17
+2013-2014 Regular Season,4/13/14,Marcus Thornton,Brooklyn,Orlando,H,22.65,3,11,1,5,1,2,2,2,4,4,1,0,1,0,8
+2013-2014 Regular Season,4/13/14,Mirza Teletovic,Brooklyn,Orlando,H,28.74,7,12,4,7,2,2,2,4,6,1,4,0,2,1,20
+2013-2014 Regular Season,4/13/14,Jorge Gutierrez,Brooklyn,Orlando,H,18.85,0,2,0,0,0,0,1,1,2,2,4,0,2,0,0
+2013-2014 Regular Season,4/13/14,Andray Blatche,Brooklyn,Orlando,H,6.92,2,3,0,0,0,0,1,0,1,0,1,1,2,0,4
+2013-2014 Regular Season,4/13/14,Jason Collins,Brooklyn,Orlando,H,1.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Marquis Teague,Brooklyn,Orlando,H,1.05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Carlos Boozer,Chicago,New York,R,24,4,9,0,0,0,0,2,5,7,5,4,0,1,0,8
+2013-2014 Regular Season,4/13/14,Mike Dunleavy,Chicago,New York,R,32.72,4,9,1,4,4,4,0,3,3,0,1,1,0,0,13
+2013-2014 Regular Season,4/13/14,Joakim Noah,Chicago,New York,R,40.44,2,5,0,0,9,11,4,13,17,9,4,1,4,1,13
+2013-2014 Regular Season,4/13/14,Jimmy Butler,Chicago,New York,R,45.1,6,11,2,4,3,6,0,3,3,3,3,1,2,0,17
+2013-2014 Regular Season,4/13/14,Kirk Hinrich,Chicago,New York,R,32.94,4,13,1,6,2,2,1,3,4,3,1,0,1,0,11
+2013-2014 Regular Season,4/13/14,D.J. Augustin,Chicago,New York,R,30.35,3,13,2,8,4,6,1,2,3,3,1,0,4,0,12
+2013-2014 Regular Season,4/13/14,Taj Gibson,Chicago,New York,R,27.25,5,13,0,0,3,3,3,4,7,0,4,0,3,0,13
+2013-2014 Regular Season,4/13/14,Nazr Mohammed,Chicago,New York,R,4.32,1,1,0,0,0,0,1,0,1,0,1,0,0,0,2
+2013-2014 Regular Season,4/13/14,Tony Snell,Chicago,New York,R,2.9,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+2013-2014 Regular Season,4/13/14,Carmelo Anthony,New York,Chicago,H,28.29,7,13,1,4,2,3,1,0,1,3,4,1,2,0,17
+2013-2014 Regular Season,4/13/14,Amar'e Stoudemire,New York,Chicago,H,34.44,5,8,0,0,2,3,2,1,3,2,2,1,0,1,12
+2013-2014 Regular Season,4/13/14,Tyson Chandler,New York,Chicago,H,29.65,0,2,0,0,1,2,1,11,12,1,2,1,2,1,1
+2013-2014 Regular Season,4/13/14,Raymond Felton,New York,Chicago,H,35.55,5,14,1,3,3,4,0,1,1,7,4,1,1,0,14
+2013-2014 Regular Season,4/13/14,J.R. Smith,New York,Chicago,H,22.17,6,13,5,9,0,0,0,3,3,1,0,1,1,0,17
+2013-2014 Regular Season,4/13/14,Iman Shumpert,New York,Chicago,H,31.74,5,11,0,1,0,0,0,7,7,0,3,1,1,0,10
+2013-2014 Regular Season,4/13/14,Tim Hardaway,New York,Chicago,H,26.55,5,12,2,7,8,8,0,1,1,0,2,3,0,0,20
+2013-2014 Regular Season,4/13/14,Pablo Prigioni,New York,Chicago,H,11.62,1,3,0,1,1,1,0,0,0,0,4,0,0,0,3
+2013-2014 Regular Season,4/13/14,Cole Aldrich,New York,Chicago,H,18.35,3,5,0,0,0,0,3,5,8,2,4,0,2,3,6
+2013-2014 Regular Season,4/13/14,Toure' Murry,New York,Chicago,H,0.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Jeremy Tyler,New York,Chicago,H,0.84,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Andre Iguodala,Golden State,Portland,R,37.05,7,10,1,3,0,0,0,5,5,4,2,1,2,0,15
+2013-2014 Regular Season,4/13/14,David Lee,Golden State,Portland,R,33.34,2,9,0,0,0,2,0,4,4,2,6,1,3,0,4
+2013-2014 Regular Season,4/13/14,Andrew Bogut,Golden State,Portland,R,31.69,1,3,0,0,0,0,2,7,9,4,4,2,0,0,2
+2013-2014 Regular Season,4/13/14,Klay Thompson,Golden State,Portland,R,31.99,9,17,6,10,1,2,0,2,2,2,6,2,1,0,25
+2013-2014 Regular Season,4/13/14,Stephen Curry,Golden State,Portland,R,45.44,16,29,7,14,8,8,1,0,1,5,3,3,4,0,47
+2013-2014 Regular Season,4/13/14,Harrison Barnes,Golden State,Portland,R,22.22,3,7,1,3,1,2,2,6,8,1,1,0,0,0,8
+2013-2014 Regular Season,4/13/14,Jermaine O'Neal,Golden State,Portland,R,20.44,2,5,0,0,2,2,0,3,3,1,1,0,1,0,6
+2013-2014 Regular Season,4/13/14,Steve Blake,Golden State,Portland,R,13.07,2,6,1,4,0,0,0,1,1,1,1,0,0,0,5
+2013-2014 Regular Season,4/13/14,Draymond Green,Golden State,Portland,R,22.32,1,3,1,2,0,0,1,3,4,2,3,1,2,0,3
+2013-2014 Regular Season,4/13/14,Jordan Crawford,Golden State,Portland,R,7.45,1,2,0,1,0,0,0,1,1,0,0,0,1,0,2
+2013-2014 Regular Season,4/13/14,Marreese Speights,Golden State,Portland,R,0.04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Nicolas Batum,Portland,Golden State,H,43.82,7,9,3,5,1,5,0,12,12,5,0,1,3,1,18
+2013-2014 Regular Season,4/13/14,LaMarcus Aldridge,Portland,Golden State,H,38.14,11,23,0,0,4,6,1,6,7,2,0,3,2,0,26
+2013-2014 Regular Season,4/13/14,Robin Lopez,Portland,Golden State,H,45.27,6,11,0,0,4,4,3,4,7,3,2,0,1,0,16
+2013-2014 Regular Season,4/13/14,Wesley Matthews,Portland,Golden State,H,41.87,6,13,4,10,8,10,0,3,3,3,2,1,4,0,24
+2013-2014 Regular Season,4/13/14,Damian Lillard,Portland,Golden State,H,43.59,3,13,2,6,5,6,1,2,3,5,4,1,3,1,13
+2013-2014 Regular Season,4/13/14,Thomas Robinson,Portland,Golden State,H,13.09,2,4,0,0,0,0,2,3,5,2,2,1,1,0,4
+2013-2014 Regular Season,4/13/14,Mo Williams,Portland,Golden State,H,21.97,8,10,1,2,1,1,0,3,3,3,2,0,0,0,18
+2013-2014 Regular Season,4/13/14,Dorell Wright,Portland,Golden State,H,17.29,0,3,0,1,0,0,0,6,6,3,0,0,0,1,0
+2013-2014 Regular Season,4/13/14,Corey Brewer,Minnesota,Sacramento,R,30.37,2,8,0,1,6,8,0,0,0,1,4,2,0,1,10
+2013-2014 Regular Season,4/13/14,Kevin Love,Minnesota,Sacramento,R,38.44,12,23,4,9,15,17,4,7,11,1,0,0,3,0,43
+2013-2014 Regular Season,4/13/14,Gorgui Dieng,Minnesota,Sacramento,R,34.97,9,15,1,1,2,2,3,11,14,4,4,2,3,2,21
+2013-2014 Regular Season,4/13/14,Kevin Martin,Minnesota,Sacramento,R,18.22,0,8,0,3,2,2,0,1,1,0,1,1,1,0,2
+2013-2014 Regular Season,4/13/14,Ricky Rubio,Minnesota,Sacramento,R,32.3,0,4,0,1,0,0,0,1,1,11,1,0,2,0,0
+2013-2014 Regular Season,4/13/14,Robbie Hummel,Minnesota,Sacramento,R,16.97,1,3,1,2,0,0,1,0,1,1,3,0,0,0,3
+2013-2014 Regular Season,4/13/14,Luc Mbah a Moute,Minnesota,Sacramento,R,25.45,6,9,0,0,0,0,1,2,3,0,1,1,1,1,12
+2013-2014 Regular Season,4/13/14,Ronny Turiaf,Minnesota,Sacramento,R,4.12,0,0,0,0,0,0,0,2,2,0,1,0,0,1,0
+2013-2014 Regular Season,4/13/14,Jose Barea,Minnesota,Sacramento,R,22.47,2,11,1,5,0,0,0,2,2,7,3,0,0,0,5
+2013-2014 Regular Season,4/13/14,Dante Cunningham,Minnesota,Sacramento,R,16.72,3,7,0,0,1,1,1,5,6,1,2,0,0,0,7
+2013-2014 Regular Season,4/13/14,Derrick Williams,Sacramento,Minnesota,H,39.74,4,9,1,2,4,7,1,3,4,1,1,1,2,0,13
+2013-2014 Regular Season,4/13/14,Jason Thompson,Sacramento,Minnesota,H,26.89,3,8,0,0,0,0,2,9,11,1,6,2,2,0,6
+2013-2014 Regular Season,4/13/14,DeMarcus Cousins,Sacramento,Minnesota,H,37.47,13,21,0,0,9,13,1,14,15,6,2,1,6,3,35
+2013-2014 Regular Season,4/13/14,Ben McLemore,Sacramento,Minnesota,H,38.85,6,11,3,6,4,5,1,2,3,2,4,0,1,2,19
+2013-2014 Regular Season,4/13/14,Isaiah Thomas,Sacramento,Minnesota,H,30.35,6,13,1,5,1,2,2,1,3,4,3,0,2,0,14
+2013-2014 Regular Season,4/13/14,Ray McCallum,Sacramento,Minnesota,H,28.37,5,9,1,2,0,0,0,3,3,6,1,0,1,1,11
+2013-2014 Regular Season,4/13/14,Aaron Gray,Sacramento,Minnesota,H,7.82,1,2,0,0,0,0,0,2,2,1,0,0,0,0,2
+2013-2014 Regular Season,4/13/14,Quincy Acy,Sacramento,Minnesota,H,12.74,2,2,0,0,0,0,1,1,2,0,4,0,0,0,4
+2013-2014 Regular Season,4/13/14,Travis Outlaw,Sacramento,Minnesota,H,17.8,1,7,0,2,0,0,0,4,4,4,2,2,1,0,2
+2013-2014 Regular Season,4/13/14,Tayshaun Prince,Memphis,LA Lakers,R,21.45,4,7,1,1,0,0,1,4,5,2,0,0,0,1,9
+2013-2014 Regular Season,4/13/14,Zach Randolph,Memphis,LA Lakers,R,30.94,4,8,0,0,2,4,1,5,6,4,2,2,4,0,10
+2013-2014 Regular Season,4/13/14,Marc Gasol,Memphis,LA Lakers,R,36.27,7,16,0,0,4,5,4,11,15,4,1,3,3,0,18
+2013-2014 Regular Season,4/13/14,Courtney Lee,Memphis,LA Lakers,R,29.75,4,11,2,4,0,0,2,1,3,3,2,0,2,1,10
+2013-2014 Regular Season,4/13/14,Mike Conley,Memphis,LA Lakers,R,34.5,9,12,2,3,4,4,0,1,1,8,2,2,1,0,24
+2013-2014 Regular Season,4/13/14,Tony Allen,Memphis,LA Lakers,R,19.4,4,12,0,2,0,0,2,3,5,3,1,2,2,1,8
+2013-2014 Regular Season,4/13/14,Kosta Koufos,Memphis,LA Lakers,R,8.25,2,3,0,0,0,0,1,2,3,1,1,0,1,1,4
+2013-2014 Regular Season,4/13/14,Mike Miller,Memphis,LA Lakers,R,23.59,5,7,3,4,0,0,1,4,5,2,0,1,2,0,13
+2013-2014 Regular Season,4/13/14,Nick Calathes,Memphis,LA Lakers,R,14.44,1,4,0,1,0,0,0,0,0,2,0,0,1,0,2
+2013-2014 Regular Season,4/13/14,Ed Davis,Memphis,LA Lakers,R,19.67,2,8,0,0,0,0,4,5,9,0,3,0,1,3,4
+2013-2014 Regular Season,4/13/14,James Johnson,Memphis,LA Lakers,R,0.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Beno Udrih,Memphis,LA Lakers,R,0.89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/13/14,Wesley Johnson,LA Lakers,Memphis,H,40.15,6,12,3,5,0,0,3,12,15,4,1,1,1,0,15
+2013-2014 Regular Season,4/13/14,Ryan Kelly,LA Lakers,Memphis,H,24.49,2,8,1,3,3,4,0,1,1,3,5,1,2,1,8
+2013-2014 Regular Season,4/13/14,Jordan Hill,LA Lakers,Memphis,H,27.02,5,9,0,0,0,0,2,8,10,3,3,1,3,2,10
+2013-2014 Regular Season,4/13/14,Jodie Meeks,LA Lakers,Memphis,H,38.79,7,12,1,3,5,5,0,0,0,1,1,0,0,0,20
+2013-2014 Regular Season,4/13/14,Kendall Marshall,LA Lakers,Memphis,H,28.84,4,9,1,4,0,0,0,0,0,9,0,2,3,0,9
+2013-2014 Regular Season,4/13/14,Nick Young,LA Lakers,Memphis,H,25.52,5,12,4,8,0,0,0,1,1,0,2,1,0,1,14
+2013-2014 Regular Season,4/13/14,Robert Sacre,LA Lakers,Memphis,H,30.77,4,8,0,0,1,2,0,2,2,2,2,3,2,1,9
+2013-2014 Regular Season,4/13/14,Jordan Farmar,LA Lakers,Memphis,H,24.45,2,10,1,4,0,0,0,3,3,7,1,0,4,0,5
+2013-2014 Regular Season,4/14/14,Jeff Green,Boston,Philadelphia,R,37.64,10,16,2,4,5,6,0,3,3,1,6,3,1,2,27
+2013-2014 Regular Season,4/14/14,Brandon Bass,Boston,Philadelphia,R,38.04,3,11,0,0,3,4,4,4,8,2,5,0,1,2,9
+2013-2014 Regular Season,4/14/14,Kelly Olynyk,Boston,Philadelphia,R,35.29,10,19,2,3,6,7,3,6,9,3,4,0,2,0,28
+2013-2014 Regular Season,4/14/14,Avery Bradley,Boston,Philadelphia,R,42.42,9,22,2,11,3,4,0,2,2,3,2,1,3,0,23
+2013-2014 Regular Season,4/14/14,Rajon Rondo,Boston,Philadelphia,R,34.97,4,8,0,0,0,1,3,8,11,14,1,2,4,0,8
+2013-2014 Regular Season,4/14/14,Phil Pressey,Boston,Philadelphia,R,14.8,0,1,0,0,2,2,0,1,1,3,1,0,4,0,2
+2013-2014 Regular Season,4/14/14,Joel Anthony,Boston,Philadelphia,R,13.87,0,1,0,0,0,2,2,0,2,0,2,0,0,0,0
+2013-2014 Regular Season,4/14/14,Chris Johnson,Boston,Philadelphia,R,16.84,3,6,2,4,0,0,0,3,3,0,1,2,2,0,8
+2013-2014 Regular Season,4/14/14,Chris Babb,Boston,Philadelphia,R,6.17,1,2,1,2,0,0,0,1,1,0,1,0,0,0,3
+2013-2014 Regular Season,4/14/14,Hollis Thompson,Philadelphia,Boston,H,15.37,1,2,0,1,2,3,0,2,2,0,3,0,0,0,4
+2013-2014 Regular Season,4/14/14,Thaddeus Young,Philadelphia,Boston,H,35.32,5,16,1,4,4,6,3,4,7,7,3,2,0,3,15
+2013-2014 Regular Season,4/14/14,Henry Sims,Philadelphia,Boston,H,31.85,6,10,0,0,1,2,1,4,5,3,1,1,2,0,13
+2013-2014 Regular Season,4/14/14,James Anderson,Philadelphia,Boston,H,27.99,1,8,1,4,3,4,0,6,6,2,1,0,1,1,6
+2013-2014 Regular Season,4/14/14,Michael Carter-Williams,Philadelphia,Boston,H,34.32,9,13,0,0,3,4,1,13,14,6,3,4,3,2,21
+2013-2014 Regular Season,4/14/14,Elliot Williams,Philadelphia,Boston,H,24.64,4,5,0,0,2,4,0,1,1,1,0,0,0,0,10
+2013-2014 Regular Season,4/14/14,Tony Wroten,Philadelphia,Boston,H,28.3,7,12,0,1,6,7,1,1,2,4,4,2,7,0,20
+2013-2014 Regular Season,4/14/14,Jarvis Varnado,Philadelphia,Boston,H,15.87,1,1,0,0,2,6,0,1,1,1,2,0,0,2,4
+2013-2014 Regular Season,4/14/14,Casper Ware,Philadelphia,Boston,H,13.69,4,6,1,2,0,0,0,1,1,1,1,0,0,0,9
+2013-2014 Regular Season,4/14/14,Brandon Davies,Philadelphia,Boston,H,12.69,5,6,0,0,1,2,3,0,3,0,3,1,1,0,11
+2013-2014 Regular Season,4/14/14,Khris Middleton,Milwaukee,Toronto,R,35.82,4,8,2,3,5,7,0,3,3,4,4,2,3,0,15
+2013-2014 Regular Season,4/14/14,Jeff Adrien,Milwaukee,Toronto,R,39.94,9,16,0,0,1,3,1,8,9,0,3,1,0,0,19
+2013-2014 Regular Season,4/14/14,Zaza Pachulia,Milwaukee,Toronto,R,16.7,3,5,0,0,0,0,1,3,4,3,2,0,1,1,6
+2013-2014 Regular Season,4/14/14,Ramon Sessions,Milwaukee,Toronto,R,39.62,7,13,2,2,5,6,1,1,2,5,1,1,4,0,21
+2013-2014 Regular Season,4/14/14,Brandon Knight,Milwaukee,Toronto,R,42.62,7,17,1,4,3,4,0,2,2,4,3,2,2,1,18
+2013-2014 Regular Season,4/14/14,John Henson,Milwaukee,Toronto,R,26.92,5,8,0,0,2,2,2,5,7,2,3,0,3,1,12
+2013-2014 Regular Season,4/14/14,Giannis Antetokounmpo,Milwaukee,Toronto,R,23.54,1,3,1,1,2,2,0,4,4,3,1,1,1,0,5
+2013-2014 Regular Season,4/14/14,Chris Wright,Milwaukee,Toronto,R,10.49,2,3,0,0,0,2,0,0,0,0,2,0,1,0,4
+2013-2014 Regular Season,4/14/14,Miroslav Raduljica,Milwaukee,Toronto,R,4.39,0,0,0,0,0,0,1,0,1,0,2,0,1,0,0
+2013-2014 Regular Season,4/14/14,Terrence Ross,Toronto,Milwaukee,H,34.2,3,9,1,5,1,2,1,1,2,3,2,3,2,0,8
+2013-2014 Regular Season,4/14/14,Amir Johnson,Toronto,Milwaukee,H,27.85,4,7,2,2,0,1,1,4,5,3,3,1,2,0,10
+2013-2014 Regular Season,4/14/14,Jonas Valanciunas,Toronto,Milwaukee,H,27.7,4,7,0,0,6,6,3,10,13,1,3,0,2,0,14
+2013-2014 Regular Season,4/14/14,Greivis Vasquez,Toronto,Milwaukee,H,39.67,8,12,5,9,4,5,0,2,2,7,2,0,2,0,25
+2013-2014 Regular Season,4/14/14,Kyle Lowry,Toronto,Milwaukee,H,36.7,10,24,3,9,1,1,3,2,5,4,3,1,1,0,24
+2013-2014 Regular Season,4/14/14,Tyler Hansbrough,Toronto,Milwaukee,H,20.3,4,6,0,0,4,5,5,6,11,0,3,3,1,0,12
+2013-2014 Regular Season,4/14/14,Patrick Patterson,Toronto,Milwaukee,H,20.17,1,7,1,4,0,0,1,4,5,1,2,2,1,0,3
+2013-2014 Regular Season,4/14/14,Nando De Colo,Toronto,Milwaukee,H,17.8,2,6,1,2,2,2,1,1,2,5,2,1,1,0,7
+2013-2014 Regular Season,4/14/14,John Salmons,Toronto,Milwaukee,H,15.62,2,3,1,1,2,4,0,1,1,1,2,0,1,0,7
+2013-2014 Regular Season,4/14/14,Dwyane Wade,Miami,Washington,R,18.45,4,9,0,1,1,2,0,0,0,3,0,2,4,0,9
+2013-2014 Regular Season,4/14/14,Shane Battier,Miami,Washington,R,14.94,0,5,0,5,0,0,0,1,1,2,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Udonis Haslem,Miami,Washington,R,20.59,4,9,0,0,1,1,1,7,8,0,3,2,0,1,9
+2013-2014 Regular Season,4/14/14,Toney Douglas,Miami,Washington,R,34.6,5,8,1,3,3,3,0,3,3,3,1,2,4,0,14
+2013-2014 Regular Season,4/14/14,Mario Chalmers,Miami,Washington,R,30.39,3,9,0,2,1,2,1,3,4,3,2,1,1,0,7
+2013-2014 Regular Season,4/14/14,Ray Allen,Miami,Washington,R,18.65,4,7,3,5,2,2,0,2,2,1,1,1,0,0,13
+2013-2014 Regular Season,4/14/14,Chris Andersen,Miami,Washington,R,7.09,0,1,0,0,0,0,0,1,1,0,2,0,0,1,0
+2013-2014 Regular Season,4/14/14,Rashard Lewis,Miami,Washington,R,6.5,1,3,0,1,0,0,1,0,1,1,1,1,0,0,2
+2013-2014 Regular Season,4/14/14,Michael Beasley,Miami,Washington,R,26.9,7,12,0,1,4,4,1,4,5,3,1,1,2,1,18
+2013-2014 Regular Season,4/14/14,Norris Cole,Miami,Washington,R,20.99,2,5,0,1,0,0,0,1,1,7,1,0,1,0,4
+2013-2014 Regular Season,4/14/14,Justin Hamilton,Miami,Washington,R,23.75,2,5,0,2,2,2,1,1,2,0,1,0,0,0,6
+2013-2014 Regular Season,4/14/14,James Jones,Miami,Washington,R,17.19,4,7,3,6,0,0,0,3,3,0,2,1,0,0,11
+2013-2014 Regular Season,4/14/14,Trevor Ariza,Washington,Miami,H,31.75,10,13,5,8,0,2,1,2,3,2,1,3,1,0,25
+2013-2014 Regular Season,4/14/14,Trevor Booker,Washington,Miami,H,21.32,4,4,0,0,0,2,0,2,2,1,0,2,1,0,8
+2013-2014 Regular Season,4/14/14,Marcin Gortat,Washington,Miami,H,22.8,5,9,0,0,0,0,3,10,13,1,1,0,1,1,10
+2013-2014 Regular Season,4/14/14,Bradley Beal,Washington,Miami,H,26.24,5,9,3,5,2,3,0,3,3,5,1,1,3,1,15
+2013-2014 Regular Season,4/14/14,John Wall,Washington,Miami,H,24.12,2,7,0,3,0,0,0,2,2,13,2,1,2,0,4
+2013-2014 Regular Season,4/14/14,Martell Webster,Washington,Miami,H,26.02,2,5,1,4,2,2,0,2,2,1,3,0,1,0,7
+2013-2014 Regular Season,4/14/14,Nene Hilario,Washington,Miami,H,24.29,8,12,0,0,2,4,1,3,4,2,2,1,5,1,18
+2013-2014 Regular Season,4/14/14,Andre Miller,Washington,Miami,H,21.8,0,1,0,0,2,2,1,2,3,9,1,0,1,0,2
+2013-2014 Regular Season,4/14/14,Al Harrington,Washington,Miami,H,17.55,6,8,4,6,0,0,0,4,4,1,3,1,1,0,16
+2013-2014 Regular Season,4/14/14,Otto Porter,Washington,Miami,H,12,3,7,0,2,0,0,2,1,3,0,4,0,1,0,6
+2013-2014 Regular Season,4/14/14,Drew Gooden,Washington,Miami,H,5.84,1,2,1,1,0,0,0,1,1,1,1,0,0,0,3
+2013-2014 Regular Season,4/14/14,Kevin Seraphin,Washington,Miami,H,4.22,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Garrett Temple,Washington,Miami,H,2.09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Michael Kidd-Gilchrist,Charlotte,Atlanta,R,23.35,3,4,0,0,2,7,3,6,9,3,2,0,2,0,8
+2013-2014 Regular Season,4/14/14,Josh McRoberts,Charlotte,Atlanta,R,15.49,1,5,1,5,0,0,0,2,2,4,4,0,1,0,3
+2013-2014 Regular Season,4/14/14,Al Jefferson,Charlotte,Atlanta,R,34.77,11,17,0,1,5,7,4,11,15,1,4,1,2,0,27
+2013-2014 Regular Season,4/14/14,Gerald Henderson,Charlotte,Atlanta,R,24.05,1,9,0,1,2,2,2,3,5,3,2,0,0,0,4
+2013-2014 Regular Season,4/14/14,Kemba Walker,Charlotte,Atlanta,R,24.65,1,9,1,5,2,4,0,0,0,7,0,0,1,0,5
+2013-2014 Regular Season,4/14/14,Cody Zeller,Charlotte,Atlanta,R,12.47,3,6,0,0,2,4,0,1,1,1,2,0,1,0,8
+2013-2014 Regular Season,4/14/14,Gary Neal,Charlotte,Atlanta,R,25.22,5,11,2,3,5,5,0,2,2,2,1,0,0,0,17
+2013-2014 Regular Season,4/14/14,Chris Douglas-Roberts,Charlotte,Atlanta,R,23.39,2,3,0,1,1,1,0,2,2,1,3,1,0,0,5
+2013-2014 Regular Season,4/14/14,Luke Ridnour,Charlotte,Atlanta,R,23.35,5,8,0,2,0,0,0,0,0,4,1,0,2,0,10
+2013-2014 Regular Season,4/14/14,Bismack Biyombo,Charlotte,Atlanta,R,13.24,1,1,0,0,0,1,3,3,6,1,0,0,0,2,2
+2013-2014 Regular Season,4/14/14,Anthony Tolliver,Charlotte,Atlanta,R,20.05,2,7,2,7,0,0,0,6,6,0,1,1,0,0,6
+2013-2014 Regular Season,4/14/14,Cartier Martin,Atlanta,Charlotte,H,35.59,3,11,1,4,3,3,0,4,4,1,1,0,0,0,10
+2013-2014 Regular Season,4/14/14,Mike Scott,Atlanta,Charlotte,H,34.6,8,23,1,6,3,4,1,5,6,0,2,0,1,0,20
+2013-2014 Regular Season,4/14/14,Pero Antic,Atlanta,Charlotte,H,19.15,1,2,0,1,1,4,1,2,3,2,1,1,0,0,3
+2013-2014 Regular Season,4/14/14,Louis Williams,Atlanta,Charlotte,H,34.22,5,13,0,7,3,3,1,4,5,6,1,1,1,0,13
+2013-2014 Regular Season,4/14/14,Jeff Teague,Atlanta,Charlotte,H,22.79,4,6,3,4,0,0,0,4,4,5,3,1,0,0,11
+2013-2014 Regular Season,4/14/14,Elton Brand,Atlanta,Charlotte,H,20.77,4,5,0,0,4,6,2,5,7,1,4,2,0,3,12
+2013-2014 Regular Season,4/14/14,Shelvin Mack,Atlanta,Charlotte,H,27.74,5,10,2,5,1,1,0,4,4,5,4,0,0,0,13
+2013-2014 Regular Season,4/14/14,Dennis Schroeder,Atlanta,Charlotte,H,23.69,1,4,1,3,0,0,0,2,2,6,3,1,3,0,3
+2013-2014 Regular Season,4/14/14,Mike Muscala,Atlanta,Charlotte,H,21.49,3,5,0,0,2,2,0,4,4,1,2,0,1,0,8
+2013-2014 Regular Season,4/14/14,Kyle O'Quinn,Orlando,Chicago,R,28.09,9,11,0,1,2,2,1,6,7,1,3,0,2,1,20
+2013-2014 Regular Season,4/14/14,Maurice Harkless,Orlando,Chicago,R,27.34,1,3,1,3,0,0,0,3,3,4,2,0,2,1,3
+2013-2014 Regular Season,4/14/14,Dewayne Dedmon,Orlando,Chicago,R,28.5,1,4,0,0,4,4,2,7,9,0,6,0,0,2,6
+2013-2014 Regular Season,4/14/14,Arron Afflalo,Orlando,Chicago,R,22.47,5,7,1,1,2,2,0,1,1,1,2,0,2,0,13
+2013-2014 Regular Season,4/14/14,Victor Oladipo,Orlando,Chicago,R,23.4,3,8,1,3,3,4,0,3,3,4,1,1,3,0,10
+2013-2014 Regular Season,4/14/14,Doron Lamb,Orlando,Chicago,R,25.54,3,6,1,2,2,3,0,0,0,2,2,1,1,1,9
+2013-2014 Regular Season,4/14/14,Andrew Nicholson,Orlando,Chicago,R,21.37,8,9,3,3,0,0,0,4,4,0,4,0,0,1,19
+2013-2014 Regular Season,4/14/14,Tobias Harris,Orlando,Chicago,R,18.05,2,12,0,0,0,1,0,3,3,1,4,1,2,0,4
+2013-2014 Regular Season,4/14/14,Ronnie Price,Orlando,Chicago,R,24.6,2,6,0,1,2,2,0,0,0,11,2,0,3,0,6
+2013-2014 Regular Season,4/14/14,E'Twaun Moore,Orlando,Chicago,R,20.67,2,6,0,1,1,1,1,1,2,2,1,1,1,0,5
+2013-2014 Regular Season,4/14/14,Mike Dunleavy,Chicago,Orlando,H,39.37,8,11,3,4,3,4,0,0,0,5,2,0,1,0,22
+2013-2014 Regular Season,4/14/14,Carlos Boozer,Chicago,Orlando,H,31.75,6,11,0,0,1,2,1,11,12,5,5,1,1,0,13
+2013-2014 Regular Season,4/14/14,Joakim Noah,Chicago,Orlando,H,37.04,7,16,0,0,4,5,4,6,10,8,0,2,0,1,18
+2013-2014 Regular Season,4/14/14,Jimmy Butler,Chicago,Orlando,H,31.7,3,5,0,0,6,7,0,2,2,1,0,2,1,0,12
+2013-2014 Regular Season,4/14/14,Kirk Hinrich,Chicago,Orlando,H,21.6,1,5,0,2,1,2,0,0,0,4,2,3,0,0,3
+2013-2014 Regular Season,4/14/14,Jimmer Fredette,Chicago,Orlando,H,30.59,7,14,1,5,2,2,0,3,3,2,5,0,3,0,17
+2013-2014 Regular Season,4/14/14,Taj Gibson,Chicago,Orlando,H,19.62,1,5,0,0,6,8,2,4,6,2,4,0,2,2,8
+2013-2014 Regular Season,4/14/14,Nazr Mohammed,Chicago,Orlando,H,6.54,1,2,0,0,0,0,0,1,1,0,0,0,0,0,2
+2013-2014 Regular Season,4/14/14,Tony Snell,Chicago,Orlando,H,18.65,5,8,1,2,2,2,1,1,2,0,1,0,0,0,13
+2013-2014 Regular Season,4/14/14,Ronnie Brewer,Chicago,Orlando,H,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Louis Amundson,Chicago,Orlando,H,1.07,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Damion James,San Antonio,Houston,R,28.62,2,5,0,2,2,2,1,8,9,2,2,0,1,1,6
+2013-2014 Regular Season,4/14/14,Tim Duncan,San Antonio,Houston,R,29.7,4,10,0,0,4,4,5,4,9,2,0,0,2,0,12
+2013-2014 Regular Season,4/14/14,Aron Baynes,San Antonio,Houston,R,21.5,3,6,0,0,0,0,1,2,3,1,5,0,1,0,6
+2013-2014 Regular Season,4/14/14,Marco Belinelli,San Antonio,Houston,R,32.99,6,13,2,7,3,4,0,2,2,4,3,1,1,0,17
+2013-2014 Regular Season,4/14/14,Tony Parker,San Antonio,Houston,R,25.8,4,9,0,0,2,2,0,4,4,1,0,2,0,0,10
+2013-2014 Regular Season,4/14/14,Manu Ginobili,San Antonio,Houston,R,21.94,4,12,0,4,2,2,0,3,3,2,2,0,1,1,10
+2013-2014 Regular Season,4/14/14,Jeff Ayres,San Antonio,Houston,R,19.42,5,7,0,0,2,3,0,3,3,1,2,0,0,0,12
+2013-2014 Regular Season,4/14/14,Matt Bonner,San Antonio,Houston,R,7.24,1,3,1,1,0,0,0,0,0,0,1,0,0,0,3
+2013-2014 Regular Season,4/14/14,Cory Joseph,San Antonio,Houston,R,22.2,5,10,0,0,1,1,0,3,3,5,4,0,0,0,11
+2013-2014 Regular Season,4/14/14,Boris Diaw,San Antonio,Houston,R,24.97,5,11,1,2,0,0,1,5,6,6,3,0,0,0,11
+2013-2014 Regular Season,4/14/14,Austin Daye,San Antonio,Houston,R,5.65,0,3,0,1,0,0,0,1,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,Chandler Parsons,Houston,San Antonio,H,39.62,7,17,2,7,5,7,1,6,7,4,1,0,0,0,21
+2013-2014 Regular Season,4/14/14,Terrence Jones,Houston,San Antonio,H,39.62,7,12,0,1,6,7,4,7,11,1,1,2,1,0,20
+2013-2014 Regular Season,4/14/14,Dwight Howard,Houston,San Antonio,H,31.42,9,11,0,0,2,4,5,12,17,0,3,0,2,0,20
+2013-2014 Regular Season,4/14/14,James Harden,Houston,San Antonio,H,35.19,4,16,0,4,8,8,0,2,2,7,4,1,1,0,16
+2013-2014 Regular Season,4/14/14,Patrick Beverley,Houston,San Antonio,H,36.32,5,11,1,6,1,1,0,1,1,2,4,1,2,0,12
+2013-2014 Regular Season,4/14/14,Jeremy Lin,Houston,San Antonio,H,19.09,2,7,1,2,0,0,0,0,0,4,0,0,0,0,5
+2013-2014 Regular Season,4/14/14,Omer Asik,Houston,San Antonio,H,16.59,3,4,0,0,2,2,1,7,8,0,2,0,0,2,8
+2013-2014 Regular Season,4/14/14,Francisco Garcia,Houston,San Antonio,H,13.8,1,3,0,0,0,0,0,3,3,0,0,0,0,0,2
+2013-2014 Regular Season,4/14/14,Donatas Motiejunas,Houston,San Antonio,H,8.39,0,4,0,2,0,0,0,1,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,Kevin Durant,Oklahoma City,New Orleans,R,42.89,9,23,3,9,4,6,1,6,7,6,1,1,7,1,25
+2013-2014 Regular Season,4/14/14,Serge Ibaka,Oklahoma City,New Orleans,R,40.45,7,13,0,2,8,10,6,10,16,5,2,1,0,1,22
+2013-2014 Regular Season,4/14/14,Kendrick Perkins,Oklahoma City,New Orleans,R,22.14,2,5,0,0,0,0,1,5,6,1,2,0,3,1,4
+2013-2014 Regular Season,4/14/14,Thabo Sefolosha,Oklahoma City,New Orleans,R,24.3,0,5,0,4,0,0,2,2,4,2,1,0,1,0,0
+2013-2014 Regular Season,4/14/14,Reggie Jackson,Oklahoma City,New Orleans,R,26.44,1,7,0,2,2,2,0,2,2,3,4,0,1,0,4
+2013-2014 Regular Season,4/14/14,Nick Collison,Oklahoma City,New Orleans,R,7.74,0,2,0,1,0,0,0,1,1,2,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,Derek Fisher,Oklahoma City,New Orleans,R,29.05,2,8,2,7,0,0,0,1,1,1,5,1,0,0,6
+2013-2014 Regular Season,4/14/14,Caron Butler,Oklahoma City,New Orleans,R,27.14,6,9,3,5,4,4,0,3,3,1,4,2,2,0,19
+2013-2014 Regular Season,4/14/14,Jeremy Lamb,Oklahoma City,New Orleans,R,11.75,1,2,1,2,0,0,0,1,1,0,1,0,2,0,3
+2013-2014 Regular Season,4/14/14,Andre Roberson,Oklahoma City,New Orleans,R,6.39,3,3,0,0,0,0,1,1,2,0,0,1,0,1,6
+2013-2014 Regular Season,4/14/14,Steven Adams,Oklahoma City,New Orleans,R,1.75,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,Darius Miller,New Orleans,Oklahoma City,H,36.87,4,12,2,7,0,0,0,3,3,5,3,4,3,0,10
+2013-2014 Regular Season,4/14/14,Jeff Withey,New Orleans,Oklahoma City,H,32.6,2,6,0,0,4,6,1,5,6,0,2,0,1,4,8
+2013-2014 Regular Season,4/14/14,Alexis Ajinca,New Orleans,Oklahoma City,H,19.17,4,5,0,0,2,2,2,2,4,0,5,0,1,0,10
+2013-2014 Regular Season,4/14/14,Tyreke Evans,New Orleans,Oklahoma City,H,42.2,14,26,1,7,12,16,1,8,9,8,0,3,1,0,41
+2013-2014 Regular Season,4/14/14,Austin Rivers,New Orleans,Oklahoma City,H,14.14,2,4,2,2,2,2,0,0,0,2,0,0,0,0,8
+2013-2014 Regular Season,4/14/14,Anthony Morrow,New Orleans,Oklahoma City,H,31.55,3,10,1,5,0,0,1,3,4,1,0,0,2,1,7
+2013-2014 Regular Season,4/14/14,Melvin Ely,New Orleans,Oklahoma City,H,9.82,1,3,0,0,0,0,0,1,1,0,1,0,0,0,2
+2013-2014 Regular Season,4/14/14,Luke Babbitt,New Orleans,Oklahoma City,H,25.74,4,7,3,6,1,2,0,3,3,2,4,1,0,0,12
+2013-2014 Regular Season,4/14/14,Al-Farouq Aminu,New Orleans,Oklahoma City,H,20.7,1,4,0,1,0,0,5,3,8,1,2,0,2,0,2
+2013-2014 Regular Season,4/14/14,James Southerland,New Orleans,Oklahoma City,H,7.24,0,2,0,1,1,2,0,1,1,0,1,0,0,0,1
+2013-2014 Regular Season,4/14/14,Wesley Johnson,LA Lakers,Utah,R,37.92,3,6,2,3,4,4,2,4,6,4,3,5,1,3,12
+2013-2014 Regular Season,4/14/14,Ryan Kelly,LA Lakers,Utah,R,32.22,2,9,0,4,0,0,3,2,5,3,2,0,4,1,4
+2013-2014 Regular Season,4/14/14,Jordan Hill,LA Lakers,Utah,R,23.52,10,13,0,0,1,1,2,4,6,0,3,0,1,1,21
+2013-2014 Regular Season,4/14/14,Jodie Meeks,LA Lakers,Utah,R,35.19,8,13,2,3,5,6,0,2,2,0,1,3,1,0,23
+2013-2014 Regular Season,4/14/14,Kendall Marshall,LA Lakers,Utah,R,23.6,1,4,0,1,0,0,0,4,4,15,2,2,3,0,2
+2013-2014 Regular Season,4/14/14,Robert Sacre,LA Lakers,Utah,R,29.09,6,8,0,0,0,0,2,7,9,0,2,1,0,1,12
+2013-2014 Regular Season,4/14/14,Nick Young,LA Lakers,Utah,R,34.09,14,23,6,11,7,9,0,3,3,3,2,0,2,0,41
+2013-2014 Regular Season,4/14/14,Jordan Farmar,LA Lakers,Utah,R,21.99,1,6,0,2,2,2,0,1,1,6,1,0,1,0,4
+2013-2014 Regular Season,4/14/14,MarShon Brooks,LA Lakers,Utah,R,2.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Gordon Hayward,Utah,LA Lakers,H,35.64,7,13,1,3,6,8,0,6,6,4,1,0,4,0,21
+2013-2014 Regular Season,4/14/14,Derrick Favors,Utah,LA Lakers,H,29.7,6,10,0,0,0,1,1,4,5,4,5,1,4,3,12
+2013-2014 Regular Season,4/14/14,Enes Kanter,Utah,LA Lakers,H,37.45,8,12,0,0,3,4,5,7,12,2,1,1,3,1,19
+2013-2014 Regular Season,4/14/14,Alec Burks,Utah,LA Lakers,H,34.39,8,10,2,2,4,5,0,3,3,2,3,0,2,0,22
+2013-2014 Regular Season,4/14/14,Trey Burke,Utah,LA Lakers,H,36.77,8,22,1,9,0,0,1,0,1,7,3,1,4,0,17
+2013-2014 Regular Season,4/14/14,Jeremy Evans,Utah,LA Lakers,H,24.02,1,3,0,0,1,2,2,3,5,3,0,0,1,0,3
+2013-2014 Regular Season,4/14/14,Richard Jefferson,Utah,LA Lakers,H,21.15,2,6,1,3,0,0,0,1,1,0,2,1,0,0,5
+2013-2014 Regular Season,4/14/14,Diante Garrett,Utah,LA Lakers,H,13.65,1,3,0,1,0,0,0,1,1,3,1,1,0,0,2
+2013-2014 Regular Season,4/14/14,Rudy Gobert,Utah,LA Lakers,H,2.42,0,1,0,0,0,0,0,2,2,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Ian Clark,Utah,LA Lakers,H,2.42,1,1,1,1,0,0,0,1,1,0,0,0,0,0,3
+2013-2014 Regular Season,4/14/14,Malcolm Thomas,Utah,LA Lakers,H,2.42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Tayshaun Prince,Memphis,Phoenix,R,28.29,1,4,0,2,2,2,0,8,8,1,2,1,2,0,4
+2013-2014 Regular Season,4/14/14,Zach Randolph,Memphis,Phoenix,R,38.77,15,25,0,0,2,2,3,6,9,2,3,1,1,0,32
+2013-2014 Regular Season,4/14/14,Marc Gasol,Memphis,Phoenix,R,37.37,7,13,0,0,4,5,1,7,8,3,2,0,3,0,18
+2013-2014 Regular Season,4/14/14,Courtney Lee,Memphis,Phoenix,R,17.39,0,4,0,3,0,0,0,1,1,1,0,0,3,1,0
+2013-2014 Regular Season,4/14/14,Mike Conley,Memphis,Phoenix,R,37.59,6,11,1,3,1,4,0,3,3,7,3,1,0,0,14
+2013-2014 Regular Season,4/14/14,Kosta Koufos,Memphis,Phoenix,R,10.04,0,2,0,0,0,0,3,1,4,1,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,Nick Calathes,Memphis,Phoenix,R,10.42,0,1,0,0,0,0,0,1,1,2,3,1,2,0,0
+2013-2014 Regular Season,4/14/14,Tony Allen,Memphis,Phoenix,R,20.84,3,5,0,1,2,2,3,3,6,2,2,1,3,0,8
+2013-2014 Regular Season,4/14/14,Mike Miller,Memphis,Phoenix,R,30.25,8,11,5,6,0,0,0,1,1,1,1,0,3,0,21
+2013-2014 Regular Season,4/14/14,Ed Davis,Memphis,Phoenix,R,9.09,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,P.J. Tucker,Phoenix,Memphis,H,27.89,1,3,1,3,2,2,0,3,3,1,5,1,0,2,5
+2013-2014 Regular Season,4/14/14,Channing Frye,Phoenix,Memphis,H,30.04,5,12,2,9,2,2,1,4,5,1,3,0,0,1,14
+2013-2014 Regular Season,4/14/14,Miles Plumlee,Phoenix,Memphis,H,30.05,6,9,0,0,0,0,3,1,4,0,0,1,1,0,12
+2013-2014 Regular Season,4/14/14,Goran Dragic,Phoenix,Memphis,H,37.14,6,14,0,5,2,2,2,4,6,4,2,5,4,0,14
+2013-2014 Regular Season,4/14/14,Eric Bledsoe,Phoenix,Memphis,H,37.4,6,16,1,4,0,1,0,3,3,5,2,2,2,0,13
+2013-2014 Regular Season,4/14/14,Markieff Morris,Phoenix,Memphis,H,27.82,10,16,0,2,1,3,0,2,2,1,4,1,3,3,21
+2013-2014 Regular Season,4/14/14,Gerald Green,Phoenix,Memphis,H,18.54,2,4,1,2,2,2,1,1,2,1,1,1,2,0,7
+2013-2014 Regular Season,4/14/14,Marcus Morris,Phoenix,Memphis,H,19.24,1,4,0,1,1,2,1,3,4,0,1,0,0,0,3
+2013-2014 Regular Season,4/14/14,Shavlik Randolph,Phoenix,Memphis,H,8.05,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/14/14,Ishmael Smith,Phoenix,Memphis,H,3.87,1,1,0,0,0,0,0,0,0,2,1,1,0,0,2
+2013-2014 Regular Season,4/14/14,Corey Brewer,Minnesota,Golden State,R,40.62,10,13,0,0,2,3,2,1,3,5,1,2,0,0,22
+2013-2014 Regular Season,4/14/14,Kevin Love,Minnesota,Golden State,R,36.14,11,24,5,9,13,16,2,12,14,9,2,0,6,0,40
+2013-2014 Regular Season,4/14/14,Gorgui Dieng,Minnesota,Golden State,R,35.34,6,8,0,0,2,3,1,10,11,3,3,1,3,2,14
+2013-2014 Regular Season,4/14/14,Kevin Martin,Minnesota,Golden State,R,32.89,5,10,2,3,2,2,1,2,3,3,1,0,3,0,14
+2013-2014 Regular Season,4/14/14,Ricky Rubio,Minnesota,Golden State,R,32.15,4,7,0,0,7,9,0,1,1,8,4,1,7,0,15
+2013-2014 Regular Season,4/14/14,Luc Mbah a Moute,Minnesota,Golden State,R,17.85,2,6,0,0,0,0,3,1,4,2,0,2,1,0,4
+2013-2014 Regular Season,4/14/14,Dante Cunningham,Minnesota,Golden State,R,17.8,3,6,0,0,0,0,1,1,2,0,3,1,0,1,6
+2013-2014 Regular Season,4/14/14,Jose Barea,Minnesota,Golden State,R,20.5,1,5,0,2,0,0,0,3,3,6,2,0,1,0,2
+2013-2014 Regular Season,4/14/14,Robbie Hummel,Minnesota,Golden State,R,6.74,1,2,1,1,0,0,0,2,2,1,0,0,0,0,3
+2013-2014 Regular Season,4/14/14,Harrison Barnes,Golden State,Minnesota,H,31.39,3,7,0,2,0,0,2,5,7,5,1,3,0,0,6
+2013-2014 Regular Season,4/14/14,David Lee,Golden State,Minnesota,H,28.49,12,14,0,0,1,2,4,5,9,1,5,2,1,0,25
+2013-2014 Regular Season,4/14/14,Jermaine O'Neal,Golden State,Minnesota,H,20.95,3,9,0,0,4,4,4,0,4,0,3,1,0,0,10
+2013-2014 Regular Season,4/14/14,Klay Thompson,Golden State,Minnesota,H,36.02,7,20,2,12,4,4,1,4,5,1,4,0,1,1,20
+2013-2014 Regular Season,4/14/14,Stephen Curry,Golden State,Minnesota,H,41.95,10,21,7,13,5,5,1,4,5,15,4,3,5,0,32
+2013-2014 Regular Season,4/14/14,Draymond Green,Golden State,Minnesota,H,38.32,7,9,4,5,2,2,2,10,12,5,4,4,3,2,20
+2013-2014 Regular Season,4/14/14,Steve Blake,Golden State,Minnesota,H,18.92,2,3,1,2,0,0,0,1,1,3,3,0,4,0,5
+2013-2014 Regular Season,4/14/14,Marreese Speights,Golden State,Minnesota,H,15.85,4,13,0,0,1,2,5,2,7,1,3,0,0,1,9
+2013-2014 Regular Season,4/14/14,Jordan Crawford,Golden State,Minnesota,H,7.25,1,5,1,3,0,0,0,1,1,0,0,0,1,0,3
+2013-2014 Regular Season,4/14/14,Nemanja Nedovic,Golden State,Minnesota,H,0.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Ognjen Kuzmic,Golden State,Minnesota,H,0.35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/14/14,Hilton Armstrong,Golden State,Minnesota,H,0.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/15/14,Iman Shumpert,New York,Brooklyn,R,31.19,4,9,0,2,3,4,1,3,4,2,4,3,2,0,11
+2013-2014 Regular Season,4/15/14,Amar'e Stoudemire,New York,Brooklyn,R,20.59,3,4,0,0,8,9,1,2,3,0,2,0,1,1,14
+2013-2014 Regular Season,4/15/14,Tyson Chandler,New York,Brooklyn,R,5.19,1,1,0,0,0,0,0,1,1,1,0,0,0,0,2
+2013-2014 Regular Season,4/15/14,J.R. Smith,New York,Brooklyn,R,22.95,3,8,3,7,5,6,1,6,7,3,2,1,3,1,14
+2013-2014 Regular Season,4/15/14,Raymond Felton,New York,Brooklyn,R,21.2,3,8,2,4,0,0,1,3,4,2,2,2,3,1,8
+2013-2014 Regular Season,4/15/14,Tim Hardaway,New York,Brooklyn,R,35.92,5,10,4,5,2,2,0,0,0,0,4,0,0,0,16
+2013-2014 Regular Season,4/15/14,Cole Aldrich,New York,Brooklyn,R,25.62,4,6,0,0,5,5,3,10,13,0,5,1,2,1,13
+2013-2014 Regular Season,4/15/14,Pablo Prigioni,New York,Brooklyn,R,4.89,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0
+2013-2014 Regular Season,4/15/14,Jeremy Tyler,New York,Brooklyn,R,20.2,3,5,0,0,2,4,0,2,2,1,5,0,3,1,8
+2013-2014 Regular Season,4/15/14,Shannon Brown,New York,Brooklyn,R,30.37,4,7,0,0,6,6,1,0,1,1,2,1,0,0,14
+2013-2014 Regular Season,4/15/14,Toure' Murry,New York,Brooklyn,R,21.92,2,8,2,3,3,4,0,1,1,5,2,3,0,0,9
+2013-2014 Regular Season,4/15/14,Andrei Kirilenko,Brooklyn,New York,H,25.92,2,6,0,0,0,0,3,3,6,4,4,2,2,0,4
+2013-2014 Regular Season,4/15/14,Paul Pierce,Brooklyn,New York,H,20.54,4,8,1,2,4,6,1,0,1,1,5,1,2,0,13
+2013-2014 Regular Season,4/15/14,Kevin Garnett,Brooklyn,New York,H,14.79,0,4,0,0,0,0,0,2,2,0,3,0,0,0,0
+2013-2014 Regular Season,4/15/14,Joe Johnson,Brooklyn,New York,H,30.6,3,9,2,5,4,7,1,5,6,4,1,1,0,0,12
+2013-2014 Regular Season,4/15/14,Deron Williams,Brooklyn,New York,H,29.54,4,9,1,4,1,1,1,1,2,1,1,1,3,0,10
+2013-2014 Regular Season,4/15/14,Mason Plumlee,Brooklyn,New York,H,30.37,7,9,0,0,2,4,3,6,9,4,2,1,1,0,16
+2013-2014 Regular Season,4/15/14,Marcus Thornton,Brooklyn,New York,H,30.1,7,15,4,10,6,8,1,2,3,2,2,1,2,0,24
+2013-2014 Regular Season,4/15/14,Andray Blatche,Brooklyn,New York,H,19.44,2,4,1,2,3,3,1,3,4,1,2,1,6,0,8
+2013-2014 Regular Season,4/15/14,Jorge Gutierrez,Brooklyn,New York,H,26.97,2,7,1,2,0,0,0,2,2,4,4,1,1,0,5
+2013-2014 Regular Season,4/15/14,Marquis Teague,Brooklyn,New York,H,8.92,1,2,0,0,2,2,0,1,1,4,1,1,2,1,4
+2013-2014 Regular Season,4/15/14,Jason Collins,Brooklyn,New York,H,2.85,1,2,0,0,0,0,1,1,2,0,1,0,0,0,2
+2013-2014 Regular Season,4/15/14,Quincy Miller,Denver,LA Clippers,R,33.09,4,12,3,8,0,0,0,4,4,2,3,0,2,2,11
+2013-2014 Regular Season,4/15/14,Kenneth Faried,Denver,LA Clippers,R,28.44,7,12,0,0,7,8,3,3,6,0,5,1,1,0,21
+2013-2014 Regular Season,4/15/14,Timofey Mozgov,Denver,LA Clippers,R,31.8,6,10,0,0,6,7,6,5,11,2,2,0,1,1,18
+2013-2014 Regular Season,4/15/14,Randy Foye,Denver,LA Clippers,R,33.15,2,12,0,7,7,7,1,3,4,7,3,4,3,0,11
+2013-2014 Regular Season,4/15/14,Aaron Brooks,Denver,LA Clippers,R,41.5,6,12,3,6,4,4,1,3,4,5,2,2,9,0,19
+2013-2014 Regular Season,4/15/14,Jan Vesely,Denver,LA Clippers,R,20.22,4,7,0,0,1,2,2,1,3,1,2,3,0,1,9
+2013-2014 Regular Season,4/15/14,Evan Fournier,Denver,LA Clippers,R,25.79,3,10,1,5,2,2,0,5,5,1,5,0,0,0,9
+2013-2014 Regular Season,4/15/14,Wilson Chandler,Denver,LA Clippers,R,26.04,3,7,1,3,0,0,0,6,6,2,4,0,3,0,7
+2013-2014 Regular Season,4/15/14,Matt Barnes,LA Clippers,Denver,H,29.55,2,5,1,3,0,0,1,4,5,4,2,0,2,1,5
+2013-2014 Regular Season,4/15/14,Blake Griffin,LA Clippers,Denver,H,29.55,9,17,0,1,6,6,0,5,5,4,1,2,3,1,24
+2013-2014 Regular Season,4/15/14,DeAndre Jordan,LA Clippers,Denver,H,36.35,6,8,0,0,1,8,6,10,16,3,2,2,3,2,13
+2013-2014 Regular Season,4/15/14,J.J. Redick,LA Clippers,Denver,H,17.49,5,10,4,6,4,4,0,1,1,1,3,2,0,0,18
+2013-2014 Regular Season,4/15/14,Chris Paul,LA Clippers,Denver,H,28.49,8,10,3,5,2,4,0,1,1,10,3,2,1,0,21
+2013-2014 Regular Season,4/15/14,Darren Collison,LA Clippers,Denver,H,24.44,5,10,0,3,0,0,0,2,2,3,3,1,1,0,10
+2013-2014 Regular Season,4/15/14,Jamal Crawford,LA Clippers,Denver,H,30.95,3,9,0,3,3,3,0,0,0,2,1,1,4,0,9
+2013-2014 Regular Season,4/15/14,Glen Davis,LA Clippers,Denver,H,11.65,3,8,0,0,3,3,0,6,6,0,1,1,1,0,9
+2013-2014 Regular Season,4/15/14,Jared Dudley,LA Clippers,Denver,H,13.1,1,1,0,0,0,0,0,1,1,1,2,0,0,0,2
+2013-2014 Regular Season,4/15/14,Hedo Turkoglu,LA Clippers,Denver,H,18.45,2,5,1,3,1,2,0,4,4,1,3,0,0,0,6
+2013-2014 Regular Season,4/16/14,Mike Dunleavy,Chicago,Charlotte,R,42.02,4,12,2,6,2,4,1,6,7,3,4,0,0,2,12
+2013-2014 Regular Season,4/16/14,Carlos Boozer,Chicago,Charlotte,R,24,7,12,0,0,0,0,0,11,11,0,2,0,0,0,14
+2013-2014 Regular Season,4/16/14,Joakim Noah,Chicago,Charlotte,R,42.39,7,16,0,0,0,0,1,12,13,6,4,1,2,2,14
+2013-2014 Regular Season,4/16/14,Jimmy Butler,Chicago,Charlotte,R,47.92,3,8,0,1,6,8,1,3,4,4,0,5,0,0,12
+2013-2014 Regular Season,4/16/14,Kirk Hinrich,Chicago,Charlotte,R,30.5,4,8,3,5,0,0,0,1,1,6,6,1,1,0,11
+2013-2014 Regular Season,4/16/14,D.J. Augustin,Chicago,Charlotte,R,35.82,6,16,3,9,2,3,0,1,1,2,3,0,2,0,17
+2013-2014 Regular Season,4/16/14,Taj Gibson,Chicago,Charlotte,R,33.62,2,10,0,0,0,0,3,2,5,0,3,0,6,0,4
+2013-2014 Regular Season,4/16/14,Nazr Mohammed,Chicago,Charlotte,R,6,1,3,0,0,0,0,0,2,2,0,0,0,0,0,2
+2013-2014 Regular Season,4/16/14,Tony Snell,Chicago,Charlotte,R,2.75,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/16/14,Michael Kidd-Gilchrist,Charlotte,Chicago,H,23.19,3,4,0,0,2,2,2,1,3,0,1,0,0,1,8
+2013-2014 Regular Season,4/16/14,Josh McRoberts,Charlotte,Chicago,H,34.57,3,8,1,6,0,0,1,4,5,7,3,1,1,1,7
+2013-2014 Regular Season,4/16/14,Al Jefferson,Charlotte,Chicago,H,41.7,4,14,0,1,2,4,6,12,18,3,1,1,2,2,10
+2013-2014 Regular Season,4/16/14,Gerald Henderson,Charlotte,Chicago,H,33.32,5,13,0,0,1,3,0,6,6,1,1,0,1,0,11
+2013-2014 Regular Season,4/16/14,Kemba Walker,Charlotte,Chicago,H,39.92,6,16,0,6,10,11,0,7,7,8,0,1,0,1,22
+2013-2014 Regular Season,4/16/14,Cody Zeller,Charlotte,Chicago,H,18.44,4,6,0,0,0,0,1,0,1,1,0,1,3,0,8
+2013-2014 Regular Season,4/16/14,Gary Neal,Charlotte,Chicago,H,19.69,2,8,1,3,0,0,0,4,4,3,2,2,1,0,5
+2013-2014 Regular Season,4/16/14,Luke Ridnour,Charlotte,Chicago,H,13.09,1,3,1,2,0,0,0,1,1,0,2,0,0,0,3
+2013-2014 Regular Season,4/16/14,Chris Douglas-Roberts,Charlotte,Chicago,H,29.82,4,10,2,3,3,4,0,1,1,0,3,1,1,1,13
+2013-2014 Regular Season,4/16/14,Bismack Biyombo,Charlotte,Chicago,H,11.3,2,3,0,0,0,2,2,5,7,0,1,1,0,1,4
+2013-2014 Regular Season,4/16/14,Rasual Butler,Indiana,Orlando,R,37.72,8,13,2,4,1,4,0,2,2,5,4,0,0,0,19
+2013-2014 Regular Season,4/16/14,Luis Scola,Indiana,Orlando,R,24.19,4,10,0,0,2,2,4,4,8,4,1,0,2,0,10
+2013-2014 Regular Season,4/16/14,Roy Hibbert,Indiana,Orlando,R,17.49,1,7,0,0,2,2,1,6,7,0,1,0,0,1,4
+2013-2014 Regular Season,4/16/14,Evan Turner,Indiana,Orlando,R,34.47,5,6,1,1,3,3,0,8,8,6,2,1,3,0,14
+2013-2014 Regular Season,4/16/14,George Hill,Indiana,Orlando,R,14.42,2,5,1,2,0,0,2,2,4,2,1,2,0,0,5
+2013-2014 Regular Season,4/16/14,Solomon Hill,Indiana,Orlando,R,26.39,2,6,1,2,0,0,0,5,5,1,0,0,1,0,5
+2013-2014 Regular Season,4/16/14,Chris Copeland,Indiana,Orlando,R,26.39,7,16,5,11,0,0,1,2,3,2,5,1,2,0,19
+2013-2014 Regular Season,4/16/14,Donald Sloan,Indiana,Orlando,R,31.02,6,13,1,3,0,0,2,2,4,3,2,0,3,0,13
+2013-2014 Regular Season,4/16/14,Lavoy Allen,Indiana,Orlando,R,27.95,6,12,0,0,0,0,5,6,11,3,1,1,1,1,12
+2013-2014 Regular Season,4/16/14,Maurice Harkless,Orlando,Indiana,H,37.64,5,9,0,2,4,7,3,2,5,2,2,2,1,1,14
+2013-2014 Regular Season,4/16/14,Kyle O'Quinn,Orlando,Indiana,H,20.94,1,6,0,0,4,6,1,4,5,0,1,0,3,1,6
+2013-2014 Regular Season,4/16/14,Dewayne Dedmon,Orlando,Indiana,H,26.89,4,10,0,0,0,0,4,9,13,0,3,2,1,2,8
+2013-2014 Regular Season,4/16/14,Arron Afflalo,Orlando,Indiana,H,6.25,2,2,1,1,2,2,0,1,1,1,0,1,1,0,7
+2013-2014 Regular Season,4/16/14,Victor Oladipo,Orlando,Indiana,H,17.4,2,8,0,1,0,0,0,2,2,1,2,1,2,0,4
+2013-2014 Regular Season,4/16/14,Doron Lamb,Orlando,Indiana,H,39.99,4,12,3,7,0,0,0,0,0,2,3,0,0,0,11
+2013-2014 Regular Season,4/16/14,Andrew Nicholson,Orlando,Indiana,H,33.12,4,8,0,0,2,2,0,4,4,1,1,0,1,0,10
+2013-2014 Regular Season,4/16/14,Jason Maxiell,Orlando,Indiana,H,4.99,0,2,0,0,2,4,0,1,1,0,0,0,0,1,2
+2013-2014 Regular Season,4/16/14,E'Twaun Moore,Orlando,Indiana,H,30.6,5,12,0,2,3,3,1,5,6,3,1,0,0,0,13
+2013-2014 Regular Season,4/16/14,Ronnie Price,Orlando,Indiana,H,12.14,2,4,1,2,0,0,0,2,2,4,3,3,1,0,5
+2013-2014 Regular Season,4/16/14,Tobias Harris,Orlando,Indiana,H,10.09,3,6,0,0,0,0,0,1,1,0,0,0,0,0,6
+2013-2014 Regular Season,4/16/14,Trevor Ariza,Washington,Boston,R,29.82,6,12,0,5,1,1,0,6,6,2,3,0,1,0,13
+2013-2014 Regular Season,4/16/14,Trevor Booker,Washington,Boston,R,26.17,9,13,0,0,2,3,1,2,3,2,3,0,0,0,20
+2013-2014 Regular Season,4/16/14,Marcin Gortat,Washington,Boston,R,31.9,6,11,0,0,3,5,1,9,10,3,3,1,1,2,15
+2013-2014 Regular Season,4/16/14,Bradley Beal,Washington,Boston,R,35.9,10,14,3,5,4,4,0,7,7,3,3,2,1,0,27
+2013-2014 Regular Season,4/16/14,John Wall,Washington,Boston,R,28.44,7,15,1,3,0,0,0,0,0,9,0,2,2,0,15
+2013-2014 Regular Season,4/16/14,Martell Webster,Washington,Boston,R,22.65,2,6,1,3,0,0,1,3,4,0,2,0,0,0,5
+2013-2014 Regular Season,4/16/14,Nene Hilario,Washington,Boston,R,22.35,5,6,0,0,2,4,1,2,3,3,2,0,2,0,12
+2013-2014 Regular Season,4/16/14,Al Harrington,Washington,Boston,R,11.77,2,5,1,2,0,0,1,0,1,0,2,0,1,0,5
+2013-2014 Regular Season,4/16/14,Andre Miller,Washington,Boston,R,19.57,2,2,0,0,0,0,0,1,1,4,0,0,2,0,4
+2013-2014 Regular Season,4/16/14,Otto Porter,Washington,Boston,R,3.82,0,1,0,0,0,0,1,0,1,0,1,0,2,0,0
+2013-2014 Regular Season,4/16/14,Garrett Temple,Washington,Boston,R,3.82,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/16/14,Kevin Seraphin,Washington,Boston,R,3.82,1,2,0,0,0,0,0,0,0,0,1,1,0,0,2
+2013-2014 Regular Season,4/16/14,Jeff Green,Boston,Washington,H,35.97,6,15,2,7,6,7,1,3,4,1,1,0,2,0,20
+2013-2014 Regular Season,4/16/14,Brandon Bass,Boston,Washington,H,25.65,7,9,0,1,2,3,1,6,7,1,2,0,0,0,16
+2013-2014 Regular Season,4/16/14,Kelly Olynyk,Boston,Washington,H,29.89,10,16,0,2,4,5,2,5,7,5,5,1,1,0,24
+2013-2014 Regular Season,4/16/14,Avery Bradley,Boston,Washington,H,36.87,7,18,3,7,1,1,2,3,5,3,4,0,5,0,18
+2013-2014 Regular Season,4/16/14,Phil Pressey,Boston,Washington,H,42.47,3,12,0,4,3,4,1,4,5,10,1,2,4,0,9
+2013-2014 Regular Season,4/16/14,Chris Babb,Boston,Washington,H,11.44,0,4,0,4,0,0,0,1,1,0,0,0,1,0,0
+2013-2014 Regular Season,4/16/14,Chris Johnson,Boston,Washington,H,29.22,4,7,2,5,0,1,2,2,4,3,0,4,0,0,10
+2013-2014 Regular Season,4/16/14,Joel Anthony,Boston,Washington,H,28.52,2,3,0,0,1,2,2,2,4,1,3,1,0,1,5
+2013-2014 Regular Season,4/16/14,Marcus Thornton,Brooklyn,Cleveland,R,41.82,6,19,4,12,4,5,2,4,6,3,1,2,3,0,20
+2013-2014 Regular Season,4/16/14,Andray Blatche,Brooklyn,Cleveland,R,39.27,8,18,1,4,3,3,1,11,12,3,3,2,2,0,20
+2013-2014 Regular Season,4/16/14,Jason Collins,Brooklyn,Cleveland,R,38.87,3,8,0,2,2,2,1,2,3,0,3,2,0,0,8
+2013-2014 Regular Season,4/16/14,Jorge Gutierrez,Brooklyn,Cleveland,R,33.17,5,11,2,3,1,2,0,0,0,2,6,0,1,0,13
+2013-2014 Regular Season,4/16/14,Marquis Teague,Brooklyn,Cleveland,R,41.49,2,9,1,3,2,2,0,5,5,4,1,1,4,0,7
+2013-2014 Regular Season,4/16/14,Andrei Kirilenko,Brooklyn,Cleveland,R,27.54,2,7,0,0,5,7,2,2,4,3,1,1,2,1,9
+2013-2014 Regular Season,4/16/14,Mason Plumlee,Brooklyn,Cleveland,R,17.87,4,7,0,1,0,2,0,6,6,6,1,1,3,0,8
+2013-2014 Regular Season,4/16/14,Alonzo Gee,Cleveland,Brooklyn,H,30.34,5,9,0,0,2,2,1,4,5,1,3,2,0,1,12
+2013-2014 Regular Season,4/16/14,Tristan Thompson,Cleveland,Brooklyn,H,26.87,5,9,0,0,1,1,5,5,10,1,0,0,0,1,11
+2013-2014 Regular Season,4/16/14,Spencer Hawes,Cleveland,Brooklyn,H,23.85,4,7,2,4,0,0,1,6,7,3,2,0,2,2,10
+2013-2014 Regular Season,4/16/14,Dion Waiters,Cleveland,Brooklyn,H,26.89,7,12,2,5,3,4,1,1,2,2,0,1,2,0,19
+2013-2014 Regular Season,4/16/14,Kyrie Irving,Cleveland,Brooklyn,H,27.15,6,12,0,2,3,3,0,2,2,5,3,3,2,1,15
+2013-2014 Regular Season,4/16/14,Tyler Zeller,Cleveland,Brooklyn,H,26.25,9,11,0,0,4,5,4,7,11,2,2,1,0,2,22
+2013-2014 Regular Season,4/16/14,Jarrett Jack,Cleveland,Brooklyn,H,25.49,2,10,1,3,0,0,0,3,3,9,2,2,2,0,5
+2013-2014 Regular Season,4/16/14,Matthew Dellavedova,Cleveland,Brooklyn,H,25.95,1,5,1,3,0,0,0,2,2,6,4,1,2,0,3
+2013-2014 Regular Season,4/16/14,Anthony Bennett,Cleveland,Brooklyn,H,15.24,3,6,0,0,1,2,1,6,7,0,0,0,1,0,7
+2013-2014 Regular Season,4/16/14,Carrick Felix,Cleveland,Brooklyn,H,12,4,6,2,3,0,0,0,2,2,3,2,0,1,0,10
+2013-2014 Regular Season,4/16/14,Shawn Marion,Dallas,Memphis,R,32.34,4,8,1,3,0,0,3,2,5,1,1,1,0,0,9
+2013-2014 Regular Season,4/16/14,Dirk Nowitzki,Dallas,Memphis,R,45.92,12,22,3,9,3,3,0,5,5,2,1,0,2,4,30
+2013-2014 Regular Season,4/16/14,Samuel Dalembert,Dallas,Memphis,R,11.47,1,2,0,0,0,0,1,2,3,0,5,0,2,0,2
+2013-2014 Regular Season,4/16/14,Monta Ellis,Dallas,Memphis,R,41.67,8,21,2,4,0,0,1,5,6,4,0,2,2,0,18
+2013-2014 Regular Season,4/16/14,Jose Calderon,Dallas,Memphis,R,27.44,4,8,1,5,0,0,1,1,2,5,3,0,1,0,9
+2013-2014 Regular Season,4/16/14,DeJuan Blair,Dallas,Memphis,R,16.85,2,5,0,0,4,4,5,2,7,0,2,2,0,0,8
+2013-2014 Regular Season,4/16/14,Vince Carter,Dallas,Memphis,R,26.4,4,11,1,4,0,2,0,2,2,0,4,2,2,0,9
+2013-2014 Regular Season,4/16/14,Devin Harris,Dallas,Memphis,R,25.57,4,8,0,3,2,2,0,3,3,10,2,2,4,0,10
+2013-2014 Regular Season,4/16/14,Brandan Wright,Dallas,Memphis,R,24.69,5,5,0,0,0,0,2,1,3,0,4,0,0,0,10
+2013-2014 Regular Season,4/16/14,Jae Crowder,Dallas,Memphis,R,12.69,0,2,0,2,0,0,2,1,3,0,1,2,0,0,0
+2013-2014 Regular Season,4/16/14,Tayshaun Prince,Memphis,Dallas,H,25.37,2,7,0,0,0,0,2,3,5,2,0,0,0,0,4
+2013-2014 Regular Season,4/16/14,Zach Randolph,Memphis,Dallas,H,46.05,11,22,0,0,5,6,9,5,14,1,5,1,3,0,27
+2013-2014 Regular Season,4/16/14,Marc Gasol,Memphis,Dallas,H,46.04,9,13,0,1,1,4,1,8,9,9,2,2,0,1,19
+2013-2014 Regular Season,4/16/14,Courtney Lee,Memphis,Dallas,H,35.25,3,10,2,8,3,3,0,1,1,3,1,0,2,0,11
+2013-2014 Regular Season,4/16/14,Mike Conley,Memphis,Dallas,H,41.65,8,16,1,5,5,7,0,4,4,5,4,2,3,0,22
+2013-2014 Regular Season,4/16/14,Nick Calathes,Memphis,Dallas,H,11.25,1,2,1,1,0,0,1,0,1,1,0,1,1,0,3
+2013-2014 Regular Season,4/16/14,Tony Allen,Memphis,Dallas,H,22.8,6,11,0,1,1,5,4,3,7,2,2,1,3,0,13
+2013-2014 Regular Season,4/16/14,Ed Davis,Memphis,Dallas,H,12.17,2,2,0,0,0,0,2,2,4,0,1,0,2,0,4
+2013-2014 Regular Season,4/16/14,Mike Miller,Memphis,Dallas,H,24.44,1,5,1,4,0,0,1,2,3,2,1,0,3,0,3
+2013-2014 Regular Season,4/16/14,Adonis Thomas,Philadelphia,Miami,R,5.34,1,2,1,2,0,0,0,0,0,1,3,0,0,0,3
+2013-2014 Regular Season,4/16/14,Thaddeus Young,Philadelphia,Miami,R,30.34,9,17,0,3,2,2,3,6,9,2,4,2,3,0,20
+2013-2014 Regular Season,4/16/14,Henry Sims,Philadelphia,Miami,R,30.85,4,7,0,0,2,2,2,5,7,3,1,2,2,0,10
+2013-2014 Regular Season,4/16/14,James Anderson,Philadelphia,Miami,R,18.24,3,5,2,2,2,2,0,3,3,2,0,2,0,1,10
+2013-2014 Regular Season,4/16/14,Michael Carter-Williams,Philadelphia,Miami,R,34.07,3,10,3,5,3,4,0,6,6,4,2,0,3,1,12
+2013-2014 Regular Season,4/16/14,Elliot Williams,Philadelphia,Miami,R,22.6,4,7,0,1,1,2,0,1,1,1,1,0,1,1,9
+2013-2014 Regular Season,4/16/14,Jarvis Varnado,Philadelphia,Miami,R,15.64,3,5,0,0,2,2,0,3,3,0,4,2,0,0,8
+2013-2014 Regular Season,4/16/14,Hollis Thompson,Philadelphia,Miami,R,27.44,1,4,1,3,0,0,0,3,3,3,0,2,1,1,3
+2013-2014 Regular Season,4/16/14,Tony Wroten,Philadelphia,Miami,R,22.4,2,6,0,2,0,0,0,1,1,6,4,5,6,0,4
+2013-2014 Regular Season,4/16/14,Casper Ware,Philadelphia,Miami,R,13.94,4,5,2,3,0,0,0,1,1,1,2,0,1,0,10
+2013-2014 Regular Season,4/16/14,Brandon Davies,Philadelphia,Miami,R,19.19,4,6,1,2,2,2,0,1,1,1,1,0,1,1,11
+2013-2014 Regular Season,4/16/14,James Jones,Miami,Philadelphia,H,33.92,3,8,3,8,0,0,0,4,4,0,1,0,1,0,9
+2013-2014 Regular Season,4/16/14,Shane Battier,Miami,Philadelphia,H,39.82,3,6,3,4,0,0,1,0,1,1,0,1,3,0,9
+2013-2014 Regular Season,4/16/14,Udonis Haslem,Miami,Philadelphia,H,16.25,3,4,0,0,1,2,1,9,10,0,2,0,2,0,7
+2013-2014 Regular Season,4/16/14,Dwyane Wade,Miami,Philadelphia,H,23.07,6,14,0,2,4,6,1,1,2,4,1,0,3,0,16
+2013-2014 Regular Season,4/16/14,Toney Douglas,Miami,Philadelphia,H,29,4,14,1,6,4,4,0,2,2,4,2,2,2,0,13
+2013-2014 Regular Season,4/16/14,Ray Allen,Miami,Philadelphia,H,24,4,9,1,5,2,4,0,3,3,3,0,0,1,0,11
+2013-2014 Regular Season,4/16/14,Greg Oden,Miami,Philadelphia,H,13.72,0,2,0,0,2,2,3,2,5,0,3,0,1,0,2
+2013-2014 Regular Season,4/16/14,Michael Beasley,Miami,Philadelphia,H,14.59,3,4,0,1,2,2,0,1,1,1,1,0,1,2,8
+2013-2014 Regular Season,4/16/14,Norris Cole,Miami,Philadelphia,H,27.62,2,6,1,2,0,0,1,2,3,3,3,3,3,0,5
+2013-2014 Regular Season,4/16/14,Justin Hamilton,Miami,Philadelphia,H,18.04,2,6,1,2,2,2,2,1,3,0,3,2,2,0,7
+2013-2014 Regular Season,4/16/14,DeMarre Carroll,Atlanta,Milwaukee,R,22.42,6,9,1,2,0,0,0,1,1,4,1,3,1,0,13
+2013-2014 Regular Season,4/16/14,Mike Scott,Atlanta,Milwaukee,R,32.1,8,13,1,3,0,0,2,2,4,4,2,1,2,0,17
+2013-2014 Regular Season,4/16/14,Pero Antic,Atlanta,Milwaukee,R,19.45,2,8,1,4,3,3,0,4,4,2,4,2,0,0,8
+2013-2014 Regular Season,4/16/14,Kyle Korver,Atlanta,Milwaukee,R,22.42,3,4,0,0,1,2,0,2,2,4,0,1,1,0,7
+2013-2014 Regular Season,4/16/14,Jeff Teague,Atlanta,Milwaukee,R,19.59,4,8,2,5,1,2,0,0,0,2,1,1,2,0,11
+2013-2014 Regular Season,4/16/14,Elton Brand,Atlanta,Milwaukee,R,19.37,1,2,0,0,0,0,0,1,1,1,5,0,1,0,2
+2013-2014 Regular Season,4/16/14,Shelvin Mack,Atlanta,Milwaukee,R,22.15,4,7,1,3,2,2,1,2,3,2,1,2,1,0,11
+2013-2014 Regular Season,4/16/14,Louis Williams,Atlanta,Milwaukee,R,18.97,1,6,0,3,7,7,0,4,4,3,0,0,0,0,9
+2013-2014 Regular Season,4/16/14,Cartier Martin,Atlanta,Milwaukee,R,24.2,5,7,2,3,2,5,1,5,6,1,1,3,1,0,14
+2013-2014 Regular Season,4/16/14,Mike Muscala,Atlanta,Milwaukee,R,25.09,6,8,0,0,3,3,0,4,4,3,2,0,2,2,15
+2013-2014 Regular Season,4/16/14,Dennis Schroeder,Atlanta,Milwaukee,R,14.27,1,4,0,1,2,2,0,1,1,3,1,0,1,0,4
+2013-2014 Regular Season,4/16/14,Khris Middleton,Milwaukee,Atlanta,H,37.07,6,17,2,6,2,2,1,6,7,1,5,0,3,0,16
+2013-2014 Regular Season,4/16/14,Jeff Adrien,Milwaukee,Atlanta,H,34,3,5,0,0,2,4,2,5,7,4,1,1,3,0,8
+2013-2014 Regular Season,4/16/14,Zaza Pachulia,Milwaukee,Atlanta,H,21.22,2,5,0,0,3,4,2,4,6,4,3,0,3,0,7
+2013-2014 Regular Season,4/16/14,Ramon Sessions,Milwaukee,Atlanta,H,30.04,2,6,0,3,2,2,0,1,1,6,1,1,3,1,6
+2013-2014 Regular Season,4/16/14,Brandon Knight,Milwaukee,Atlanta,H,39.72,12,18,3,6,4,4,2,5,7,4,5,0,3,0,31
+2013-2014 Regular Season,4/16/14,John Henson,Milwaukee,Atlanta,H,34.19,8,13,0,0,3,5,1,4,5,3,1,3,4,2,19
+2013-2014 Regular Season,4/16/14,Giannis Antetokounmpo,Milwaukee,Atlanta,H,26.25,4,6,2,3,0,0,1,4,5,3,5,0,1,1,10
+2013-2014 Regular Season,4/16/14,Chris Wright,Milwaukee,Atlanta,H,17.54,3,7,0,0,0,0,2,3,5,0,0,0,0,1,6
+2013-2014 Regular Season,4/16/14,Gordon Hayward,Utah,Minnesota,R,46.59,8,23,0,5,7,8,3,7,10,9,2,1,3,2,23
+2013-2014 Regular Season,4/16/14,Derrick Favors,Utah,Minnesota,R,43.04,8,12,0,0,5,6,4,8,12,4,5,2,1,2,21
+2013-2014 Regular Season,4/16/14,Jeremy Evans,Utah,Minnesota,R,38.12,8,13,0,0,2,2,6,5,11,0,6,3,4,3,18
+2013-2014 Regular Season,4/16/14,Alec Burks,Utah,Minnesota,R,37.69,5,13,1,4,0,0,1,3,4,4,6,0,2,0,11
+2013-2014 Regular Season,4/16/14,Trey Burke,Utah,Minnesota,R,48.35,10,21,2,4,10,10,3,4,7,9,3,1,5,0,32
+2013-2014 Regular Season,4/16/14,Malcolm Thomas,Utah,Minnesota,R,20.75,4,6,1,2,0,0,1,3,4,0,3,0,3,0,9
+2013-2014 Regular Season,4/16/14,Richard Jefferson,Utah,Minnesota,R,26.65,5,12,1,7,0,2,1,1,2,2,3,1,0,0,11
+2013-2014 Regular Season,4/16/14,Diante Garrett,Utah,Minnesota,R,9.65,1,2,1,2,0,0,0,1,1,1,1,1,0,0,3
+2013-2014 Regular Season,4/16/14,Rudy Gobert,Utah,Minnesota,R,14.1,4,5,0,0,0,1,3,6,9,1,3,0,0,2,8
+2013-2014 Regular Season,4/16/14,Ian Clark,Utah,Minnesota,R,5.09,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0
+2013-2014 Regular Season,4/16/14,Corey Brewer,Minnesota,Utah,H,30.65,4,8,0,2,3,5,1,1,2,1,2,4,1,0,11
+2013-2014 Regular Season,4/16/14,Kevin Love,Minnesota,Utah,H,46.64,4,15,1,9,10,12,0,10,10,9,2,0,5,0,19
+2013-2014 Regular Season,4/16/14,Gorgui Dieng,Minnesota,Utah,H,27.55,1,8,0,0,2,4,3,4,7,1,2,0,1,2,4
+2013-2014 Regular Season,4/16/14,Kevin Martin,Minnesota,Utah,H,39.95,12,24,3,5,9,10,1,1,2,1,6,2,1,0,36
+2013-2014 Regular Season,4/16/14,Ricky Rubio,Minnesota,Utah,H,45.49,4,13,1,4,5,5,0,2,2,6,5,1,2,0,14
+2013-2014 Regular Season,4/16/14,Ronny Turiaf,Minnesota,Utah,H,15.89,3,5,0,0,6,8,3,5,8,0,1,1,2,3,12
+2013-2014 Regular Season,4/16/14,Luc Mbah a Moute,Minnesota,Utah,H,8.5,0,1,0,0,0,0,0,1,1,1,1,0,0,0,0
+2013-2014 Regular Season,4/16/14,Alexey Shved,Minnesota,Utah,H,17.5,3,6,1,3,4,6,0,1,1,3,1,0,1,0,11
+2013-2014 Regular Season,4/16/14,Robbie Hummel,Minnesota,Utah,H,31.92,3,5,2,2,2,2,2,7,9,1,2,2,0,0,10
+2013-2014 Regular Season,4/16/14,Dante Cunningham,Minnesota,Utah,H,25.94,6,12,0,0,1,2,3,0,3,1,2,2,2,0,13
+2013-2014 Regular Season,4/16/14,Omri Casspi,Houston,New Orleans,R,28.65,4,10,1,2,0,0,1,7,8,1,1,0,0,0,9
+2013-2014 Regular Season,4/16/14,Terrence Jones,Houston,New Orleans,R,26.44,7,11,0,0,3,6,5,3,8,4,1,0,1,0,17
+2013-2014 Regular Season,4/16/14,Dwight Howard,Houston,New Orleans,R,25.52,1,5,0,1,5,7,0,4,4,4,3,0,3,3,7
+2013-2014 Regular Season,4/16/14,Troy Daniels,Houston,New Orleans,R,43.92,8,16,6,11,0,0,0,1,1,5,4,0,1,0,22
+2013-2014 Regular Season,4/16/14,Patrick Beverley,Houston,New Orleans,R,22.15,4,6,2,3,4,5,0,2,2,2,0,0,4,0,14
+2013-2014 Regular Season,4/16/14,Jordan Hamilton,Houston,New Orleans,R,27.05,5,10,4,7,0,0,0,1,1,3,2,1,1,0,14
+2013-2014 Regular Season,4/16/14,Isaiah Canaan,Houston,New Orleans,R,25.85,1,6,0,3,0,2,0,1,1,4,2,1,0,0,2
+2013-2014 Regular Season,4/16/14,Donatas Motiejunas,Houston,New Orleans,R,16.99,3,9,1,1,4,4,7,3,10,0,1,1,3,0,11
+2013-2014 Regular Season,4/16/14,Josh Powell,Houston,New Orleans,R,19.37,2,6,0,0,0,0,0,5,5,0,1,0,1,1,4
+2013-2014 Regular Season,4/16/14,Robert Covington,Houston,New Orleans,R,4.09,0,2,0,2,0,0,0,1,1,0,1,0,0,0,0
+2013-2014 Regular Season,4/16/14,Darius Miller,New Orleans,Houston,H,34.27,4,7,1,1,0,0,2,1,3,1,1,2,0,0,9
+2013-2014 Regular Season,4/16/14,Jeff Withey,New Orleans,Houston,H,19.94,3,5,0,0,0,0,1,5,6,1,4,1,1,5,6
+2013-2014 Regular Season,4/16/14,Alexis Ajinca,New Orleans,Houston,H,23.22,5,7,0,0,1,2,1,3,4,2,4,1,1,3,11
+2013-2014 Regular Season,4/16/14,Tyreke Evans,New Orleans,Houston,H,35.24,11,20,1,1,2,4,2,4,6,10,2,0,2,1,25
+2013-2014 Regular Season,4/16/14,Austin Rivers,New Orleans,Houston,H,43.97,6,11,2,3,4,5,0,5,5,8,2,3,3,0,18
+2013-2014 Regular Season,4/16/14,Melvin Ely,New Orleans,Houston,H,17.44,2,3,0,0,0,0,0,0,0,0,4,0,0,1,4
+2013-2014 Regular Season,4/16/14,Anthony Morrow,New Orleans,Houston,H,27.05,6,14,1,4,2,3,1,2,3,1,0,2,0,0,15
+2013-2014 Regular Season,4/16/14,Brian Roberts,New Orleans,Houston,H,4.04,0,0,0,0,3,4,0,1,1,1,1,0,0,0,3
+2013-2014 Regular Season,4/16/14,Luke Babbitt,New Orleans,Houston,H,17.45,3,10,1,3,1,2,2,6,8,0,0,1,1,0,8
+2013-2014 Regular Season,4/16/14,Al-Farouq Aminu,New Orleans,Houston,H,17.42,3,5,0,0,0,0,2,4,6,0,0,0,0,0,6
+2013-2014 Regular Season,4/16/14,Amir Johnson,Toronto,New York,R,14.94,1,3,0,1,0,2,0,4,4,0,2,1,2,0,2
+2013-2014 Regular Season,4/16/14,Terrence Ross,Toronto,New York,R,20.9,2,5,0,2,0,0,1,0,1,0,1,1,2,0,4
+2013-2014 Regular Season,4/16/14,Jonas Valanciunas,Toronto,New York,R,15.7,4,6,0,0,0,0,1,5,6,1,2,0,1,1,8
+2013-2014 Regular Season,4/16/14,DeMar DeRozan,Toronto,New York,R,21.82,2,5,0,0,5,6,2,3,5,1,1,1,3,0,9
+2013-2014 Regular Season,4/16/14,Kyle Lowry,Toronto,New York,R,26.4,8,15,3,8,3,5,0,3,3,5,4,1,4,0,22
+2013-2014 Regular Season,4/16/14,Tyler Hansbrough,Toronto,New York,R,28.1,4,8,0,0,3,5,3,6,9,0,3,2,1,0,11
+2013-2014 Regular Season,4/16/14,Greivis Vasquez,Toronto,New York,R,21.9,5,9,3,6,0,0,0,4,4,5,2,0,2,0,13
+2013-2014 Regular Season,4/16/14,Patrick Patterson,Toronto,New York,R,20.2,3,7,1,4,0,0,2,3,5,3,1,1,1,1,7
+2013-2014 Regular Season,4/16/14,Dwight Buycks,Toronto,New York,R,22.34,1,7,0,2,0,0,1,2,3,0,1,2,4,0,2
+2013-2014 Regular Season,4/16/14,Nando De Colo,Toronto,New York,R,25.69,5,12,2,4,0,0,1,2,3,4,3,0,2,0,12
+2013-2014 Regular Season,4/16/14,Chuck Hayes,Toronto,New York,R,13.15,0,0,0,0,0,0,0,1,1,0,0,0,2,0,0
+2013-2014 Regular Season,4/16/14,Steve Novak,Toronto,New York,R,8.89,1,3,0,2,0,0,1,3,4,1,0,0,0,0,2
+2013-2014 Regular Season,4/16/14,J.R. Smith,New York,Toronto,H,27.45,13,19,2,5,2,4,0,4,4,1,1,5,2,0,30
+2013-2014 Regular Season,4/16/14,Amar'e Stoudemire,New York,Toronto,H,19.65,3,7,0,0,2,2,2,3,5,1,1,0,1,0,8
+2013-2014 Regular Season,4/16/14,Cole Aldrich,New York,Toronto,H,39.6,5,8,0,0,3,4,7,9,16,1,3,2,1,5,13
+2013-2014 Regular Season,4/16/14,Pablo Prigioni,New York,Toronto,H,13.77,1,1,0,0,0,0,0,0,0,3,2,2,2,0,2
+2013-2014 Regular Season,4/16/14,Iman Shumpert,New York,Toronto,H,30.2,1,10,1,5,0,2,2,2,4,2,3,2,0,1,3
+2013-2014 Regular Season,4/16/14,Tim Hardaway,New York,Toronto,H,35.2,6,15,3,5,3,4,0,2,2,2,1,0,1,0,18
+2013-2014 Regular Season,4/16/14,Jeremy Tyler,New York,Toronto,H,24.09,2,6,0,0,2,2,0,1,1,0,4,0,1,0,6
+2013-2014 Regular Season,4/16/14,Toure' Murry,New York,Toronto,H,28.84,6,12,2,2,1,1,0,2,2,2,4,0,3,0,15
+2013-2014 Regular Season,4/16/14,Shannon Brown,New York,Toronto,H,21.22,0,3,0,0,0,0,0,2,2,1,4,1,5,0,0
+2013-2014 Regular Season,4/16/14,Kyle Singler,Detroit,Oklahoma City,R,38.14,6,9,2,4,6,6,0,0,0,2,4,0,1,0,20
+2013-2014 Regular Season,4/16/14,Greg Monroe,Detroit,Oklahoma City,R,37.85,9,19,0,0,4,9,2,6,8,9,4,1,4,1,22
+2013-2014 Regular Season,4/16/14,Andre Drummond,Detroit,Oklahoma City,R,27.9,9,16,0,0,4,8,8,5,13,0,6,2,0,1,22
+2013-2014 Regular Season,4/16/14,Kentavious Caldwell-Pope,Detroit,Oklahoma City,R,43.6,11,19,5,7,3,5,3,3,6,0,5,2,0,1,30
+2013-2014 Regular Season,4/16/14,Brandon Jennings,Detroit,Oklahoma City,R,34.04,2,9,0,5,2,3,0,4,4,7,3,0,8,0,6
+2013-2014 Regular Season,4/16/14,Luigi Datome,Detroit,Oklahoma City,R,9,1,3,0,1,0,0,1,4,5,0,2,0,1,0,2
+2013-2014 Regular Season,4/16/14,Jonas Jerebko,Detroit,Oklahoma City,R,25.02,2,3,1,1,0,0,1,3,4,0,2,0,2,0,5
+2013-2014 Regular Season,4/16/14,Peyton Siva,Detroit,Oklahoma City,R,18.37,2,4,0,1,0,0,0,0,0,2,2,0,1,0,4
+2013-2014 Regular Season,4/16/14,Tony Mitchell,Detroit,Oklahoma City,R,6.1,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0
+2013-2014 Regular Season,4/16/14,Kevin Durant,Oklahoma City,Detroit,H,45.12,14,30,1,5,13,15,2,2,4,6,3,0,3,0,42
+2013-2014 Regular Season,4/16/14,Serge Ibaka,Oklahoma City,Detroit,H,32.05,5,9,0,0,0,1,7,8,15,1,5,0,5,6,10
+2013-2014 Regular Season,4/16/14,Kendrick Perkins,Oklahoma City,Detroit,H,16.75,1,3,0,0,3,4,5,2,7,0,5,0,1,0,5
+2013-2014 Regular Season,4/16/14,Thabo Sefolosha,Oklahoma City,Detroit,H,25.6,3,7,0,4,1,2,1,3,4,3,0,2,0,0,7
+2013-2014 Regular Season,4/16/14,Russell Westbrook,Oklahoma City,Detroit,H,34.04,5,15,0,3,12,15,3,3,6,8,3,6,4,0,22
+2013-2014 Regular Season,4/16/14,Nick Collison,Oklahoma City,Detroit,H,15.27,2,3,0,0,0,0,3,0,3,2,3,0,1,0,4
+2013-2014 Regular Season,4/16/14,Steven Adams,Oklahoma City,Detroit,H,10.7,0,1,0,0,1,2,2,0,2,0,0,0,0,0,1
+2013-2014 Regular Season,4/16/14,Caron Butler,Oklahoma City,Detroit,H,17.95,0,1,0,0,0,0,0,2,2,1,1,0,0,0,0
+2013-2014 Regular Season,4/16/14,Reggie Jackson,Oklahoma City,Detroit,H,26.7,6,11,3,7,0,0,1,4,5,2,1,2,0,0,15
+2013-2014 Regular Season,4/16/14,Derek Fisher,Oklahoma City,Detroit,H,15.84,2,6,1,4,1,2,0,1,1,0,1,0,1,1,6
+2013-2014 Regular Season,4/16/14,Wesley Johnson,LA Lakers,San Antonio,R,34.64,5,17,1,7,0,0,1,10,11,2,1,0,0,0,11
+2013-2014 Regular Season,4/16/14,Ryan Kelly,LA Lakers,San Antonio,R,36.6,6,11,0,3,0,0,1,7,8,2,3,0,1,0,12
+2013-2014 Regular Season,4/16/14,Jordan Hill,LA Lakers,San Antonio,R,27.85,7,13,0,0,4,6,3,11,14,2,1,1,0,2,18
+2013-2014 Regular Season,4/16/14,Jodie Meeks,LA Lakers,San Antonio,R,30.42,5,6,2,2,2,2,0,3,3,3,1,2,1,0,14
+2013-2014 Regular Season,4/16/14,Kendall Marshall,LA Lakers,San Antonio,R,27.54,5,7,4,4,1,2,0,2,2,11,2,0,4,0,15
+2013-2014 Regular Season,4/16/14,Nick Young,LA Lakers,San Antonio,R,29.84,6,12,2,5,2,3,0,6,6,2,2,1,0,0,16
+2013-2014 Regular Season,4/16/14,Robert Sacre,LA Lakers,San Antonio,R,23.92,4,10,0,0,2,2,1,2,3,1,5,0,0,0,10
+2013-2014 Regular Season,4/16/14,Jordan Farmar,LA Lakers,San Antonio,R,20.47,4,11,2,5,0,0,0,2,2,6,1,0,2,0,10
+2013-2014 Regular Season,4/16/14,MarShon Brooks,LA Lakers,San Antonio,R,8.75,3,4,0,1,1,2,0,1,1,0,1,0,1,0,7
+2013-2014 Regular Season,4/16/14,Kawhi Leonard,San Antonio,LA Lakers,H,23.72,6,10,2,5,0,0,0,5,5,4,3,0,0,2,14
+2013-2014 Regular Season,4/16/14,Aron Baynes,San Antonio,LA Lakers,H,14.5,1,3,0,0,0,0,3,1,4,0,1,0,0,0,2
+2013-2014 Regular Season,4/16/14,Tiago Splitter,San Antonio,LA Lakers,H,26.34,6,13,0,1,0,0,4,4,8,1,1,0,1,1,12
+2013-2014 Regular Season,4/16/14,Danny Green,San Antonio,LA Lakers,H,19.67,3,13,2,10,0,0,1,5,6,0,1,0,0,1,8
+2013-2014 Regular Season,4/16/14,Tony Parker,San Antonio,LA Lakers,H,15.85,5,10,0,1,2,2,0,2,2,4,2,1,0,0,12
+2013-2014 Regular Season,4/16/14,Manu Ginobili,San Antonio,LA Lakers,H,22.94,4,9,2,4,0,0,0,1,1,5,3,1,2,0,10
+2013-2014 Regular Season,4/16/14,Boris Diaw,San Antonio,LA Lakers,H,16.75,0,4,0,0,0,0,0,3,3,4,0,0,1,0,0
+2013-2014 Regular Season,4/16/14,Jeff Ayres,San Antonio,LA Lakers,H,21.67,1,4,0,0,0,0,2,4,6,2,3,0,1,1,2
+2013-2014 Regular Season,4/16/14,Patrick Mills,San Antonio,LA Lakers,H,14.19,4,9,1,3,0,0,0,2,2,1,0,0,1,0,9
+2013-2014 Regular Season,4/16/14,Cory Joseph,San Antonio,LA Lakers,H,21.49,5,11,0,1,2,2,0,2,2,3,2,1,2,0,12
+2013-2014 Regular Season,4/16/14,Matt Bonner,San Antonio,LA Lakers,H,16.75,2,5,2,3,0,0,0,8,8,0,0,0,0,1,6
+2013-2014 Regular Season,4/16/14,Austin Daye,San Antonio,LA Lakers,H,14.17,4,6,1,2,4,6,0,2,2,0,2,0,1,0,13
+2013-2014 Regular Season,4/16/14,Damion James,San Antonio,LA Lakers,H,12,0,2,0,0,0,0,0,0,0,1,1,0,0,0,0
+2013-2014 Regular Season,4/16/14,Harrison Barnes,Golden State,Denver,R,48,11,21,3,5,5,12,1,4,5,3,2,1,3,0,30
+2013-2014 Regular Season,4/16/14,Marreese Speights,Golden State,Denver,R,30.87,5,15,0,0,1,2,3,3,6,3,6,1,3,1,11
+2013-2014 Regular Season,4/16/14,Hilton Armstrong,Golden State,Denver,R,31.59,3,6,0,0,4,7,2,8,10,2,6,0,2,2,10
+2013-2014 Regular Season,4/16/14,Klay Thompson,Golden State,Denver,R,7.6,3,5,2,4,0,0,0,1,1,1,0,0,0,0,8
+2013-2014 Regular Season,4/16/14,Steve Blake,Golden State,Denver,R,47.19,3,10,1,4,1,2,0,7,7,15,0,7,3,0,8
+2013-2014 Regular Season,4/16/14,Ognjen Kuzmic,Golden State,Denver,R,30.72,2,2,0,0,2,4,2,5,7,0,5,2,0,0,6
+2013-2014 Regular Season,4/16/14,Jordan Crawford,Golden State,Denver,R,41.24,16,28,2,8,7,8,1,4,5,3,3,1,3,1,41
+2013-2014 Regular Season,4/16/14,Draymond Green,Golden State,Denver,R,2.82,1,3,0,2,0,0,2,2,4,0,1,0,0,0,2
+2013-2014 Regular Season,4/16/14,Quincy Miller,Denver,Golden State,H,22.75,2,6,0,3,2,2,1,6,7,1,5,0,1,1,6
+2013-2014 Regular Season,4/16/14,Kenneth Faried,Denver,Golden State,H,37.54,7,17,0,0,1,4,5,8,13,0,3,0,5,0,15
+2013-2014 Regular Season,4/16/14,Timofey Mozgov,Denver,Golden State,H,25.29,2,3,0,1,6,6,2,3,5,1,3,0,3,2,10
+2013-2014 Regular Season,4/16/14,Randy Foye,Denver,Golden State,H,42.59,10,21,3,10,9,12,0,2,2,11,1,0,5,1,32
+2013-2014 Regular Season,4/16/14,Aaron Brooks,Denver,Golden State,H,25.49,3,10,2,5,0,0,0,1,1,6,4,0,0,0,8
+2013-2014 Regular Season,4/16/14,Wilson Chandler,Denver,Golden State,H,30.7,2,5,0,2,2,2,1,3,4,2,3,2,2,0,6
+2013-2014 Regular Season,4/16/14,Jan Vesely,Denver,Golden State,H,13.64,2,2,0,0,0,0,0,3,3,0,3,1,3,0,4
+2013-2014 Regular Season,4/16/14,Evan Fournier,Denver,Golden State,H,22.57,3,11,1,7,5,5,0,2,2,1,2,0,0,0,12
+2013-2014 Regular Season,4/16/14,Anthony Randolph,Denver,Golden State,H,19.47,6,9,3,6,4,4,0,5,5,1,4,1,0,0,19
+2013-2014 Regular Season,4/16/14,Matt Barnes,LA Clippers,Portland,R,33.19,6,11,2,6,5,6,0,8,8,1,5,0,1,0,19
+2013-2014 Regular Season,4/16/14,Glen Davis,LA Clippers,Portland,R,32.62,3,7,0,0,1,2,4,3,7,0,1,1,1,0,7
+2013-2014 Regular Season,4/16/14,DeAndre Jordan,LA Clippers,Portland,R,1.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2013-2014 Regular Season,4/16/14,Jamal Crawford,LA Clippers,Portland,R,41.59,10,25,3,10,11,11,1,4,5,8,2,2,2,0,34
+2013-2014 Regular Season,4/16/14,Darren Collison,LA Clippers,Portland,R,37.25,6,12,0,4,7,8,0,4,4,7,1,0,2,0,19
+2013-2014 Regular Season,4/16/14,Jared Dudley,LA Clippers,Portland,R,25.5,3,11,0,5,1,2,1,4,5,0,2,0,0,0,7
+2013-2014 Regular Season,4/16/14,Reggie Bullock,LA Clippers,Portland,R,16.1,0,2,0,2,0,0,0,2,2,2,0,0,1,0,0
+2013-2014 Regular Season,4/16/14,Ryan Hollins,LA Clippers,Portland,R,14.39,0,1,0,0,2,2,1,1,2,1,3,0,1,4,2
+2013-2014 Regular Season,4/16/14,Willie Green,LA Clippers,Portland,R,23.19,3,8,1,2,1,2,1,3,4,0,4,0,0,0,8
+2013-2014 Regular Season,4/16/14,Hedo Turkoglu,LA Clippers,Portland,R,14.82,3,7,2,5,0,0,0,5,5,1,2,1,0,0,8
+2013-2014 Regular Season,4/16/14,Nicolas Batum,Portland,LA Clippers,H,12,3,6,0,2,1,2,1,3,4,4,0,0,2,0,7
+2013-2014 Regular Season,4/16/14,Dorell Wright,Portland,LA Clippers,H,12,1,3,0,1,0,0,0,6,6,1,0,0,1,1,2
+2013-2014 Regular Season,4/16/14,Robin Lopez,Portland,LA Clippers,H,14.14,7,10,0,0,1,2,7,2,9,1,1,0,0,0,15
+2013-2014 Regular Season,4/16/14,Wesley Matthews,Portland,LA Clippers,H,12,3,7,2,5,0,0,0,0,0,3,1,0,0,0,8
+2013-2014 Regular Season,4/16/14,Damian Lillard,Portland,LA Clippers,H,12,3,5,3,4,0,0,0,0,0,2,1,1,0,0,9
+2013-2014 Regular Season,4/16/14,C.J. McCollum,Portland,LA Clippers,H,28,5,9,1,2,1,2,0,4,4,3,5,0,3,0,12
+2013-2014 Regular Season,4/16/14,Joel Freeland,Portland,LA Clippers,H,17.77,3,7,0,0,0,0,2,5,7,2,1,0,0,0,6
+2013-2014 Regular Season,4/16/14,Earl Watson,Portland,LA Clippers,H,15.57,0,3,0,1,0,0,0,0,0,2,3,0,0,0,0
+2013-2014 Regular Season,4/16/14,Thomas Robinson,Portland,LA Clippers,H,12.8,1,6,0,0,3,4,4,2,6,2,0,0,0,0,5
+2013-2014 Regular Season,4/16/14,Will Barton,Portland,LA Clippers,H,35.4,7,20,3,7,6,8,2,8,10,2,2,1,2,0,23
+2013-2014 Regular Season,4/16/14,Meyers Leonard,Portland,LA Clippers,H,16.1,3,8,0,0,1,1,3,5,8,1,3,0,1,0,7
+2013-2014 Regular Season,4/16/14,Allen Crabbe,Portland,LA Clippers,H,29.04,2,8,0,1,0,0,1,4,5,2,6,1,0,1,4
+2013-2014 Regular Season,4/16/14,Victor Claver,Portland,LA Clippers,H,23.2,4,9,1,3,3,3,4,2,6,4,0,2,1,0,12
+2013-2014 Regular Season,4/16/14,P.J. Tucker,Phoenix,Sacramento,R,16.69,0,4,0,1,2,2,0,4,4,0,0,1,1,0,2
+2013-2014 Regular Season,4/16/14,Channing Frye,Phoenix,Sacramento,R,20.5,2,6,1,3,0,0,0,4,4,1,3,1,0,0,5
+2013-2014 Regular Season,4/16/14,Miles Plumlee,Phoenix,Sacramento,R,12.55,1,3,0,0,0,0,1,1,2,0,0,0,1,1,2
+2013-2014 Regular Season,4/16/14,Gerald Green,Phoenix,Sacramento,R,16.69,5,11,2,5,0,0,0,3,3,0,0,0,0,0,12
+2013-2014 Regular Season,4/16/14,Eric Bledsoe,Phoenix,Sacramento,R,16.7,2,6,1,1,1,2,1,1,2,2,0,0,0,0,6
+2013-2014 Regular Season,4/16/14,Markieff Morris,Phoenix,Sacramento,R,27.9,7,13,0,0,1,1,0,5,5,4,1,0,0,1,15
+2013-2014 Regular Season,4/16/14,Alex Len,Phoenix,Sacramento,R,16.3,0,4,0,0,0,0,0,4,4,0,1,1,2,1,0
+2013-2014 Regular Season,4/16/14,Ishmael Smith,Phoenix,Sacramento,R,27,4,7,0,1,0,0,0,2,2,8,1,1,1,1,8
+2013-2014 Regular Season,4/16/14,Marcus Morris,Phoenix,Sacramento,R,31.32,7,15,2,4,6,8,1,5,6,0,5,2,1,0,22
+2013-2014 Regular Season,4/16/14,Archie Goodwin,Phoenix,Sacramento,R,31.32,11,13,1,3,6,7,3,1,4,1,5,2,3,0,29
+2013-2014 Regular Season,4/16/14,Shavlik Randolph,Phoenix,Sacramento,R,15.57,0,0,0,0,0,0,0,1,1,0,4,1,2,1,0
+2013-2014 Regular Season,4/16/14,Dionte Christmas,Phoenix,Sacramento,R,7.49,1,4,1,2,0,2,1,2,3,0,1,0,0,0,3
+2013-2014 Regular Season,4/16/14,Rudy Gay,Sacramento,Phoenix,H,16.12,3,8,0,1,0,0,1,5,6,2,1,0,1,0,6
+2013-2014 Regular Season,4/16/14,Derrick Williams,Sacramento,Phoenix,H,30.57,3,8,0,2,1,2,0,3,3,1,1,1,0,1,7
+2013-2014 Regular Season,4/16/14,Jason Thompson,Sacramento,Phoenix,H,21.15,4,9,0,0,0,0,1,10,11,0,1,1,2,1,8
+2013-2014 Regular Season,4/16/14,Ben McLemore,Sacramento,Phoenix,H,42.34,9,20,3,9,10,15,0,5,5,5,1,1,2,0,31
+2013-2014 Regular Season,4/16/14,Isaiah Thomas,Sacramento,Phoenix,H,16.7,2,5,0,3,0,0,0,0,0,4,2,0,2,1,4
+2013-2014 Regular Season,4/16/14,Ray McCallum,Sacramento,Phoenix,H,31.3,5,12,0,0,3,4,0,2,2,2,2,1,3,0,13
+2013-2014 Regular Season,4/16/14,Travis Outlaw,Sacramento,Phoenix,H,24.62,5,10,1,3,4,4,0,5,5,2,2,1,1,0,15
+2013-2014 Regular Season,4/16/14,Quincy Acy,Sacramento,Phoenix,H,24.7,3,6,0,1,3,5,5,3,8,1,3,1,2,0,9
+2013-2014 Regular Season,4/16/14,Jared Cunningham,Sacramento,Phoenix,H,6.49,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0
+2013-2014 Regular Season,4/16/14,Aaron Gray,Sacramento,Phoenix,H,26.04,3,8,0,0,0,0,6,7,13,2,5,2,4,0,6
+2014 Playoffs,4/19/14,Joe Johnson,Brooklyn,Toronto,R,44.5,8,13,0,1,8,8,0,8,8,4,2,2,2,0,24
+2014 Playoffs,4/19/14,Paul Pierce,Brooklyn,Toronto,R,35.54,6,13,2,5,1,1,0,4,4,4,2,1,1,1,15
+2014 Playoffs,4/19/14,Kevin Garnett,Brooklyn,Toronto,R,20.09,1,5,0,0,3,6,1,7,8,1,2,2,1,1,5
+2014 Playoffs,4/19/14,Shaun Livingston,Brooklyn,Toronto,R,29.3,4,6,0,0,2,2,0,3,3,3,4,0,0,0,10
+2014 Playoffs,4/19/14,Deron Williams,Brooklyn,Toronto,R,38.8,8,20,2,6,6,6,0,1,1,3,2,1,1,0,24
+2014 Playoffs,4/19/14,Mason Plumlee,Brooklyn,Toronto,R,11.75,1,1,0,0,0,0,0,3,3,0,5,0,1,0,2
+2014 Playoffs,4/19/14,Alan Anderson,Brooklyn,Toronto,R,18.75,3,7,0,3,0,0,1,1,2,1,0,2,1,0,6
+2014 Playoffs,4/19/14,Mirza Teletovic,Brooklyn,Toronto,R,12.47,1,6,0,5,0,0,1,1,2,0,1,1,0,0,2
+2014 Playoffs,4/19/14,Andray Blatche,Brooklyn,Toronto,R,16.17,2,5,0,0,1,2,4,2,6,0,1,0,1,0,5
+2014 Playoffs,4/19/14,Marcus Thornton,Brooklyn,Toronto,R,12.65,0,4,0,4,1,2,0,0,0,0,0,0,0,0,1
+2014 Playoffs,4/19/14,Terrence Ross,Toronto,Brooklyn,H,16.24,1,4,1,4,0,0,0,3,3,0,4,1,1,0,3
+2014 Playoffs,4/19/14,Amir Johnson,Toronto,Brooklyn,H,21.47,1,2,0,0,0,0,1,2,3,0,2,0,1,0,2
+2014 Playoffs,4/19/14,Jonas Valanciunas,Toronto,Brooklyn,H,35,7,13,0,0,3,4,5,13,18,2,3,0,6,2,17
+2014 Playoffs,4/19/14,DeMar DeRozan,Toronto,Brooklyn,H,37.09,3,13,0,4,8,8,0,2,2,1,2,0,3,1,14
+2014 Playoffs,4/19/14,Kyle Lowry,Toronto,Brooklyn,H,44.04,7,18,3,7,5,6,1,6,7,8,3,2,5,0,22
+2014 Playoffs,4/19/14,John Salmons,Toronto,Brooklyn,H,13.32,0,1,0,1,0,0,0,1,1,0,1,0,0,0,0
+2014 Playoffs,4/19/14,Greivis Vasquez,Toronto,Brooklyn,H,29.22,5,11,3,5,5,5,0,4,4,8,4,0,1,0,18
+2014 Playoffs,4/19/14,Patrick Patterson,Toronto,Brooklyn,H,26.3,4,8,1,2,0,0,1,4,5,2,1,0,0,1,9
+2014 Playoffs,4/19/14,Tyler Hansbrough,Toronto,Brooklyn,H,6.7,0,0,0,0,2,2,0,1,1,1,1,0,0,0,2
+2014 Playoffs,4/19/14,Nando De Colo,Toronto,Brooklyn,H,3.79,0,0,0,0,0,0,0,1,1,0,2,0,0,0,0
+2014 Playoffs,4/19/14,Steve Novak,Toronto,Brooklyn,H,0.55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014 Playoffs,4/19/14,Chuck Hayes,Toronto,Brooklyn,H,6.32,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014 Playoffs,4/19/14,Andre Iguodala,Golden State,LA Clippers,R,20.25,3,6,0,1,2,2,0,1,1,3,6,0,1,0,8
+2014 Playoffs,4/19/14,David Lee,Golden State,LA Clippers,R,35.57,8,13,0,0,4,4,3,10,13,3,4,1,6,0,20
+2014 Playoffs,4/19/14,Jermaine O'Neal,Golden State,LA Clippers,R,25.24,6,9,0,0,1,1,3,0,3,1,4,1,1,0,13
+2014 Playoffs,4/19/14,Klay Thompson,Golden State,LA Clippers,R,41.12,7,20,4,7,4,6,2,5,7,5,4,0,4,1,22
+2014 Playoffs,4/19/14,Stephen Curry,Golden State,LA Clippers,R,44.65,6,16,2,6,0,0,1,2,3,7,1,3,7,0,14
+2014 Playoffs,4/19/14,Draymond Green,Golden State,LA Clippers,R,22.07,2,5,1,3,2,4,1,6,7,4,3,0,1,2,7
+2014 Playoffs,4/19/14,Steve Blake,Golden State,LA Clippers,R,7.27,1,3,1,3,0,0,0,0,0,0,0,0,0,0,3
+2014 Playoffs,4/19/14,Harrison Barnes,Golden State,LA Clippers,R,23.54,4,11,3,6,3,6,3,5,8,1,2,0,0,1,14
+2014 Playoffs,4/19/14,Marreese Speights,Golden State,LA Clippers,R,13.55,3,5,0,0,0,0,2,3,5,1,3,0,0,1,6
+2014 Playoffs,4/19/14,Jordan Crawford,Golden State,LA Clippers,R,4.65,0,2,0,1,2,2,0,0,0,0,0,0,0,0,2
+2014 Playoffs,4/19/14,Hilton Armstrong,Golden State,LA Clippers,R,2.12,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0
+2014 Playoffs,4/19/14,Ognjen Kuzmic,Golden State,LA Clippers,R,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2014 Playoffs,4/19/14,Matt Barnes,LA Clippers,Golden State,H,23.09,0,3,0,1,2,2,2,1,3,3,4,0,1,0,2
+2014 Playoffs,4/19/14,Blake Griffin,LA Clippers,Golden State,H,19.24,6,13,0,0,4,4,2,1,3,3,6,0,1,1,16
+2014 Playoffs,4/19/14,DeAndre Jordan,LA Clippers,Golden State,H,44.97,4,5,0,0,3,8,5,9,14,0,3,2,7,5,11
+2014 Playoffs,4/19/14,J.J. Redick,LA Clippers,Golden State,H,30.07,8,11,4,5,2,2,1,1,2,2,1,1,0,0,22
+2014 Playoffs,4/19/14,Chris Paul,LA Clippers,Golden State,H,36.24,10,23,5,9,3,6,1,6,7,8,5,4,6,0,28
+2014 Playoffs,4/19/14,Glen Davis,LA Clippers,Golden State,H,21.5,3,4,0,0,0,0,1,5,6,3,1,3,0,0,6
