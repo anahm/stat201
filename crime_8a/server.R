@@ -10,11 +10,7 @@ shinyServer(function(input, output) {
 
   output$distPlot <- renderPlot({
     # subset the data
-#     subset.data <- subset(data, data$PTS <= input$points[2] &
-#       data$MIN <= input$minutes[2] & data$PTS >= input$points[1] &
-#       data$MIN >= input$minutes[1] & data$TOT <= input$rebounds &
-#       data$A <= input$assists & data$ST <= input$steals &
-#       data$BL <= input$blocks)
+     subset.data <- Filterdata[, data['WEAPON'] %in% input$weapon]
     print(length(input$weapon))
     
     p <- ggplot(data=subset.data) +
