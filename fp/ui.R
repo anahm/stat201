@@ -4,48 +4,45 @@ library(shiny)
 shinyUI(fluidPage(
 
   # Application title
-  titlePanel("Alex is OK"),
+  titlePanel("Confidence Intervals in Detail"),
 
-  tabsetPanel(position='below',
+  tabsetPanel(position='above',
     tabPanel('Confidence Intervals',
+             checkboxGroupInput("Attribute", "Attribute:",
+                                c("Influence" = "Influence",
+                                  "Susceptibility" = "Susceptibility")),
+             selectInput("Cat", "Choose your Category:", choices = 
+                           c('Age'='age',
+                             'Gender'='gender', 
+                             'Relationship'='relationship')),
+             conditionalPanel(
+               condition = "input.Cat == 'age'",
+               checkboxGroupInput("Ages", "Ages:",
+                                  c("Age (0-18)" = "Age (0-18)",
+                                    "Age (18-23)" = "Age (18-23)",
+                                    "Age (23-31)" = "Age (23-31)",
+                                    "Age (31+)" = "Age (31+)"))),
+             conditionalPanel(
+               condition = "input.Cat == 'gender'",
+               checkboxGroupInput("Gender", "Gender:",
+                                  c("Male" = "Male",
+                                    "Female" = "Female"))),
+             conditionalPanel(
+               condition = "input.Cat == 'relationship'",
+               checkboxGroupInput("Relationship", "Relationship:",
+                                  c("Single" = "Single",
+                                    "Relationship" = "Relationship",
+                                    "Engaged" = "Engaged",
+                                    "Married" = "Married",
+                                    "Complicated" = "Complicated"))),
+             width = 2),
       mainPanel(
+        tags$style(type="text/css",
+                   ".shiny-output-error { visibility: hidden; }",
+                   ".shiny-output-error:before { visibility: hidden; }"),
         # TODO: insert confidence interval stuff here
-      )
-    ),
-
-    tabPanel('Heat Map',
-      # Sidebar with textbox and a bunch ofslider input
-      # TODO: how come the side bar is above the tabpanel?
-      sidebarLayout(
-        sidebarPanel(
-          checkboxGroupInput("weapon", "Weapon Type:",
-                             c("Shotgun" = "Shotgun",
-                               "Handgun" = "Handgun",
-                               "Rifle" = "Rifle",
-                               "Blunt Object" = "Blunt Object",
-                               "Knife" = "Knife",
-                               "Personal Weapon" = "Personal Weapon",
-                               "Strangulation" = "Strangulation",
-                               "Unknown" = "Unknown",
-                               "Firearm" = "Firearm",
-                               "Drowning" = "Drowning",
-                               "Fire" = "Fire",
-                               "Explosives" = "Explosives",
-                               "Asphyxiation" = "Asphyxiation",
-                               "Drugs" = "Drugs",
-                               "Other Gun" = "Other Gun",
-                               "Poison" = "Poison",
-                               "Pushed out Window" = "Pushed out Window"),
-                             selected = c("Shotgun","Handgun",
-                               "Rifle","Blunt Object","Knife","Personal Weapon","Strangulation",
-                               "Unknown","Firearm","Drowning","Fire","Explosives","Asphyxiation",
-                               "Drugs","Other Gun","Poison","Pushed out Window"))
-        , width = 2),
-
-        # Show a plot of the generated distribution
-        mainPanel()
+        plotOutput("ci_plot")
       )
     )
-  )
 ))
 

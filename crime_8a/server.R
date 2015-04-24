@@ -47,7 +47,7 @@ output$a_distPlot <- renderPlot({
   
   
   q <- ggplot(data=subset.data) +
-    geom_point(aes(x=VICAGE, y = OFFAGE))
+    geom_point(aes(x=VICAGE, y = OFFAGE), alpha = 0.3)
   print(q)
   
 })
