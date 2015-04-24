@@ -25,16 +25,16 @@ shinyUI(fluidPage(
              conditionalPanel(
                condition = "input.Cat == 'gender'",
                checkboxGroupInput("Gender", "Gender:",
-                                  c("Male" = "Male",
-                                    "Female" = "Female"))),
+                                  c("Female" = "Female",
+                                    "Male" = "Male"))),
              conditionalPanel(
                condition = "input.Cat == 'relationship'",
                checkboxGroupInput("Relationship", "Relationship:",
-                                  c("Single" = "Single",
-                                    "Relationship" = "Relationship",
+                                  c("Complicated" = "Complicated",
                                     "Engaged" = "Engaged",
                                     "Married" = "Married",
-                                    "Complicated" = "Complicated"))),
+                                    "Relationship" = "Relationship",
+                                    "Single" = "Single"))),
              width = 2),
       mainPanel(
         tags$style(type="text/css",
